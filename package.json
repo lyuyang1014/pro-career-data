@@ -1,0 +1,11 @@
+{
+  "name": "pro-career-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "京蔚联小程序「职业一生」用的历史足球数据：联赛积分榜、大赛、同年球星履历、各国出生人数（按来源许可分目录）",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "scripts": {
+    "fetch": "node scripts/fetch.js",
+    "build": "node scripts/build.js"
+  }
+}
