@@ -4,7 +4,7 @@
  *   of  openfootball/football.json 的文件名（如 en.1）
  *   tm  transfermarkt-datasets 的 competition_id
  *   es  engsoccerdata data-raw 的文件名和 tier（GPL）
- *   rsssf  RSSSF 整理的赛季（目前只有中国甲 A 1994–2003）
+ *   rsssf  RSSSF 整理的赛季（中国甲 A / 中超、俄超，范围见 standings.js RSSSF_PAGES）
  * calendar: true 的联赛按自然年（赛季号 = 年份），其余按 7 月到次年 6 月（赛季号 = 开始那年）
  * exclude：赛制特殊、逐场积分排不出真实名次的赛季（如中超 2020 分组 + 附加赛），不收
  * playoffTitle：冠军由季后赛 / 附加赛决定，积分榜第一不等于冠军（玩法里不按榜首发联赛冠军）
@@ -35,7 +35,7 @@ const LEAGUES = [
   { code: 'AUT2', name: '奥地利乙', en: '2. Liga', country: 'AUT', level: 2, of: 'at.2' },
   { code: 'SUI1', name: '瑞士超', en: 'Swiss Super League', country: 'CHE', level: 1, of: 'ch.1', tm: 'C1' },
   { code: 'DEN1', name: '丹麦超', en: 'Danish Superliga', country: 'DNK', level: 1, tm: 'DK1' },
-  { code: 'RUS1', name: '俄超', en: 'Russian Premier League', country: 'RUS', level: 1, of: 'ru.1', tm: 'RU1' },
+  { code: 'RUS1', name: '俄超', en: 'Russian Premier League', country: 'RUS', level: 1, of: 'ru.1', tm: 'RU1', rsssf: true },
   { code: 'UKR1', name: '乌超', en: 'Ukrainian Premier League', country: 'UKR', level: 1, tm: 'UKR1' },
   { code: 'CZE1', name: '捷克甲', en: 'Czech First League', country: 'CZE', level: 1, of: 'cz.1', tm: 'TS1' },
   { code: 'HUN1', name: '匈牙利甲', en: 'NB I', country: 'HUN', level: 1, of: 'hu.1' },

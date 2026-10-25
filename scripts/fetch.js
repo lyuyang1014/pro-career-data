@@ -26,9 +26,13 @@ const FILES = {
   'tm_clubs.csv.gz': 'https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/clubs.csv.gz',
   'wpp2024.csv.gz': 'https://population.un.org/wpp/assets/Excel%20Files/1_Indicator%20(Standard)/CSV_FILES/WPP2024_Demographic_Indicators_Medium.csv.gz'
 };
-// RSSSF 中国甲 A 1994–2003 各季页面（只整理积分榜数字，逐页署名）
+// RSSSF 各季页面：中国甲 A / 中超、俄超（只整理积分榜数字，逐页署名；范围见 lib/standings.js RSSSF_PAGES）
+const { RSSSF_PAGES, rsssfUrl } = require('./lib/standings');
 const RSSSF = {};
-for (let y = 1994; y <= 2003; y++) RSSSF['rsssf/china' + String(y).slice(2) + '.html'] = 'https://www.rsssf.org/tablesc/china' + String(y).slice(2) + '.html';
+Object.keys(RSSSF_PAGES).forEach((code) => {
+  const c = RSSSF_PAGES[code];
+  for (let y = c.from; y <= c.to; y++) if (c.skip.indexOf(y) < 0) RSSSF['rsssf/' + c.file(y) + '.html'] = rsssfUrl(code, y);
+});
 
 function curl(url, out) {
   fs.mkdirSync(path.dirname(out), { recursive: true });

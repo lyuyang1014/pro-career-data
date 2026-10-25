@@ -21,7 +21,7 @@ data/
   gpl/                       GPL-2.0-or-later：engsoccerdata 衍生
     standings.csv
     champions-league.json    欧冠 1990/91–2010/11
-  rsssf/                     RSSSF：中国甲 A 1994–2003 积分榜（逐行带页面地址和作者）
+  rsssf/                     RSSSF：中国甲 A / 中超 1994–2024、俄超 1993–2010 积分榜（逐行带页面地址和作者）
   cc-by-3.0-igo/births.csv   联合国 WPP 2024 各国逐年出生人数
   manifest.json              版本、各联赛各赛季用的来源
 manifests/
@@ -65,7 +65,7 @@ Files are split into directories **by licence**; each file belongs to exactly on
 | --- | --- | --- |
 | `data/cc0/` | CC0 1.0 | openfootball/football.json (public domain), transfermarkt-datasets (CC0), martj42/international_results (CC0), Wikidata (CC0) |
 | `data/gpl/` | GPL-2.0-or-later | derived from engsoccerdata by James P. Curley |
-| `data/rsssf/` | attribution required | RSSSF Chinese Jia-A tables 1994–2003, each row credits the page and author |
+| `data/rsssf/` | attribution required | RSSSF Chinese Jia-A / Super League 1994–2024 and Russian top flight 1993–2010 tables, each row credits the page and author |
 | `data/cc-by-3.0-igo/` | CC BY 3.0 IGO | UN World Population Prospects 2024 |
 | `manifests/`, `scripts/` | CC0 1.0 | our own work |
 

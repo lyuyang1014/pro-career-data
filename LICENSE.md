@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | `data/cc0/` | CC0 1.0（公有领域贡献） | openfootball / football.json（公有领域）、transfermarkt-datasets（CC0 1.0）、martj42 international_results（CC0 1.0）、Wikidata（CC0 1.0） |
 | `data/gpl/` | **GPL-2.0-or-later** | 由 engsoccerdata（James P. Curley，GPL-2 或更高版本）衍生 |
-| `data/rsssf/` | 注明出处（RSSSF 的使用条件） | RSSSF 中国甲 A 1994–2003 各季积分榜，逐页署名 |
+| `data/rsssf/` | 注明出处（RSSSF 的使用条件） | RSSSF 中国甲 A / 中超 1994–2024、俄超 1993–2010 各季积分榜，逐页署名 |
 | `data/cc-by-3.0-igo/` | CC BY 3.0 IGO | 联合国《世界人口展望 2024》 |
 | `scripts/` | CC0 1.0 | 生成上面这些数据的脚本（自己写的，没有引入 engsoccerdata 的代码） |
 

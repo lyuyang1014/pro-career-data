@@ -1,0 +1,8553 @@
+{
+ "_license": "CC0 1.0（队名是事实，不受版权保护；整理方式按 CC0 放弃权利）",
+ "_source": "主队目录、Wikidata 中文标签、英文维基百科 → 中文维基语言链接（zh-cn 变体），中国 / 俄罗斯球队手工核对；年代队名按当年积分榜来源的冠名对照（见 https://github.com/lyuyang1014/pro-career-data 的 scripts/pro-career/club-names.js）",
+ "clubs": {
+  ":1 lokomotive leipzig": {
+   "zh": "莱比锡二队"
+  },
+  ":ado den haag": {
+   "zh": "ADO海牙"
+  },
+  ":agovv apeldoorn": {
+   "zh": "阿培尔顿阿高夫"
+  },
+  ":ajax": {
+   "zh": "阿贾克斯"
+  },
+  ":az alkmaar": {
+   "zh": "阿尔克马尔"
+  },
+  ":den bosch": {
+   "zh": "邓伯什"
+  },
+  ":dordrecht": {
+   "zh": "多德雷赫特"
+  },
+  ":dws": {
+   "zh": "DWS"
+  },
+  ":emmen": {
+   "zh": "埃门"
+  },
+  ":excelsior rotterdam": {
+   "zh": "SBV精英"
+  },
+  ":feyenoord": {
+   "zh": "费耶诺德"
+  },
+  ":fortuna sittard": {
+   "zh": "福图纳锡塔德"
+  },
+  ":go ahead eagles": {
+   "zh": "前进伊高斯"
+  },
+  ":graafschap": {
+   "zh": "格拉夫夏普"
+  },
+  ":groningen": {
+   "zh": "格罗宁根"
+  },
+  ":heerenveen": {
+   "zh": "海伦芬体育"
+  },
+  ":helmond": {
+   "zh": "赫尔蒙德体育"
+  },
+  ":hfc haarlem": {
+   "zh": "夏亚林"
+  },
+  ":international military sports council": {
+   "zh": "军事体育"
+  },
+  ":jong ajax": {
+   "zh": "阿积士青年队"
+  },
+  ":jong az": {
+   "zh": "AZ青年队"
+  },
+  ":jong gent": {
+   "zh": "皇家根特"
+  },
+  ":jong psv": {
+   "zh": "埃因霍温青年队"
+  },
+  ":jong twente": {
+   "zh": "特温特"
+  },
+  ":league of ireland xi": {
+   "zh": "爱尔兰联赛全明星"
+  },
+  ":mvv maastricht": {
+   "zh": "马斯特里赫特"
+  },
+  ":nac breda": {
+   "zh": "NAC布雷达"
+  },
+  ":nec": {
+   "zh": "NEC奈梅亨"
+  },
+  ":pec zwolle": {
+   "zh": "PEC兹沃勒"
+  },
+  ":psv": {
+   "zh": "PSV埃因霍温"
+  },
+  ":rbc roosendaal": {
+   "zh": "RBC罗辛达"
+  },
+  ":rkc waalwijk": {
+   "zh": "RKC瓦尔韦克"
+  },
+  ":roda jc kerkrade": {
+   "zh": "洛達JC"
+  },
+  ":roma": {
+   "zh": "罗马"
+  },
+  ":sbv vitesse": {
+   "zh": "维特斯"
+  },
+  ":sparta rotterdam": {
+   "zh": "鹿特丹斯巴达"
+  },
+  ":telstar": {
+   "zh": "特尔斯达"
+  },
+  ":twente": {
+   "zh": "特温特"
+  },
+  ":utrecht": {
+   "zh": "乌得勒支"
+  },
+  ":volendam": {
+   "zh": "禾宁丹"
+  },
+  ":vv noordwijk": {
+   "zh": "VV诺德韦克"
+  },
+  ":vvv venlo": {
+   "zh": "芬洛"
+  },
+  "AGO:kabuscorp": {
+   "zh": "卡布斯科普"
+  },
+  "ALB:dinamo tirana": {
+   "zh": "地拉拿戴拿模"
+  },
+  "ALB:kf tirana": {
+   "zh": "地拉那"
+  },
+  "ALB:ks dinamo tirana": {
+   "zh": "戴拿模城"
+  },
+  "ALB:ks flamurtari vlore": {
+   "zh": "法拿莫达利"
+  },
+  "ALB:ks vllaznia shkoder": {
+   "zh": "维拉斯尼亚"
+  },
+  "ALB:partizani tirana": {
+   "zh": "地拉那游击队"
+  },
+  "AND:andorra": {
+   "zh": "FC安道尔"
+  },
+  "AND:santa coloma": {
+   "zh": "圣科洛马"
+  },
+  "ARE:al ain": {
+   "zh": "艾恩"
+  },
+  "ARE:al jazira": {
+   "zh": "阿布扎比半岛"
+  },
+  "ARE:al shabab al arabi": {
+   "zh": "利雅得青年"
+  },
+  "ARE:al wahda scc": {
+   "zh": "阿尔华达"
+  },
+  "ARE:al wasl": {
+   "zh": "阿尔瓦斯尔"
+  },
+  "ARE:baniyas": {
+   "zh": "宾尼耶斯"
+  },
+  "ARE:dubai csc": {
+   "zh": "杜拜会"
+  },
+  "ARE:emirates": {
+   "zh": "酋长文化和体育"
+  },
+  "ARE:shabab alahli dubai": {
+   "zh": "迪拜青年国民"
+  },
+  "ARE:sharjah": {
+   "zh": "沙迦"
+  },
+  "ARG:aldosivi": {
+   "zh": "阿尔多希维竞技"
+  },
+  "ARG:almagro": {
+   "zh": "艾马格罗"
+  },
+  "ARG:argentinos juniors": {
+   "zh": "阿根廷青年竞技协会"
+  },
+  "ARG:arsenal": {
+   "zh": "阿森纳"
+  },
+  "ARG:arsenal sarandi": {
+   "zh": "萨兰迪兵工厂"
+  },
+  "ARG:atletico aldosivi": {
+   "zh": "阿尔多希维竞技"
+  },
+  "ARG:atletico banfield": {
+   "zh": "班菲尔德竞技"
+  },
+  "ARG:atletico belgrano": {
+   "zh": "贝尔格拉诺竞技"
+  },
+  "ARG:atletico colon": {
+   "zh": "科隆竞技"
+  },
+  "ARG:atletico douglas haig": {
+   "zh": "道格拉斯黑格竞技会"
+  },
+  "ARG:atletico estudiantes": {
+   "zh": "布宜诺斯艾利斯大学生"
+  },
+  "ARG:atletico huracan": {
+   "zh": "飓风竞技"
+  },
+  "ARG:atletico independiente": {
+   "zh": "独立竞技"
+  },
+  "ARG:atletico lanus": {
+   "zh": "拉努斯竞技"
+  },
+  "ARG:atletico platense": {
+   "zh": "普拉腾斯竞技"
+  },
+  "ARG:atletico rafaela": {
+   "zh": "拉斐拉竞技"
+  },
+  "ARG:atletico river plate": {
+   "zh": "河床竞技"
+  },
+  "ARG:atletico rosario central": {
+   "zh": "罗萨里奥中央"
+  },
+  "ARG:atletico sarmiento": {
+   "zh": "萨米恩托"
+  },
+  "ARG:atletico talleres remedios escalada": {
+   "zh": "塔尔利雷斯"
+  },
+  "ARG:atletico tigre": {
+   "zh": "蒂格雷竞技"
+  },
+  "ARG:atletico tucuman": {
+   "zh": "图库曼竞技"
+  },
+  "ARG:atletico velez sarsfield": {
+   "zh": "萨斯菲尔德竞技"
+  },
+  "ARG:banfield": {
+   "zh": "班菲尔德竞技"
+  },
+  "ARG:belgrano cordoba": {
+   "zh": "贝尔格拉诺竞技"
+  },
+  "ARG:boca juniors": {
+   "zh": "博卡青年竞技"
+  },
+  "ARG:brandsen": {
+   "zh": "布兰森"
+  },
+  "ARG:central cordoba rosario": {
+   "zh": "罗萨里奥中央"
+  },
+  "ARG:central cordoba sde": {
+   "zh": "罗萨里奥中央"
+  },
+  "ARG:chacarita juniors": {
+   "zh": "查卡里塔青年竞技"
+  },
+  "ARG:colon santa fe": {
+   "zh": "圣菲联合"
+  },
+  "ARG:defensa y justicia": {
+   "zh": "国防与司法社会"
+  },
+  "ARG:defensores belgrano": {
+   "zh": "贝尔格拉诺卫士"
+  },
+  "ARG:deportivo laferrere": {
+   "zh": "拉费雷尔"
+  },
+  "ARG:deportivo moron": {
+   "zh": "莫龙"
+  },
+  "ARG:estudiantes": {
+   "zh": "拉普拉塔大学生"
+  },
+  "ARG:estudiantes la plata": {
+   "zh": "拉普拉塔大学生"
+  },
+  "ARG:ferro carril oeste": {
+   "zh": "西部铁路"
+  },
+  "ARG:gimnasia la plata": {
+   "zh": "拉普拉塔体操及剑击会"
+  },
+  "ARG:gimnasia y esgrima jujuy": {
+   "zh": "拉普拉塔体操及剑击会"
+  },
+  "ARG:gimnasia y esgrima la plata": {
+   "zh": "拉普拉塔体操及剑击会"
+  },
+  "ARG:godoy cruz": {
+   "zh": "葛度尔古斯安东尼奥托姆巴"
+  },
+  "ARG:huracan": {
+   "zh": "飓风竞技"
+  },
+  "ARG:huracan tres arroyos": {
+   "zh": "阿拉约"
+  },
+  "ARG:independiente": {
+   "zh": "独立竞技"
+  },
+  "ARG:independiente rivadavia": {
+   "zh": "里瓦达维亚独立体育"
+  },
+  "ARG:instituto atletico central cordoba": {
+   "zh": "科尔多瓦学院"
+  },
+  "ARG:juventud unida gualeguaychu": {
+   "zh": "瓜莱瓜伊楚青年联盟"
+  },
+  "ARG:la plata": {
+   "zh": "拉普拉塔体操及剑击会"
+  },
+  "ARG:lanus": {
+   "zh": "拉努斯竞技"
+  },
+  "ARG:newells old boys": {
+   "zh": "纽韦尔老男孩竞技"
+  },
+  "ARG:patronato parana": {
+   "zh": "帕托拿图"
+  },
+  "ARG:quilmes atletico": {
+   "zh": "基尔梅斯竞技"
+  },
+  "ARG:racing": {
+   "zh": "阿韦亚内达竞赛"
+  },
+  "ARG:racing cordoba": {
+   "zh": "科尔多瓦竞赛"
+  },
+  "ARG:river plate": {
+   "zh": "河床"
+  },
+  "ARG:rosario central": {
+   "zh": "罗萨里奥中央"
+  },
+  "ARG:san lorenzo": {
+   "zh": "阿尔马格罗圣罗伦素"
+  },
+  "ARG:san lorenzo almagro": {
+   "zh": "圣洛伦索竞技"
+  },
+  "ARG:san martin san juan": {
+   "zh": "圣胡安圣马丁"
+  },
+  "ARG:san martin tucuman": {
+   "zh": "图库曼圣马丁"
+  },
+  "ARG:talleres cordoba": {
+   "zh": "泰拿尼斯"
+  },
+  "ARG:tigre": {
+   "zh": "蒂格雷竞技"
+  },
+  "ARG:union santa fe": {
+   "zh": "圣菲联合"
+  },
+  "ARG:velez sarsfield": {
+   "zh": "沙士菲"
+  },
+  "ARG:villa dalmine": {
+   "zh": "维拉多尔米尼"
+  },
+  "ARM:pyunik": {
+   "zh": "埃里温凤凰"
+  },
+  "AUS:adelaide city": {
+   "zh": "阿德莱德城"
+  },
+  "AUS:adelaide united": {
+   "zh": "阿德莱德联"
+  },
+  "AUS:auckland": {
+   "zh": "奥克兰"
+  },
+  "AUS:blacktown city": {
+   "zh": "黑镇魔队"
+  },
+  "AUS:brisbane roar": {
+   "zh": "布里斯班狮吼"
+  },
+  "AUS:brisbane strikers": {
+   "zh": "布里斯班前锋"
+  },
+  "AUS:canberra": {
+   "zh": "坎培拉"
+  },
+  "AUS:carlton": {
+   "zh": "卡尔顿澳式"
+  },
+  "AUS:central coast mariners": {
+   "zh": "中岸水手"
+  },
+  "AUS:croydon kings": {
+   "zh": "克罗伊登国王"
+  },
+  "AUS:gippsland falcons": {
+   "zh": "吉普斯兰猎鹰"
+  },
+  "AUS:heidelberg united": {
+   "zh": "海德伯格联"
+  },
+  "AUS:macarthur": {
+   "zh": "麦克阿瑟"
+  },
+  "AUS:marconi stallions": {
+   "zh": "马可尼骏马"
+  },
+  "AUS:melbourne city": {
+   "zh": "墨尔本城"
+  },
+  "AUS:melbourne knights": {
+   "zh": "墨尔本骑士"
+  },
+  "AUS:melbourne victory": {
+   "zh": "墨尔本胜利"
+  },
+  "AUS:newcastle jets": {
+   "zh": "纽卡斯尔联喷气机"
+  },
+  "AUS:newcastle united jets": {
+   "zh": "纽卡斯尔喷气机"
+  },
+  "AUS:northern fury": {
+   "zh": "北风暴"
+  },
+  "AUS:northern spirit": {
+   "zh": "北部精神"
+  },
+  "AUS:parramatta power": {
+   "zh": "帕拉马塔力量"
+  },
+  "AUS:perth glory": {
+   "zh": "珀斯光荣"
+  },
+  "AUS:south coast united": {
+   "zh": "南海岸联"
+  },
+  "AUS:sydney": {
+   "zh": "悉尼"
+  },
+  "AUS:sydney olympic": {
+   "zh": "FC奥林匹克悉尼"
+  },
+  "AUS:sydney united": {
+   "zh": "悉尼联队58 FC"
+  },
+  "AUS:wellington phoenix": {
+   "zh": "威灵顿凤凰"
+  },
+  "AUS:western sydney wanderers": {
+   "zh": "西悉尼流浪者"
+  },
+  "AUS:western united": {
+   "zh": "西部联"
+  },
+  "AUS:wollongong wolves": {
+   "zh": "卧龙岗狼"
+  },
+  "AUT:1 wiener neustadter": {
+   "zh": "维也纳新城"
+  },
+  "AUT:admira wacker": {
+   "zh": "阿德米拉"
+  },
+  "AUT:ask voitsberg": {
+   "zh": "福伊茨贝格"
+  },
+  "AUT:asko pasching": {
+   "zh": "帕兴"
+  },
+  "AUT:austria karnten": {
+   "zh": "奥地利卡尔顿"
+  },
+  "AUT:austria klagenfurt": {
+   "zh": "奥地利克拉根福足球代表队"
+  },
+  "AUT:austria lustenau": {
+   "zh": "奥地利卢斯特瑙"
+  },
+  "AUT:austria salzburg": {
+   "zh": "奥地利萨尔斯堡"
+  },
+  "AUT:austria vienna": {
+   "zh": "奥地利足球超级联赛"
+  },
+  "AUT:austria wien": {
+   "zh": "奥地利维也纳"
+  },
+  "AUT:austria wien ii": {
+   "zh": "奥地利维也纳二队"
+  },
+  "AUT:blau weiss linz": {
+   "zh": "蓝白林茨"
+  },
+  "AUT:dornbirn": {
+   "zh": "多恩比恩"
+  },
+  "AUT:esv parndorf": {
+   "zh": "帕恩多夫"
+  },
+  "AUT:first vienna": {
+   "zh": "第一维也纳"
+  },
+  "AUT:floridsdorfer": {
+   "zh": "FAC维也纳"
+  },
+  "AUT:fussballclub red bull salzburg": {
+   "zh": "萨尔斯堡红牛"
+  },
+  "AUT:gratkorn": {
+   "zh": "格拉特科恩"
+  },
+  "AUT:grazer ak": {
+   "zh": "格拉茨AK"
+  },
+  "AUT:grodig": {
+   "zh": "格勒迪希"
+  },
+  "AUT:hartberg": {
+   "zh": "哈特贝格"
+  },
+  "AUT:horn": {
+   "zh": "霍恩"
+  },
+  "AUT:juniors oo": {
+   "zh": "上奥地利青年"
+  },
+  "AUT:kapfenberger": {
+   "zh": "卡芬堡"
+  },
+  "AUT:karnten": {
+   "zh": "克恩顿"
+  },
+  "AUT:ksv superfund": {
+   "zh": "卡芬堡"
+  },
+  "AUT:lafnitz": {
+   "zh": "拉夫尼茨"
+  },
+  "AUT:lask": {
+   "zh": "林茨竞技"
+  },
+  "AUT:lask linz": {
+   "zh": "林茨"
+  },
+  "AUT:liefering": {
+   "zh": "利弗灵"
+  },
+  "AUT:linz": {
+   "zh": "蓝白林茨"
+  },
+  "AUT:lustenau": {
+   "zh": "卢斯特瑙"
+  },
+  "AUT:magna wiener neustadt": {
+   "zh": "维也纳新城"
+  },
+  "AUT:mattersburg": {
+   "zh": "马特斯堡"
+  },
+  "AUT:rapid wien": {
+   "zh": "维也纳迅速"
+  },
+  "AUT:rapid wien ii": {
+   "zh": "维也纳迅速二队"
+  },
+  "AUT:ried": {
+   "zh": "里德"
+  },
+  "AUT:salzburg": {
+   "zh": "萨尔茨堡红牛"
+  },
+  "AUT:schwarz weiss bregenz": {
+   "zh": "布雷根茨黑白"
+  },
+  "AUT:scr altach": {
+   "zh": "阿尔特阿赫莱茵多夫"
+  },
+  "AUT:skn st polten": {
+   "zh": "圣帕尔滕"
+  },
+  "AUT:sku amstetten": {
+   "zh": "阿姆施泰滕"
+  },
+  "AUT:sportklub puntigamer sturm graz": {
+   "zh": "格拉茨风暴"
+  },
+  "AUT:stripfing weiden": {
+   "zh": "施特里普芬"
+  },
+  "AUT:sturm graz": {
+   "zh": "格拉兹风暴"
+  },
+  "AUT:sturm graz ii": {
+   "zh": "格拉兹风暴二队"
+  },
+  "AUT:swarovski tirol": {
+   "zh": "蒂罗尔施华洛世奇"
+  },
+  "AUT:tirol": {
+   "zh": "施华洛斯基提洛尔"
+  },
+  "AUT:tirol innsbruck": {
+   "zh": "蒂罗尔因斯布鲁克"
+  },
+  "AUT:trenkwalder admira": {
+   "zh": "艾特米拿华卡"
+  },
+  "AUT:vorwarts steyr": {
+   "zh": "施泰尔福尔韦茨"
+  },
+  "AUT:vse st polten": {
+   "zh": "圣珀尔滕"
+  },
+  "AUT:wac st andra": {
+   "zh": "沃尔夫斯贝格"
+  },
+  "AUT:wacker innsbruck": {
+   "zh": "瓦克尔因斯布鲁克"
+  },
+  "AUT:wacker innsbruck ii": {
+   "zh": "瓦克尔因斯布鲁克二队"
+  },
+  "AUT:wolfsberger": {
+   "zh": "沃尔夫斯贝格"
+  },
+  "AUT:wsg tirol": {
+   "zh": "WSG斯瓦洛夫斯基蒂洛尔"
+  },
+  "AUT:wsg wattens": {
+   "zh": "WSG斯瓦洛夫斯基蒂洛尔"
+  },
+  "AUT:young violets austria wien": {
+   "zh": "奥地利维也纳"
+  },
+  "AZE:qarabag": {
+   "zh": "卡拉巴赫"
+  },
+  "AZE:s bail": {
+   "zh": "沙巴尔"
+  },
+  "AZE:shamakhi": {
+   "zh": "国际巴库"
+  },
+  "AZE:turan tovuz pfk": {
+   "zh": "杜兰塔乌兹"
+  },
+  "BEL:aalst": {
+   "zh": "阿尔斯特"
+  },
+  "BEL:anderlecht": {
+   "zh": "皇家安德莱赫特体育"
+  },
+  "BEL:antwerp": {
+   "zh": "皇家安特卫普"
+  },
+  "BEL:beerschot": {
+   "zh": "比尔肖特"
+  },
+  "BEL:beerschot va": {
+   "zh": "皇家安特卫普比斯查"
+  },
+  "BEL:bergen": {
+   "zh": "卑尔根"
+  },
+  "BEL:beveren": {
+   "zh": "贝弗伦"
+  },
+  "BEL:brussels": {
+   "zh": "RWDM布鲁塞尔"
+  },
+  "BEL:cercle brugge": {
+   "zh": "布鲁日色格拉"
+  },
+  "BEL:cercle brugge ksv": {
+   "zh": "色格拉布鲁日KSV"
+  },
+  "BEL:charleroi": {
+   "zh": "皇家沙勒罗瓦体育"
+  },
+  "BEL:charleroi sporting": {
+   "zh": "皇家沙勒罗瓦"
+  },
+  "BEL:club brugge": {
+   "zh": "布鲁日"
+  },
+  "BEL:dender": {
+   "zh": "丹达EH"
+  },
+  "BEL:eendracht aalst": {
+   "zh": "阿尔斯特体育"
+  },
+  "BEL:eupen": {
+   "zh": "欧本"
+  },
+  "BEL:excel mouscron": {
+   "zh": "皇家穆斯克龙精英"
+  },
+  "BEL:excelsior mouscron": {
+   "zh": "皇家莫斯克伦精英"
+  },
+  "BEL:fcv dender eh": {
+   "zh": "丹达EH"
+  },
+  "BEL:geel": {
+   "zh": "赫尔"
+  },
+  "BEL:genk": {
+   "zh": "KRC亨克"
+  },
+  "BEL:gent": {
+   "zh": "根特"
+  },
+  "BEL:germinal": {
+   "zh": "日尔米纳尔"
+  },
+  "BEL:harelbeke": {
+   "zh": "哈勒尔贝克"
+  },
+  "BEL:heusden zolder": {
+   "zh": "赫斯登-佐尔德"
+  },
+  "BEL:jong genk": {
+   "zh": "皇家亨克"
+  },
+  "BEL:k beerschot va": {
+   "zh": "皇家安特卫普比斯查"
+  },
+  "BEL:k beringen heusden zolder": {
+   "zh": "皇家贝灵恩-赫斯登-佐尔德"
+  },
+  "BEL:kas eupen": {
+   "zh": "奥伊彭皇家综合体育"
+  },
+  "BEL:kfc denderleeuw eendracht hekelgem": {
+   "zh": "登达"
+  },
+  "BEL:kortrijk": {
+   "zh": "科尔特里克"
+  },
+  "BEL:ksk beveren": {
+   "zh": "KSK贝弗伦"
+  },
+  "BEL:ksv roeselare": {
+   "zh": "罗斯勒"
+  },
+  "BEL:ksv waregem": {
+   "zh": "华雷根祖尔特"
+  },
+  "BEL:lierse": {
+   "zh": "利尔斯SK"
+  },
+  "BEL:lokeren": {
+   "zh": "洛克伦"
+  },
+  "BEL:lokeren oost vlaanderen": {
+   "zh": "东佛兰德洛克伦体育"
+  },
+  "BEL:lommel": {
+   "zh": "洛默尔"
+  },
+  "BEL:louvieroise": {
+   "zh": "卢维耶尔皇家"
+  },
+  "BEL:mechelen": {
+   "zh": "梅赫伦"
+  },
+  "BEL:molenbeek": {
+   "zh": "RWD莫伦比克"
+  },
+  "BEL:molenbeek brussels strombeek": {
+   "zh": "布鲁塞尔"
+  },
+  "BEL:mouscron": {
+   "zh": "穆斯克龙"
+  },
+  "BEL:oostende": {
+   "zh": "奥斯坦德"
+  },
+  "BEL:oud heverlee leuven": {
+   "zh": "旧海弗莱鲁汶"
+  },
+  "BEL:raa louvieroise": {
+   "zh": "卢维耶尔皇家体育"
+  },
+  "BEL:raal la louviere": {
+   "zh": "RAAL拉路维尔"
+  },
+  "BEL:racing white daring molenbeek": {
+   "zh": "RWD莫伦比克"
+  },
+  "BEL:raec mons": {
+   "zh": "蒙斯"
+  },
+  "BEL:re virton": {
+   "zh": "维通"
+  },
+  "BEL:rfc liege": {
+   "zh": "列日"
+  },
+  "BEL:rfc seraing": {
+   "zh": "瑟兰皇家"
+  },
+  "BEL:roc charleroi marchienne": {
+   "zh": "皇家沙勒罗瓦"
+  },
+  "BEL:roeselare": {
+   "zh": "皇家罗斯勒"
+  },
+  "BEL:royale union saint gilloise": {
+   "zh": "皇家圣吉罗斯联合"
+  },
+  "BEL:rwd molenbeek": {
+   "zh": "RWD莫伦比克"
+  },
+  "BEL:rwdm brussels": {
+   "zh": "RWDM布鲁塞尔"
+  },
+  "BEL:seraing": {
+   "zh": "瑟兰皇家"
+  },
+  "BEL:sint truidense vv": {
+   "zh": "圣特吕登"
+  },
+  "BEL:soudal quick step": {
+   "zh": "快步车队"
+  },
+  "BEL:sporting charleroi": {
+   "zh": "皇家沙勒罗瓦"
+  },
+  "BEL:sporting lokeren": {
+   "zh": "洛克伦"
+  },
+  "BEL:sportkring beveren": {
+   "zh": "比华伦"
+  },
+  "BEL:st truiden": {
+   "zh": "圣特雷登"
+  },
+  "BEL:standard": {
+   "zh": "标准列日"
+  },
+  "BEL:standard liege": {
+   "zh": "标准列日"
+  },
+  "BEL:tubize": {
+   "zh": "图比斯"
+  },
+  "BEL:union saint gilloise": {
+   "zh": "皇家圣基莱斯联"
+  },
+  "BEL:verbroedering dender eendracht hekelgem": {
+   "zh": "丹达EH"
+  },
+  "BEL:waasland beveren": {
+   "zh": "比华伦"
+  },
+  "BEL:waregem": {
+   "zh": "华雷根祖尔特"
+  },
+  "BEL:westerlo": {
+   "zh": "韦斯特洛"
+  },
+  "BEL:zulte waregem": {
+   "zh": "瓦勒海姆"
+  },
+  "BGR:botev plovdiv": {
+   "zh": "博特夫"
+  },
+  "BGR:cska sofia": {
+   "zh": "索菲亚中央陆军"
+  },
+  "BGR:etar": {
+   "zh": "伊塔尔"
+  },
+  "BGR:etar tarnovo": {
+   "zh": "伊塔尔"
+  },
+  "BGR:etar veliko tarnovo": {
+   "zh": "伊塔尔"
+  },
+  "BGR:levski sofia": {
+   "zh": "索菲亚列夫斯基"
+  },
+  "BGR:lokomotiv plovdiv": {
+   "zh": "普罗夫迪夫火车头"
+  },
+  "BGR:lokomotiv sofia": {
+   "zh": "索非亚火车头"
+  },
+  "BGR:lovech": {
+   "zh": "利特克斯"
+  },
+  "BGR:ludogorets": {
+   "zh": "拉兹格勒卢多戈雷茨"
+  },
+  "BGR:montana": {
+   "zh": "蒙塔纳"
+  },
+  "BGR:ofc sliven": {
+   "zh": "斯利文"
+  },
+  "BGR:pirin blagoevgrad": {
+   "zh": "布拉戈耶夫格勒皮林"
+  },
+  "BGR:pofc botev vratsa": {
+   "zh": "弗拉察博特夫"
+  },
+  "BGR:slavia sofia": {
+   "zh": "索菲亚斯拉维亚"
+  },
+  "BGR:velbazhd kyustendil": {
+   "zh": "丘斯滕迪尔"
+  },
+  "BIH:borac banja luka": {
+   "zh": "巴尼亚卢卡战士"
+  },
+  "BIH:celik zenica": {
+   "zh": "泽尼察钢铁"
+  },
+  "BIH:hsk posusje": {
+   "zh": "波苏谢克族体育"
+  },
+  "BIH:hsk zrinjski mostar": {
+   "zh": "莫斯塔尔兹里尼斯基克族体育"
+  },
+  "BIH:leotar": {
+   "zh": "莱奥塔尔"
+  },
+  "BIH:orasje": {
+   "zh": "奥拉谢克族"
+  },
+  "BIH:rudar prijedor": {
+   "zh": "普里耶多尔矿工"
+  },
+  "BIH:sarajevo": {
+   "zh": "萨拉热窝"
+  },
+  "BIH:siroki brijeg": {
+   "zh": "希罗基布里耶格"
+  },
+  "BIH:velez mostar": {
+   "zh": "莫斯塔尔韦莱日"
+  },
+  "BIH:zeljeznicar sarajevo": {
+   "zh": "萨拉热窝铁路工人"
+  },
+  "BLR:bate borisov": {
+   "zh": "贝特"
+  },
+  "BLR:dinamo 93 minsk": {
+   "zh": "明斯克戴拿模"
+  },
+  "BLR:dinamo juni minsk": {
+   "zh": "明斯克戴拿模"
+  },
+  "BLR:dinamo minsk": {
+   "zh": "明斯克迪纳摩"
+  },
+  "BLR:dynamo brest": {
+   "zh": "布列斯特迪纳摩"
+  },
+  "BLR:gomel": {
+   "zh": "戈梅利"
+  },
+  "BLR:isloch minsk raion": {
+   "zh": "明斯克伊斯拉奇"
+  },
+  "BLR:ska": {
+   "zh": "白俄罗斯国立大学能量"
+  },
+  "BOL:always ready": {
+   "zh": "时刻准备着"
+  },
+  "BOL:aurora": {
+   "zh": "极光队"
+  },
+  "BOL:bolivar": {
+   "zh": "玻利瓦尔"
+  },
+  "BOL:jorge wilstermann": {
+   "zh": "乔治维尔斯特尔曼"
+  },
+  "BOL:oriente petrolero": {
+   "zh": "东方石油体育"
+  },
+  "BOL:strongest": {
+   "zh": "最强者"
+  },
+  "BRA:amazonas": {
+   "zh": "亚马逊"
+  },
+  "BRA:america": {
+   "zh": "亚美利加"
+  },
+  "BRA:arapongas": {
+   "zh": "阿拉邦加斯"
+  },
+  "BRA:athletico paranaense": {
+   "zh": "帕拉尼恩斯"
+  },
+  "BRA:atletica anapolina": {
+   "zh": "阿纳波利亚"
+  },
+  "BRA:atletica ponte preta": {
+   "zh": "庞特普雷塔"
+  },
+  "BRA:atletica portuguesa": {
+   "zh": "葡萄牙人"
+  },
+  "BRA:atletico goianiense": {
+   "zh": "戈亚尼恩斯竞技"
+  },
+  "BRA:atletico juventus": {
+   "zh": "CA尤文图斯"
+  },
+  "BRA:atletico linense": {
+   "zh": "利伦斯"
+  },
+  "BRA:atletico mineiro": {
+   "zh": "米内罗竞技"
+  },
+  "BRA:atletico monte azul": {
+   "zh": "蒙蒂阿祖尔"
+  },
+  "BRA:atletico taboao da serra": {
+   "zh": "塔博昂-达塞拉"
+  },
+  "BRA:atletico taquaritinga": {
+   "zh": "塔夸里廷加足球會)"
+  },
+  "BRA:atletico votuporanguense": {
+   "zh": "沃图波兰加"
+  },
+  "BRA:audax sao paulo": {
+   "zh": "奥达斯"
+  },
+  "BRA:avai": {
+   "zh": "阿瓦伊"
+  },
+  "BRA:bahia": {
+   "zh": "巴伊亚竞技"
+  },
+  "BRA:bahia ba": {
+   "zh": "巴伊亚竞技"
+  },
+  "BRA:bandeirante": {
+   "zh": "班代兰特"
+  },
+  "BRA:bangu atletico": {
+   "zh": "班古竞技"
+  },
+  "BRA:barretos": {
+   "zh": "巴雷图斯"
+  },
+  "BRA:barueri": {
+   "zh": "格雷米奥巴鲁埃里"
+  },
+  "BRA:batatais": {
+   "zh": "巴塔泰斯U20"
+  },
+  "BRA:boa": {
+   "zh": "博阿竞技"
+  },
+  "BRA:botafogo": {
+   "zh": "博塔弗戈 (SP)"
+  },
+  "BRA:botafogo fr": {
+   "zh": "博塔弗戈"
+  },
+  "BRA:botafogo rj": {
+   "zh": "博塔福古"
+  },
+  "BRA:brasiliense": {
+   "zh": "巴西莱恩斯"
+  },
+  "BRA:campinense": {
+   "zh": "坎皮纳人"
+  },
+  "BRA:canoas": {
+   "zh": "乌尔巴"
+  },
+  "BRA:ceara": {
+   "zh": "塞阿拉竞技"
+  },
+  "BRA:ceara ce": {
+   "zh": "塞阿拉竞技"
+  },
+  "BRA:ceara sporting": {
+   "zh": "塞阿腊"
+  },
+  "BRA:ceilandia": {
+   "zh": "塞兰迪亚"
+  },
+  "BRA:centro sportivo alagoano": {
+   "zh": "阿拉戈纳诺"
+  },
+  "BRA:centro zico sociedade esportiva": {
+   "zh": "济科足球中心体育"
+  },
+  "BRA:chapecoense": {
+   "zh": "查比高恩斯"
+  },
+  "BRA:comercial": {
+   "zh": "商业"
+  },
+  "BRA:corinthians alagoano": {
+   "zh": "库亚巴"
+  },
+  "BRA:corinthians paulista": {
+   "zh": "科林蒂安保利斯塔体育"
+  },
+  "BRA:corinthians sp": {
+   "zh": "科林蒂安"
+  },
+  "BRA:coritiba": {
+   "zh": "科里蒂巴"
+  },
+  "BRA:coritiba pr": {
+   "zh": "科里蒂巴"
+  },
+  "BRA:criciuma": {
+   "zh": "克里西乌马竞技"
+  },
+  "BRA:cruzeiro": {
+   "zh": "克鲁塞罗体育"
+  },
+  "BRA:csa al": {
+   "zh": "阿拉戈斯CSA"
+  },
+  "BRA:democrata": {
+   "zh": "民主队"
+  },
+  "BRA:desportiva cabofriense": {
+   "zh": "康柏费伦斯"
+  },
+  "BRA:desportiva confianca": {
+   "zh": "康菲安卡"
+  },
+  "BRA:desportiva ferroviaria": {
+   "zh": "卡皮沙巴体育"
+  },
+  "BRA:desportiva sao caetano": {
+   "zh": "圣卡埃塔诺体育"
+  },
+  "BRA:do recife": {
+   "zh": "累西腓体育"
+  },
+  "BRA:esportiva aracatuba": {
+   "zh": "阿拉萨图巴"
+  },
+  "BRA:esportivo bento goncalves": {
+   "zh": "本图贡萨尔维斯体育"
+  },
+  "BRA:fabril": {
+   "zh": "法布里尔竞技"
+  },
+  "BRA:fernandopolis": {
+   "zh": "费尔南多波利斯"
+  },
+  "BRA:ferroviaria esportes": {
+   "zh": "费罗维亚里亚体育"
+  },
+  "BRA:ferroviario atletico": {
+   "zh": "费罗维里亚"
+  },
+  "BRA:figueirense": {
+   "zh": "费古埃伦斯"
+  },
+  "BRA:flamengo": {
+   "zh": "法林明高竞赛会"
+  },
+  "BRA:flamengo rj": {
+   "zh": "法林明高竞赛会"
+  },
+  "BRA:fluminense": {
+   "zh": "富明尼斯"
+  },
+  "BRA:fluminense rj": {
+   "zh": "富明尼斯"
+  },
+  "BRA:fortaleza": {
+   "zh": "福塔莱萨体育"
+  },
+  "BRA:fortaleza ce": {
+   "zh": "福塔莱萨"
+  },
+  "BRA:galicia": {
+   "zh": "加利西亚体育"
+  },
+  "BRA:goias": {
+   "zh": "戈亚斯体育会"
+  },
+  "BRA:goias go": {
+   "zh": "戈亚斯州"
+  },
+  "BRA:gremio barueri": {
+   "zh": "格雷米奥巴鲁埃里"
+  },
+  "BRA:gremio esportes maringa": {
+   "zh": "马林加"
+  },
+  "BRA:gremio esportivo catanduvense": {
+   "zh": "卡坦杜瓦"
+  },
+  "BRA:gremio esportivo novorizontino": {
+   "zh": "诺沃里佐迪诺"
+  },
+  "BRA:gremio esportivo osasco": {
+   "zh": "甘美奥奥萨斯库"
+  },
+  "BRA:gremio fbpa": {
+   "zh": "格雷米奥"
+  },
+  "BRA:gremio foot ball porto alegrense": {
+   "zh": "甘美奥阿雷格里港"
+  },
+  "BRA:gremio novorizontino": {
+   "zh": "新沃里松蒂诺格雷米奥"
+  },
+  "BRA:gremio osasco audax": {
+   "zh": "奥达斯"
+  },
+  "BRA:gremio porto alegre": {
+   "zh": "甘美奥阿雷格里港"
+  },
+  "BRA:guarani": {
+   "zh": "瓜拉尼"
+  },
+  "BRA:guaratingueta": {
+   "zh": "瓜拉廷格塔"
+  },
+  "BRA:independente": {
+   "zh": "独立"
+  },
+  "BRA:internacional": {
+   "zh": "国际"
+  },
+  "BRA:ipatinga": {
+   "zh": "伊帕汀加"
+  },
+  "BRA:iraty": {
+   "zh": "伊拉蒂体育"
+  },
+  "BRA:itaperuna": {
+   "zh": "伊塔佩鲁纳体育"
+  },
+  "BRA:ituano": {
+   "zh": "伊图亚诺"
+  },
+  "BRA:joinville": {
+   "zh": "若因维利竞技"
+  },
+  "BRA:juventude": {
+   "zh": "青年人体育会"
+  },
+  "BRA:londrina": {
+   "zh": "隆德里纳体育"
+  },
+  "BRA:macae": {
+   "zh": "马卡埃"
+  },
+  "BRA:madureira": {
+   "zh": "玛度雷拉体育"
+  },
+  "BRA:mamore": {
+   "zh": "马莫雷"
+  },
+  "BRA:manchete do recife": {
+   "zh": "累西腓曼彻特"
+  },
+  "BRA:marilia atletico": {
+   "zh": "马里利亚"
+  },
+  "BRA:maringa": {
+   "zh": "马林加"
+  },
+  "BRA:mineiro": {
+   "zh": "米内罗竞技"
+  },
+  "BRA:mirasol": {
+   "zh": "米拉索尔"
+  },
+  "BRA:mirassol": {
+   "zh": "米拉索"
+  },
+  "BRA:mogi mirim": {
+   "zh": "莫奇米林"
+  },
+  "BRA:nacional": {
+   "zh": "国民队"
+  },
+  "BRA:nacional atletico": {
+   "zh": "国民竞技"
+  },
+  "BRA:nautico capibaribe": {
+   "zh": "诺蒂科"
+  },
+  "BRA:nautico marcilio dias": {
+   "zh": "纽迪高"
+  },
+  "BRA:noroeste": {
+   "zh": "诺罗斯特"
+  },
+  "BRA:nova iguacu": {
+   "zh": "新伊瓜苏"
+  },
+  "BRA:novo hamburgo": {
+   "zh": "新汉堡"
+  },
+  "BRA:olaria atletico": {
+   "zh": "奥拉里亚"
+  },
+  "BRA:palmeiras": {
+   "zh": "彭美拉斯"
+  },
+  "BRA:parana": {
+   "zh": "帕拉拿"
+  },
+  "BRA:paulista": {
+   "zh": "保利斯塔"
+  },
+  "BRA:paysandu": {
+   "zh": "派桑杜体育"
+  },
+  "BRA:pedrabranca": {
+   "zh": "佩德拉布兰卡"
+  },
+  "BRA:pelotas": {
+   "zh": "佩洛塔斯体育"
+  },
+  "BRA:porto alegre": {
+   "zh": "阿雷格里波尔图"
+  },
+  "BRA:portuguesa desportos": {
+   "zh": "葡萄牙人竞技"
+  },
+  "BRA:rb bragantino": {
+   "zh": "巴拉干天奴红牛"
+  },
+  "BRA:recife": {
+   "zh": "利斯菲"
+  },
+  "BRA:recife pe": {
+   "zh": "利斯菲"
+  },
+  "BRA:red bull bragantino": {
+   "zh": "布拉甘蒂诺红牛"
+  },
+  "BRA:regatas brasil": {
+   "zh": "马瑟欧"
+  },
+  "BRA:regatas do flamengo": {
+   "zh": "弗拉门戈体育"
+  },
+  "BRA:regatas vasco da gama": {
+   "zh": "华斯高达伽马划艇会"
+  },
+  "BRA:rio branco": {
+   "zh": "里奥布兰科"
+  },
+  "BRA:rio branco atletico": {
+   "zh": "里约布兰科"
+  },
+  "BRA:rio preto": {
+   "zh": "里奥普雷图"
+  },
+  "BRA:s a f botafogo": {
+   "zh": "博塔弗戈"
+  },
+  "BRA:santa cruz": {
+   "zh": "圣十字"
+  },
+  "BRA:santo andre": {
+   "zh": "圣安德烈体育"
+  },
+  "BRA:santos": {
+   "zh": "桑托斯"
+  },
+  "BRA:sao bento": {
+   "zh": "圣宾图"
+  },
+  "BRA:sao jose": {
+   "zh": "阿雷格里港圣何塞"
+  },
+  "BRA:sao paulo": {
+   "zh": "圣保罗"
+  },
+  "BRA:sociedade esportiva do gama": {
+   "zh": "加马"
+  },
+  "BRA:sociedade esportiva matsubara": {
+   "zh": "松原"
+  },
+  "BRA:sociedade esportiva palmeiras": {
+   "zh": "帕尔梅拉斯体育"
+  },
+  "BRA:sociedade esportiva recreativa caxias do sul": {
+   "zh": "SER南卡希亚斯"
+  },
+  "BRA:tanabi": {
+   "zh": "塔纳比"
+  },
+  "BRA:tupi": {
+   "zh": "图皮"
+  },
+  "BRA:uberaba": {
+   "zh": "乌贝拉巴"
+  },
+  "BRA:uniao sao joao": {
+   "zh": "圣若昂"
+  },
+  "BRA:vasco da gama": {
+   "zh": "瓦斯科达伽马"
+  },
+  "BRA:vasco da gama rj": {
+   "zh": "瓦斯科达伽马"
+  },
+  "BRA:vila nova": {
+   "zh": "维拉诺瓦"
+  },
+  "BRA:villa nova atletico": {
+   "zh": "维拉诺瓦"
+  },
+  "BRA:vitoria": {
+   "zh": "维多利亚体育"
+  },
+  "BRA:volta redonda": {
+   "zh": "沃尔塔雷东达"
+  },
+  "BRA:xv novembro": {
+   "zh": "派拉斯卡巴XV"
+  },
+  "CAN:edmonton brick men": {
+   "zh": "爱民顿砖人"
+  },
+  "CAN:hamilton steelers": {
+   "zh": "哈密尔顿钢人"
+  },
+  "CAN:montreal": {
+   "zh": "蒙特利尔"
+  },
+  "CAN:toronto": {
+   "zh": "多伦多"
+  },
+  "CAN:vancouver whitecaps": {
+   "zh": "温哥华白浪"
+  },
+  "CHE:aarau": {
+   "zh": "阿劳"
+  },
+  "CHE:basel": {
+   "zh": "巴塞尔"
+  },
+  "CHE:bellinzona": {
+   "zh": "贝林佐纳"
+  },
+  "CHE:biel bienne": {
+   "zh": "比尔"
+  },
+  "CHE:chiasso": {
+   "zh": "基亚索"
+  },
+  "CHE:concordia basel": {
+   "zh": "康戈迪亚"
+  },
+  "CHE:etoile carouge": {
+   "zh": "卡鲁日"
+  },
+  "CHE:frauenfeld": {
+   "zh": "弗劳恩费尔德"
+  },
+  "CHE:grasshopper zurich": {
+   "zh": "苏黎世草蜢"
+  },
+  "CHE:grasshoppers zurich": {
+   "zh": "苏黎世草蜢"
+  },
+  "CHE:kriens": {
+   "zh": "克伦斯"
+  },
+  "CHE:lausanne": {
+   "zh": "洛桑竞技"
+  },
+  "CHE:lausanne ouchy": {
+   "zh": "洛桑奥奇"
+  },
+  "CHE:le mont": {
+   "zh": "勒蒙特"
+  },
+  "CHE:locarno": {
+   "zh": "洛迦诺"
+  },
+  "CHE:lugano": {
+   "zh": "卢加诺"
+  },
+  "CHE:luzern": {
+   "zh": "卢塞恩"
+  },
+  "CHE:neuchatel xamax fcs": {
+   "zh": "纳沙泰尔"
+  },
+  "CHE:old boys": {
+   "zh": "旧生队"
+  },
+  "CHE:schaffhausen": {
+   "zh": "沙夫豪森"
+  },
+  "CHE:servette": {
+   "zh": "塞尔维特"
+  },
+  "CHE:sion": {
+   "zh": "锡永"
+  },
+  "CHE:solothurn": {
+   "zh": "索洛图恩"
+  },
+  "CHE:sr delemont": {
+   "zh": "德莱蒙"
+  },
+  "CHE:st gallen": {
+   "zh": "圣加伦"
+  },
+  "CHE:thun": {
+   "zh": "图恩"
+  },
+  "CHE:vaduz": {
+   "zh": "瓦杜兹"
+  },
+  "CHE:vevey sports 05": {
+   "zh": "沃韦体育"
+  },
+  "CHE:wil": {
+   "zh": "韦尔"
+  },
+  "CHE:winterthur": {
+   "zh": "温特图尔"
+  },
+  "CHE:young boys": {
+   "zh": "伯尔尼年轻人体育"
+  },
+  "CHE:yverdon": {
+   "zh": "伊韦尔东体育"
+  },
+  "CHE:zurich": {
+   "zh": "苏黎世"
+  },
+  "CHL:audax italiano": {
+   "zh": "奥达克斯意大利人"
+  },
+  "CHL:cobreloa": {
+   "zh": "科布雷罗阿体育"
+  },
+  "CHL:cobresal": {
+   "zh": "科布雷萨尔体育"
+  },
+  "CHL:coquimbo unido": {
+   "zh": "科金博尤尼多体育"
+  },
+  "CHL:deportes iquique": {
+   "zh": "伊基克"
+  },
+  "CHL:deportes la serena": {
+   "zh": "拉塞雷纳体育"
+  },
+  "CHL:deportes puerto montt": {
+   "zh": "蒙特港"
+  },
+  "CHL:deportes temuco": {
+   "zh": "特木科体育"
+  },
+  "CHL:deportivo huachipato": {
+   "zh": "侯治柏度"
+  },
+  "CHL:deportivo magallanes": {
+   "zh": "麦哲伦"
+  },
+  "CHL:deportivo universidad catolica": {
+   "zh": "天主教大学"
+  },
+  "CHL:ohiggins": {
+   "zh": "奥希金斯体育"
+  },
+  "CHL:santiago morning": {
+   "zh": "圣地亚哥早晨"
+  },
+  "CHL:santiago wanderers": {
+   "zh": "圣地亚哥流浪者体育"
+  },
+  "CHL:social y deportes concepcion": {
+   "zh": "康塞普西翁体育"
+  },
+  "CHL:social y deportivo colo colo": {
+   "zh": "科洛科洛竞技"
+  },
+  "CHL:union espanola": {
+   "zh": "艾斯潘诺拉联合体育"
+  },
+  "CHL:universidad chile": {
+   "zh": "智利大学"
+  },
+  "CHL:universidad concepcion": {
+   "zh": "康塞普西翁大学竞技"
+  },
+  "CHN:august 1st": {
+   "zh": "八一湘潭",
+   "era": [
+    [
+     1994,
+     "八一"
+    ],
+    [
+     2001,
+     "八一振邦"
+    ],
+    [
+     2003,
+     "八一湘潭"
+    ]
+   ]
+  },
+  "CHN:bayi team": {
+   "zh": "八一"
+  },
+  "CHN:beijing guoan": {
+   "zh": "北京国安",
+   "era": [
+    [
+     1994,
+     "北京国安"
+    ],
+    [
+     2003,
+     "北京现代"
+    ],
+    [
+     2006,
+     "北京国安"
+    ]
+   ]
+  },
+  "CHN:beijing renhe": {
+   "zh": "北京人和",
+   "era": [
+    [
+     2002,
+     "上海中远汇丽"
+    ],
+    [
+     2003,
+     "上海国际"
+    ],
+    [
+     2006,
+     "西安浐灞"
+    ],
+    [
+     2007,
+     "陕西宝荣浐灞"
+    ],
+    [
+     2008,
+     "陕西中新浐灞"
+    ],
+    [
+     2010,
+     "陕西人和浐灞"
+    ],
+    [
+     2012,
+     "贵州人和"
+    ],
+    [
+     2018,
+     "北京人和"
+    ]
+   ],
+   "gone": 2021
+  },
+  "CHN:cangzhou mighty lions": {
+   "zh": "沧州雄狮"
+  },
+  "CHN:changchun yatai": {
+   "zh": "长春亚泰"
+  },
+  "CHN:chengdu blades": {
+   "zh": "成都谢菲联"
+  },
+  "CHN:chengdu rongcheng": {
+   "zh": "成都蓉城"
+  },
+  "CHN:chongqing lifan": {
+   "zh": "重庆力帆",
+   "era": [
+    [
+     1999,
+     "重庆隆鑫"
+    ],
+    [
+     2001,
+     "重庆力帆"
+    ],
+    [
+     2004,
+     "重庆汽车"
+    ],
+    [
+     2005,
+     "重庆力帆"
+    ]
+   ],
+   "gone": 2022
+  },
+  "CHN:dalian pro": {
+   "zh": "大连人",
+   "era": [
+    [
+     2012,
+     "大连阿尔滨"
+    ],
+    [
+     2018,
+     "大连一方"
+    ],
+    [
+     2022,
+     "大连人"
+    ]
+   ],
+   "gone": 2024
+  },
+  "CHN:dalian shide": {
+   "zh": "大连实德",
+   "era": [
+    [
+     1994,
+     "大连万达"
+    ],
+    [
+     1999,
+     "大连万达实德"
+    ],
+    [
+     2000,
+     "大连实德"
+    ],
+    [
+     2008,
+     "大连海昌"
+    ],
+    [
+     2009,
+     "大连实德"
+    ]
+   ],
+   "gone": 2013
+  },
+  "CHN:gansu tianma": {
+   "zh": "甘肃天马"
+  },
+  "CHN:guangdong hongyuan": {
+   "zh": "广东宏远"
+  },
+  "CHN:guangzhou evergrande": {
+   "zh": "广州队",
+   "era": [
+    [
+     1994,
+     "广州太阳神"
+    ],
+    [
+     2008,
+     "广州医药"
+    ],
+    [
+     2011,
+     "广州恒大"
+    ],
+    [
+     2022,
+     "广州队"
+    ]
+   ],
+   "gone": 2025
+  },
+  "CHN:guangzhou r f": {
+   "zh": "广州城",
+   "era": [
+    [
+     1994,
+     "沈阳六药"
+    ],
+    [
+     1998,
+     "沈阳海狮"
+    ],
+    [
+     2001,
+     "沈阳金德"
+    ],
+    [
+     2007,
+     "长沙金德"
+    ],
+    [
+     2012,
+     "广州富力"
+    ],
+    [
+     2022,
+     "广州城"
+    ]
+   ],
+   "gone": 2023
+  },
+  "CHN:guangzhou songri": {
+   "zh": "广州松日"
+  },
+  "CHN:guizhou hengfeng": {
+   "zh": "贵州恒丰",
+   "era": [
+    [
+     2017,
+     "贵州恒丰智诚"
+    ],
+    [
+     2018,
+     "贵州恒丰"
+    ]
+   ]
+  },
+  "CHN:happy valley aa": {
+   "zh": "愉园体育会"
+  },
+  "CHN:harbin yiteng": {
+   "zh": "哈尔滨毅腾"
+  },
+  "CHN:hebei": {
+   "zh": "河北队",
+   "era": [
+    [
+     2016,
+     "河北华夏幸福"
+    ],
+    [
+     2022,
+     "河北队"
+    ]
+   ],
+   "gone": 2023
+  },
+  "CHN:henan": {
+   "zh": "河南队",
+   "era": [
+    [
+     2007,
+     "河南建业"
+    ],
+    [
+     2008,
+     "河南四五老酒"
+    ],
+    [
+     2009,
+     "河南建业"
+    ],
+    [
+     2022,
+     "河南嵩山龙门"
+    ],
+    [
+     2023,
+     "河南队"
+    ]
+   ]
+  },
+  "CHN:hong kong pegasus": {
+   "zh": "太阳飞马"
+  },
+  "CHN:jiangsu": {
+   "zh": "江苏"
+  },
+  "CHN:jiangsu suning": {
+   "zh": "江苏苏宁",
+   "era": [
+    [
+     1994,
+     "江苏迈特"
+    ],
+    [
+     2009,
+     "江苏舜天"
+    ],
+    [
+     2016,
+     "江苏苏宁"
+    ]
+   ],
+   "gone": 2021
+  },
+  "CHN:liaoning": {
+   "zh": "辽宁宏运",
+   "era": [
+    [
+     1994,
+     "辽宁远东"
+    ],
+    [
+     1995,
+     "辽宁队"
+    ],
+    [
+     1999,
+     "辽宁抚顺"
+    ],
+    [
+     2000,
+     "辽宁抚顺特钢"
+    ],
+    [
+     2002,
+     "辽宁波导"
+    ],
+    [
+     2003,
+     "辽宁中顺"
+    ],
+    [
+     2004,
+     "辽宁中誉"
+    ],
+    [
+     2005,
+     "辽宁队"
+    ],
+    [
+     2008,
+     "辽宁宏运"
+    ]
+   ],
+   "gone": 2020
+  },
+  "CHN:meizhou hakka": {
+   "zh": "梅州客家"
+  },
+  "CHN:nantong zhiyun": {
+   "zh": "南通支云"
+  },
+  "CHN:qianwei huandao": {
+   "zh": "前卫环岛"
+  },
+  "CHN:qingdao": {
+   "zh": "青岛"
+  },
+  "CHN:qingdao hainiu": {
+   "zh": "青岛海牛",
+   "era": [
+    [
+     1995,
+     "青岛海牛"
+    ],
+    [
+     1998,
+     "青岛颐中海牛"
+    ],
+    [
+     2001,
+     "青岛啤酒"
+    ],
+    [
+     2002,
+     "青岛海牛"
+    ],
+    [
+     2003,
+     "青岛贝莱特"
+    ],
+    [
+     2005,
+     "青岛中能"
+    ],
+    [
+     2023,
+     "青岛海牛"
+    ]
+   ]
+  },
+  "CHN:qingdao west coast": {
+   "zh": "青岛西海岸"
+  },
+  "CHN:shaanxi guoli hans beer": {
+   "zh": "陕西国力"
+  },
+  "CHN:shaanxi lijun guoli": {
+   "zh": "陕西国力"
+  },
+  "CHN:shandong taishan": {
+   "zh": "山东泰山",
+   "era": [
+    [
+     1994,
+     "山东泰山"
+    ],
+    [
+     1995,
+     "济南泰山"
+    ],
+    [
+     1996,
+     "济南泰山将军"
+    ],
+    [
+     1998,
+     "山东鲁能泰山"
+    ],
+    [
+     2008,
+     "山东鲁能"
+    ],
+    [
+     2019,
+     "山东泰山"
+    ]
+   ]
+  },
+  "CHN:shanghai port": {
+   "zh": "上海海港",
+   "era": [
+    [
+     2013,
+     "上海上港"
+    ],
+    [
+     2022,
+     "上海海港"
+    ]
+   ]
+  },
+  "CHN:shanghai shenhua": {
+   "zh": "上海申花"
+  },
+  "CHN:shanghai shenxin": {
+   "zh": "上海申鑫",
+   "era": [
+    [
+     2010,
+     "南昌衡源"
+    ],
+    [
+     2012,
+     "上海申鑫"
+    ]
+   ],
+   "gone": 2020
+  },
+  "CHN:shanghai united": {
+   "zh": "上海联城",
+   "era": [
+    [
+     2005,
+     "上海中邦"
+    ],
+    [
+     2006,
+     "上海联城"
+    ]
+   ],
+   "gone": 2007
+  },
+  "CHN:shenzhen": {
+   "zh": "深圳队",
+   "era": [
+    [
+     1996,
+     "深圳飞亚达"
+    ],
+    [
+     1998,
+     "深圳平安"
+    ],
+    [
+     2000,
+     "深圳平安科健"
+    ],
+    [
+     2001,
+     "深圳科健平安"
+    ],
+    [
+     2002,
+     "深圳平安"
+    ],
+    [
+     2003,
+     "深圳健力宝"
+    ],
+    [
+     2006,
+     "深圳金威"
+    ],
+    [
+     2007,
+     "深圳上清饮"
+    ],
+    [
+     2008,
+     "深圳香雪"
+    ],
+    [
+     2009,
+     "深圳队"
+    ],
+    [
+     2010,
+     "深圳红钻"
+    ],
+    [
+     2019,
+     "深圳队"
+    ]
+   ],
+   "gone": 2024
+  },
+  "CHN:shenzhen peng city": {
+   "zh": "深圳新鹏城"
+  },
+  "CHN:shijiazhuang yongchang": {
+   "zh": "石家庄永昌"
+  },
+  "CHN:sichuan guancheng": {
+   "zh": "四川冠城",
+   "era": [
+    [
+     1994,
+     "四川全兴"
+    ],
+    [
+     2001,
+     "四川商务通"
+    ],
+    [
+     2002,
+     "四川大河"
+    ],
+    [
+     2003,
+     "四川冠城"
+    ]
+   ],
+   "gone": 2006
+  },
+  "CHN:south china aa": {
+   "zh": "南华"
+  },
+  "CHN:tianjin teda": {
+   "zh": "天津津门虎",
+   "era": [
+    [
+     1995,
+     "天津三星"
+    ],
+    [
+     1997,
+     "天津立飞"
+    ],
+    [
+     1999,
+     "天津泰达"
+    ],
+    [
+     2003,
+     "天津康师傅"
+    ],
+    [
+     2005,
+     "天津泰达"
+    ],
+    [
+     2022,
+     "天津津门虎"
+    ]
+   ]
+  },
+  "CHN:tianjin tianhai": {
+   "zh": "天津天海",
+   "era": [
+    [
+     2017,
+     "天津权健"
+    ],
+    [
+     2019,
+     "天津天海"
+    ]
+   ],
+   "gone": 2020
+  },
+  "CHN:wuhan guanggu": {
+   "zh": "武汉光谷",
+   "era": [
+    [
+     1998,
+     "武汉红金龙"
+    ],
+    [
+     1999,
+     "武汉红桃K"
+    ],
+    [
+     2005,
+     "武汉黄鹤楼"
+    ],
+    [
+     2006,
+     "武汉光谷"
+    ]
+   ],
+   "gone": 2009
+  },
+  "CHN:wuhan three towns": {
+   "zh": "武汉三镇"
+  },
+  "CHN:wuhan yangtze river": {
+   "zh": "武汉长江",
+   "era": [
+    [
+     2013,
+     "武汉卓尔"
+    ],
+    [
+     2022,
+     "武汉长江"
+    ]
+   ],
+   "gone": 2023
+  },
+  "CHN:xiamen lanshi": {
+   "zh": "厦门蓝狮",
+   "era": [
+    [
+     2000,
+     "厦门厦新"
+    ],
+    [
+     2006,
+     "厦门蓝狮"
+    ]
+   ],
+   "gone": 2008
+  },
+  "CHN:xinjiang tianshan leopard": {
+   "zh": "新疆天山雪豹"
+  },
+  "CHN:yanbian fude": {
+   "zh": "延边富德",
+   "era": [
+    [
+     1994,
+     "吉林三星"
+    ],
+    [
+     1995,
+     "延边现代"
+    ],
+    [
+     1997,
+     "延边敖东"
+    ],
+    [
+     1999,
+     "吉林敖东"
+    ],
+    [
+     2016,
+     "延边富德"
+    ]
+   ],
+   "gone": 2019
+  },
+  "CHN:yunnan hongta": {
+   "zh": "云南红塔",
+   "gone": 2004
+  },
+  "CHN:zhejiang": {
+   "zh": "浙江队",
+   "era": [
+    [
+     2007,
+     "浙江绿城"
+    ],
+    [
+     2009,
+     "杭州绿城"
+    ],
+    [
+     2022,
+     "浙江队"
+    ]
+   ]
+  },
+  "CHN:zhejiang professional": {
+   "zh": "浙江职业"
+  },
+  "CIV:asec mimosas": {
+   "zh": "ASEC米莫萨"
+  },
+  "CIV:athletic adjame": {
+   "zh": "迪沃"
+  },
+  "CIV:denguele": {
+   "zh": "登盖莱"
+  },
+  "CIV:issia wazi": {
+   "zh": "埃斯亚瓦兹"
+  },
+  "CIV:toumodi": {
+   "zh": "图莫迪"
+  },
+  "CMR:canon yaounde": {
+   "zh": "雅温得加农炮"
+  },
+  "CMR:coton garoua": {
+   "zh": "加鲁阿棉花运动"
+  },
+  "CMR:tonnerre yaounde": {
+   "zh": "雅温得霹雳"
+  },
+  "COL:america cali": {
+   "zh": "卡利美洲"
+  },
+  "COL:atletico bucaramanga": {
+   "zh": "布卡拉曼加竞技"
+  },
+  "COL:atletico nacional": {
+   "zh": "民族竞技"
+  },
+  "COL:bogota": {
+   "zh": "波哥大"
+  },
+  "COL:boyaca chico": {
+   "zh": "博亚卡捷高"
+  },
+  "COL:boyaca patriotas": {
+   "zh": "博亚卡爱国者"
+  },
+  "COL:cortulua": {
+   "zh": "科尔图洛"
+  },
+  "COL:cucuta deportivo": {
+   "zh": "库库塔体育"
+  },
+  "COL:deportes quindio": {
+   "zh": "金迪奥"
+  },
+  "COL:deportes tolima": {
+   "zh": "托利马竞技"
+  },
+  "COL:deportivo cali": {
+   "zh": "卡利体育"
+  },
+  "COL:deportivo independiente medellin": {
+   "zh": "麦德林独立"
+  },
+  "COL:deportivo pasto": {
+   "zh": "帕斯度"
+  },
+  "COL:deportivo pereira": {
+   "zh": "佩雷拉"
+  },
+  "COL:envigado": {
+   "zh": "恩维加多"
+  },
+  "COL:gold eagles": {
+   "zh": "伊塔圭"
+  },
+  "COL:independiente santa fe": {
+   "zh": "圣塔菲独立"
+  },
+  "COL:junior barranquilla": {
+   "zh": "巴兰基亚青年"
+  },
+  "COL:leones": {
+   "zh": "拉科鲁尼亚·里奥内格罗"
+  },
+  "COL:millonarios": {
+   "zh": "百万富翁"
+  },
+  "COL:once caldas": {
+   "zh": "卡尔达斯十一人"
+  },
+  "COL:real cartagena": {
+   "zh": "皇家卡塔赫纳"
+  },
+  "CRI:cs herediano": {
+   "zh": "埃雷迪亚诺"
+  },
+  "CRI:liga deportiva alajuelense": {
+   "zh": "Liga Deportiva Alajuelense"
+  },
+  "CRI:puntarenas": {
+   "zh": "蓬塔雷纳斯"
+  },
+  "CYP:aek larnaca": {
+   "zh": "AEK拉纳卡"
+  },
+  "CYP:ael limassol": {
+   "zh": "AEL利马索尔"
+  },
+  "CYP:anorthosis famagusta": {
+   "zh": "安罗科萨斯法马古斯塔"
+  },
+  "CYP:apoel": {
+   "zh": "尼科西亚希腊人竞技"
+  },
+  "CYP:apollon limassol": {
+   "zh": "利马索尔阿波罗"
+  },
+  "CYP:apop kinyras": {
+   "zh": "APOP基尼拉斯"
+  },
+  "CYP:aris limassol": {
+   "zh": "利马索尔艾利斯"
+  },
+  "CYP:doxa katokopias": {
+   "zh": "杜萨卡图高比斯"
+  },
+  "CYP:omonia": {
+   "zh": "奥莫尼亚体育会"
+  },
+  "CYP:pafos": {
+   "zh": "帕福斯"
+  },
+  "CZE:1 pribram": {
+   "zh": "普日布拉姆"
+  },
+  "CZE:1 slovacko": {
+   "zh": "斯洛瓦茨科"
+  },
+  "CZE:1fc slovacko": {
+   "zh": "斯洛瓦茨科"
+  },
+  "CZE:banik ostrava": {
+   "zh": "奥斯特拉瓦巴尼克"
+  },
+  "CZE:bohemians": {
+   "zh": "波希米亚人1905"
+  },
+  "CZE:bohemians praha": {
+   "zh": "波希米亚人1905"
+  },
+  "CZE:chmel blsany": {
+   "zh": "赫梅布利沙"
+  },
+  "CZE:drnovice": {
+   "zh": "德诺维切"
+  },
+  "CZE:dukla prague": {
+   "zh": "杜克拉布拉格"
+  },
+  "CZE:dukla praha": {
+   "zh": "杜克拉布拉格"
+  },
+  "CZE:dynamo ceske budejovice": {
+   "zh": "布杰约维采迪纳莫"
+  },
+  "CZE:fastav zlin": {
+   "zh": "施连"
+  },
+  "CZE:hradec kralove": {
+   "zh": "赫拉德茨克拉洛韦"
+  },
+  "CZE:jablonec": {
+   "zh": "亚布洛内茨"
+  },
+  "CZE:mfk karvina": {
+   "zh": "卡维纳"
+  },
+  "CZE:mlada boleslav": {
+   "zh": "博莱斯拉夫"
+  },
+  "CZE:pardubice": {
+   "zh": "帕尔杜比斯"
+  },
+  "CZE:pribram": {
+   "zh": "普日布拉姆"
+  },
+  "CZE:sfc opava": {
+   "zh": "奥巴华"
+  },
+  "CZE:sigma olomouc": {
+   "zh": "奥洛穆茨西格马"
+  },
+  "CZE:slavia prague": {
+   "zh": "布拉格斯拉维亚"
+  },
+  "CZE:slavia praha": {
+   "zh": "布拉格斯拉维亚"
+  },
+  "CZE:slovan liberec": {
+   "zh": "利贝雷茨"
+  },
+  "CZE:sparta prague": {
+   "zh": "布拉格斯巴达"
+  },
+  "CZE:sparta praha": {
+   "zh": "布拉格斯巴达"
+  },
+  "CZE:teplice": {
+   "zh": "特普利采"
+  },
+  "CZE:viktoria plzen": {
+   "zh": "比尔森胜利"
+  },
+  "CZE:viktoria zizkov": {
+   "zh": "日兹科夫胜利"
+  },
+  "CZE:vysocina jihlava": {
+   "zh": "伊赫拉瓦"
+  },
+  "CZE:zbrojovka brno": {
+   "zh": "布尔诺"
+  },
+  "CZE:zlin": {
+   "zh": "兹林"
+  },
+  "DEU:07 elversberg": {
+   "zh": "埃尔弗斯贝格"
+  },
+  "DEU:08 homburg": {
+   "zh": "洪堡"
+  },
+  "DEU:1 heidenheim": {
+   "zh": "海登海姆"
+  },
+  "DEU:1 magdeburg": {
+   "zh": "马格德堡"
+  },
+  "DEU:1 mainz 05 ii": {
+   "zh": "美因茨05"
+  },
+  "DEU:1 nurnberg": {
+   "zh": "纽伦堡"
+  },
+  "DEU:1 pforzheim": {
+   "zh": "普福尔茨海姆"
+  },
+  "DEU:1 saarbrucken": {
+   "zh": "萨尔布吕肯"
+  },
+  "DEU:1 schweinfurt 05": {
+   "zh": "施韦因富特05"
+  },
+  "DEU:1 union berlin": {
+   "zh": "柏林联"
+  },
+  "DEU:1fc union berlin": {
+   "zh": "柏林联合"
+  },
+  "DEU:93 hamburg": {
+   "zh": "汉堡93"
+  },
+  "DEU:alemannia aachen": {
+   "zh": "亚琛"
+  },
+  "DEU:altonaer von": {
+   "zh": "阿尔托纳93"
+  },
+  "DEU:arminia bielefeld": {
+   "zh": "比勒费尔德"
+  },
+  "DEU:auersmacher": {
+   "zh": "奥尔斯马赫体育"
+  },
+  "DEU:augsburg": {
+   "zh": "奥格斯堡"
+  },
+  "DEU:babelsberg 03": {
+   "zh": "巴贝尔斯贝格03"
+  },
+  "DEU:bayer 05 uerdingen": {
+   "zh": "乌丁根"
+  },
+  "DEU:bayer leverkusen": {
+   "zh": "勒沃库森"
+  },
+  "DEU:bayern": {
+   "zh": "拜仁慕尼黑"
+  },
+  "DEU:bayern munchen ii": {
+   "zh": "拜仁慕尼黑足球俱乐部二队"
+  },
+  "DEU:bayern munich junior team": {
+   "zh": "拜仁慕尼黑青年队"
+  },
+  "DEU:bayreuth": {
+   "zh": "上弗兰肯拜罗伊特"
+  },
+  "DEU:bfc dynamo": {
+   "zh": "柏林迪纳摩"
+  },
+  "DEU:blau weiss 90 berlin": {
+   "zh": "蓝白柏林90"
+  },
+  "DEU:blau weiss berlin": {
+   "zh": "蓝白柏林体育"
+  },
+  "DEU:bochum": {
+   "zh": "波鸿"
+  },
+  "DEU:borussia dortmund ii": {
+   "zh": "普鲁士多特蒙德二队"
+  },
+  "DEU:borussia neunkirchen": {
+   "zh": "诺因基兴"
+  },
+  "DEU:bremerhaven": {
+   "zh": "不来梅哈芬奥林匹克"
+  },
+  "DEU:bsv stahl brandenburg": {
+   "zh": "勃兰登堡钢铁"
+  },
+  "DEU:carl zeiss jena": {
+   "zh": "卡尔蔡斯耶拿"
+  },
+  "DEU:chemnitzer": {
+   "zh": "开姆尼茨"
+  },
+  "DEU:darmstadt 98": {
+   "zh": "达姆施塔特"
+  },
+  "DEU:dortmund": {
+   "zh": "多特蒙德"
+  },
+  "DEU:dynamo dresden": {
+   "zh": "德累斯顿迪纳摩"
+  },
+  "DEU:eintracht braunschweig": {
+   "zh": "布伦瑞克"
+  },
+  "DEU:eintracht frankfurt": {
+   "zh": "法兰克福"
+  },
+  "DEU:eintracht trier": {
+   "zh": "和睦特里尔"
+  },
+  "DEU:elversberg": {
+   "zh": "埃尔沃斯贝格体育联合会"
+  },
+  "DEU:energie cottbus": {
+   "zh": "科特布斯"
+  },
+  "DEU:erkenschwick": {
+   "zh": "埃尔肯施维克竞赛"
+  },
+  "DEU:erzgebirge aue": {
+   "zh": "厄尔士山脉奥厄"
+  },
+  "DEU:fortuna dusseldorf": {
+   "zh": "杜塞尔多夫"
+  },
+  "DEU:fortuna koln": {
+   "zh": "幸运科隆体育"
+  },
+  "DEU:freiburg": {
+   "zh": "弗赖堡"
+  },
+  "DEU:fv bad honnef": {
+   "zh": "巴特洪内夫"
+  },
+  "DEU:geislingen": {
+   "zh": "盖斯林根体育"
+  },
+  "DEU:giessen": {
+   "zh": "吉森体育"
+  },
+  "DEU:greuther furth": {
+   "zh": "菲尔特"
+  },
+  "DEU:gutersloh": {
+   "zh": "居特斯洛2000"
+  },
+  "DEU:hallescher": {
+   "zh": "哈雷斯彻"
+  },
+  "DEU:hamburg": {
+   "zh": "汉堡"
+  },
+  "DEU:hannover 96": {
+   "zh": "汉诺威96"
+  },
+  "DEU:hansa rostock": {
+   "zh": "汉莎罗斯托克"
+  },
+  "DEU:havelse": {
+   "zh": "哈弗瑟"
+  },
+  "DEU:hertha": {
+   "zh": "柏林赫塔"
+  },
+  "DEU:hertha zehlendorf": {
+   "zh": "策伦多夫赫塔"
+  },
+  "DEU:hoffenheim": {
+   "zh": "霍芬海姆"
+  },
+  "DEU:holstein kiel": {
+   "zh": "荷尔斯泰因基尔"
+  },
+  "DEU:hsv barmbek uhlenhorst": {
+   "zh": "巴姆贝克-乌伦霍斯特"
+  },
+  "DEU:ingolstadt 04": {
+   "zh": "因戈尔施塔特04"
+  },
+  "DEU:jahn regensburg": {
+   "zh": "雷根斯堡"
+  },
+  "DEU:junkersdorf": {
+   "zh": "容克斯多夫"
+  },
+  "DEU:kaiserslautern": {
+   "zh": "凯泽斯劳滕"
+  },
+  "DEU:karlsruher": {
+   "zh": "卡尔斯鲁厄"
+  },
+  "DEU:kfc uerdingen 05": {
+   "zh": "乌丁根"
+  },
+  "DEU:kickers offenbach": {
+   "zh": "奥芬巴赫踢球者"
+  },
+  "DEU:koln": {
+   "zh": "科隆"
+  },
+  "DEU:ksv hessen kassel": {
+   "zh": "黑森卡塞尔"
+  },
+  "DEU:leipzig": {
+   "zh": "RB莱比锡"
+  },
+  "DEU:lubeck": {
+   "zh": "吕贝克"
+  },
+  "DEU:ludwigsburg": {
+   "zh": "路德维希堡"
+  },
+  "DEU:mainz": {
+   "zh": "美因茨05第一足球与体育"
+  },
+  "DEU:marl huls": {
+   "zh": "马尔-许尔斯体操及体育"
+  },
+  "DEU:meppen": {
+   "zh": "梅彭体育"
+  },
+  "DEU:monchengladbach": {
+   "zh": "门兴格拉德巴赫"
+  },
+  "DEU:msv duisburg": {
+   "zh": "杜伊斯堡"
+  },
+  "DEU:munchen": {
+   "zh": "慕尼黑1860"
+  },
+  "DEU:nord wedding": {
+   "zh": "林柏迅速"
+  },
+  "DEU:oldenburg": {
+   "zh": "奥尔登堡"
+  },
+  "DEU:osnabruck": {
+   "zh": "奥斯纳布吕克"
+  },
+  "DEU:paderborn 07": {
+   "zh": "帕德博恩"
+  },
+  "DEU:pirmasens": {
+   "zh": "皮尔马森斯"
+  },
+  "DEU:preussen koln": {
+   "zh": "维特利希体育"
+  },
+  "DEU:preussen munster": {
+   "zh": "普鲁士明斯特"
+  },
+  "DEU:red bull bora hansgrohe": {
+   "zh": "红牛公司"
+  },
+  "DEU:remscheid": {
+   "zh": "雷姆沙伊德"
+  },
+  "DEU:rot weiss ahlen": {
+   "zh": "红白艾伦"
+  },
+  "DEU:rot weiss erfurt": {
+   "zh": "红白埃尔福特"
+  },
+  "DEU:rot weiss essen": {
+   "zh": "红白埃森"
+  },
+  "DEU:rot weiss frankfurt": {
+   "zh": "红白法兰克福"
+  },
+  "DEU:rot weiss oberhausen": {
+   "zh": "红白奥伯豪森"
+  },
+  "DEU:rotenburger": {
+   "zh": "罗滕堡体育"
+  },
+  "DEU:salmrohr": {
+   "zh": "萨尔姆罗尔足球体育"
+  },
+  "DEU:sandhausen": {
+   "zh": "桑德豪森"
+  },
+  "DEU:scc berlin": {
+   "zh": "夏洛滕堡体育"
+  },
+  "DEU:schalke": {
+   "zh": "沙尔克04"
+  },
+  "DEU:schwaben augsburg": {
+   "zh": "施瓦本奥格斯堡"
+  },
+  "DEU:seligenporten": {
+   "zh": "塞利根波滕"
+  },
+  "DEU:sg sonnenhof grossaspach": {
+   "zh": "松嫩霍夫大阿斯帕赫"
+  },
+  "DEU:sg wattenscheid 09": {
+   "zh": "瓦滕沙伊德09"
+  },
+  "DEU:sportfreunde lotte": {
+   "zh": "洛特体育之友"
+  },
+  "DEU:sportfreunde siegen": {
+   "zh": "锡根体育之友"
+  },
+  "DEU:ssv reutlingen": {
+   "zh": "罗伊特林根体育及游泳"
+  },
+  "DEU:ssv reutlingen 05": {
+   "zh": "罗伊特林根"
+  },
+  "DEU:ssv ulm": {
+   "zh": "乌尔姆"
+  },
+  "DEU:ssv ulm fussball": {
+   "zh": "乌尔姆"
+  },
+  "DEU:st pauli": {
+   "zh": "圣保利"
+  },
+  "DEU:stuttgart": {
+   "zh": "斯图加特"
+  },
+  "DEU:stuttgart ii": {
+   "zh": "斯图加特二队"
+  },
+  "DEU:stuttgarter kickers": {
+   "zh": "斯图加特踢球者"
+  },
+  "DEU:sva bad hersfeld": {
+   "zh": "SVA巴特黑斯费尔德"
+  },
+  "DEU:tennis borussia berlin": {
+   "zh": "柏林普鲁士网球"
+  },
+  "DEU:teutonia ottensen": {
+   "zh": "条顿尼亚奥滕森"
+  },
+  "DEU:tsf ditzingen": {
+   "zh": "迪钦根体育之友"
+  },
+  "DEU:turkgucu ataspor munchen": {
+   "zh": "慕尼黑土耳其力量"
+  },
+  "DEU:turkgucu munchen": {
+   "zh": "慕尼黑土耳其力量"
+  },
+  "DEU:turu dusseldorf": {
+   "zh": "TURU杜塞尔多夫"
+  },
+  "DEU:tus koblenz": {
+   "zh": "科布伦茨"
+  },
+  "DEU:tus landstuhl": {
+   "zh": "兰茨图尔体操及体育"
+  },
+  "DEU:unterhaching": {
+   "zh": "翁特哈兴"
+  },
+  "DEU:verl": {
+   "zh": "维尔拉"
+  },
+  "DEU:vfc plauen": {
+   "zh": "普劳恩"
+  },
+  "DEU:vfr aalen": {
+   "zh": "阿伦"
+  },
+  "DEU:vfr heilbronn": {
+   "zh": "海尔布隆草地竞赛"
+  },
+  "DEU:viktoria koln": {
+   "zh": "科隆维多利亚"
+  },
+  "DEU:vsk osterholz scharmbeck": {
+   "zh": "奥斯特霍尔茨-沙姆贝克体育及卫生"
+  },
+  "DEU:wacker burghausen": {
+   "zh": "瓦克尔布格豪森"
+  },
+  "DEU:waldhof mannheim": {
+   "zh": "瓦德霍夫曼海姆"
+  },
+  "DEU:wehen wiesbaden": {
+   "zh": "韦恩威斯巴登"
+  },
+  "DEU:werder bremen": {
+   "zh": "云达不莱梅"
+  },
+  "DEU:werder bremen ii": {
+   "zh": "云达不莱梅二队"
+  },
+  "DEU:wolfsburg": {
+   "zh": "沃尔夫斯堡"
+  },
+  "DEU:wuppertaler": {
+   "zh": "伍珀塔尔"
+  },
+  "DEU:wurzburger kickers": {
+   "zh": "维尔茨堡踢球者"
+  },
+  "DEU:zwickau": {
+   "zh": "茨维考"
+  },
+  "DNK:aab fodbold": {
+   "zh": "阿尔堡"
+  },
+  "DNK:aalborg": {
+   "zh": "奥尔堡"
+  },
+  "DNK:aalborg boldspilklub": {
+   "zh": "奥尔堡"
+  },
+  "DNK:aarhus gf": {
+   "zh": "奥胡斯"
+  },
+  "DNK:aarhus gymnastikforening": {
+   "zh": "奥胡斯体操协会"
+  },
+  "DNK:akademisk boldklub": {
+   "zh": "学院"
+  },
+  "DNK:boldklubben frem": {
+   "zh": "前进"
+  },
+  "DNK:brondby": {
+   "zh": "布伦德比"
+  },
+  "DNK:copenhagen": {
+   "zh": "哥本哈根"
+  },
+  "DNK:esbjerg fb": {
+   "zh": "埃斯比约联合"
+  },
+  "DNK:fredericia": {
+   "zh": "费达历西亚"
+  },
+  "DNK:helsingor": {
+   "zh": "赫尔辛格"
+  },
+  "DNK:hobro": {
+   "zh": "霍布罗体育"
+  },
+  "DNK:horsens": {
+   "zh": "霍森斯联合"
+  },
+  "DNK:hvidovre": {
+   "zh": "维多夫雷"
+  },
+  "DNK:kjobenhavns boldklub": {
+   "zh": "哥本哈根球类"
+  },
+  "DNK:koge boldklub": {
+   "zh": "科格"
+  },
+  "DNK:kolding": {
+   "zh": "科灵"
+  },
+  "DNK:lyngby": {
+   "zh": "林比"
+  },
+  "DNK:lyngby boldklub": {
+   "zh": "林比"
+  },
+  "DNK:midtjylland": {
+   "zh": "中日德兰"
+  },
+  "DNK:n stved": {
+   "zh": "奈斯特韦兹"
+  },
+  "DNK:nordsj lland": {
+   "zh": "北西兰"
+  },
+  "DNK:nordsjaelland": {
+   "zh": "北西兰"
+  },
+  "DNK:nordvest": {
+   "zh": "诺维斯特"
+  },
+  "DNK:odense": {
+   "zh": "欧登塞"
+  },
+  "DNK:odense boldklub": {
+   "zh": "欧登塞"
+  },
+  "DNK:randers": {
+   "zh": "兰讷斯"
+  },
+  "DNK:silkeborg": {
+   "zh": "锡尔克堡体育协会"
+  },
+  "DNK:sonderjyske fodbold": {
+   "zh": "南日德兰"
+  },
+  "DNK:vejle boldklub": {
+   "zh": "瓦埃勒"
+  },
+  "DNK:vendsyssel ff": {
+   "zh": "云德斯素联"
+  },
+  "DNK:vestsjaelland": {
+   "zh": "西西兰"
+  },
+  "DNK:viborg ff": {
+   "zh": "维堡"
+  },
+  "DZA:akbou": {
+   "zh": "阿克布"
+  },
+  "DZA:asm oran": {
+   "zh": "ASM奥兰"
+  },
+  "DZA:aso chlef": {
+   "zh": "ASO谢里夫"
+  },
+  "DZA:belouizdad": {
+   "zh": "CR比罗达特"
+  },
+  "DZA:biskra": {
+   "zh": "比斯克拉"
+  },
+  "DZA:cs constantine": {
+   "zh": "CS康斯坦丁"
+  },
+  "DZA:es mostaganem": {
+   "zh": "穆斯塔加奈姆"
+  },
+  "DZA:es setif": {
+   "zh": "塞提夫协定"
+  },
+  "DZA:js kabylie": {
+   "zh": "卡比利青年"
+  },
+  "DZA:js saoura": {
+   "zh": "萨乌拉青年"
+  },
+  "DZA:mc alger": {
+   "zh": "MC阿尔及尔"
+  },
+  "DZA:mc algiers": {
+   "zh": "MC阿尔及尔"
+  },
+  "DZA:mc el bayadh": {
+   "zh": "巴耶德"
+  },
+  "DZA:mc oran": {
+   "zh": "MC奥兰"
+  },
+  "DZA:mouloudia of oran": {
+   "zh": "MC奥兰"
+  },
+  "DZA:na hussein dey": {
+   "zh": "侯赛因戴伊胜利竞技会"
+  },
+  "DZA:nc magra": {
+   "zh": "马格拉"
+  },
+  "DZA:paradou": {
+   "zh": "帕哈杜AC"
+  },
+  "DZA:usm alger": {
+   "zh": "USM阿尔及尔"
+  },
+  "DZA:usm khenchela": {
+   "zh": "汉舍莱"
+  },
+  "ECU:barcelona": {
+   "zh": "巴塞罗那竞技"
+  },
+  "ECU:cuenca": {
+   "zh": "昆卡竞技"
+  },
+  "ECU:deportivo el nacional": {
+   "zh": "民族竞技"
+  },
+  "ECU:deportivo quevedo": {
+   "zh": "奎维多"
+  },
+  "ECU:emelec": {
+   "zh": "埃梅莱克体育"
+  },
+  "ECU:independiente del valle": {
+   "zh": "从山谷独立"
+  },
+  "ECU:liga deportiva universitaria quito": {
+   "zh": "基多大学体育联盟"
+  },
+  "ECU:quito": {
+   "zh": "基多体育"
+  },
+  "ECU:sociedad deportiva aucas": {
+   "zh": "奥卡斯"
+  },
+  "EGY:al ahly": {
+   "zh": "开罗国民"
+  },
+  "EGY:al ittihad alexandria": {
+   "zh": "亚历山大伊蒂哈德"
+  },
+  "EGY:al masry": {
+   "zh": "马斯里"
+  },
+  "EGY:al mokawloon al arab": {
+   "zh": "阿拉伯建筑"
+  },
+  "EGY:ceramica cleopatra": {
+   "zh": "埃及陶瓷"
+  },
+  "EGY:el gouna": {
+   "zh": "古纳"
+  },
+  "EGY:enppi": {
+   "zh": "埃及石油"
+  },
+  "EGY:future": {
+   "zh": "未来"
+  },
+  "EGY:ghazl al mehalla": {
+   "zh": "加斯马哈拉"
+  },
+  "EGY:haras el hodood": {
+   "zh": "边防军"
+  },
+  "EGY:ismaily": {
+   "zh": "伊斯梅利体育"
+  },
+  "EGY:ittihad el iskandary": {
+   "zh": "亚历山大伊蒂哈德"
+  },
+  "EGY:national bank": {
+   "zh": "国家银行"
+  },
+  "EGY:petrojet": {
+   "zh": "彼特捷德"
+  },
+  "EGY:pharco": {
+   "zh": "法尔科"
+  },
+  "EGY:pyramids": {
+   "zh": "金字塔"
+  },
+  "EGY:smouha sporting": {
+   "zh": "索莫哈"
+  },
+  "EGY:talaea el gaish": {
+   "zh": "陆军先锋"
+  },
+  "EGY:tersana": {
+   "zh": "特萨纳体育"
+  },
+  "EGY:wadi degla": {
+   "zh": "底格里斯河谷"
+  },
+  "EGY:zamalek": {
+   "zh": "扎马雷克体育"
+  },
+  "EGY:zed": {
+   "zh": "泽德"
+  },
+  "ENG:accrington": {
+   "zh": "阿克宁顿"
+  },
+  "ENG:accrington stanley": {
+   "zh": "艾宁顿斯坦利"
+  },
+  "ENG:airdrieonians": {
+   "zh": "艾迪尔人"
+  },
+  "ENG:aldershot": {
+   "zh": "奥尔德肖特"
+  },
+  "ENG:aldershot town": {
+   "zh": "艾迪索特镇"
+  },
+  "ENG:alfreton town": {
+   "zh": "阿尔费登镇"
+  },
+  "ENG:arsenal": {
+   "zh": "阿森纳"
+  },
+  "ENG:aston villa": {
+   "zh": "阿斯顿维拉"
+  },
+  "ENG:ballymena united": {
+   "zh": "巴利米纳联"
+  },
+  "ENG:bangor city": {
+   "zh": "班戈城"
+  },
+  "ENG:barnet": {
+   "zh": "巴尼特"
+  },
+  "ENG:barnsley": {
+   "zh": "巴恩斯利"
+  },
+  "ENG:barrow": {
+   "zh": "巴罗"
+  },
+  "ENG:bath city": {
+   "zh": "巴斯城"
+  },
+  "ENG:birmingham city": {
+   "zh": "伯明翰"
+  },
+  "ENG:blackburn rovers": {
+   "zh": "布莱克本"
+  },
+  "ENG:blackpool": {
+   "zh": "布莱克浦"
+  },
+  "ENG:bolton wanderers": {
+   "zh": "博尔顿"
+  },
+  "ENG:boston united": {
+   "zh": "波士顿联"
+  },
+  "ENG:bournemouth": {
+   "zh": "伯恩茅斯"
+  },
+  "ENG:bradford city": {
+   "zh": "布拉德福德城"
+  },
+  "ENG:brentford": {
+   "zh": "布伦特福德"
+  },
+  "ENG:brighton": {
+   "zh": "布莱顿"
+  },
+  "ENG:bristol city": {
+   "zh": "布里斯托尔城"
+  },
+  "ENG:bristol rovers": {
+   "zh": "布里斯托尔流浪者"
+  },
+  "ENG:bromley": {
+   "zh": "布罗姆利"
+  },
+  "ENG:burnley": {
+   "zh": "伯恩利"
+  },
+  "ENG:burton albion": {
+   "zh": "伯顿阿尔比恩"
+  },
+  "ENG:bury": {
+   "zh": "伯里"
+  },
+  "ENG:caledonian": {
+   "zh": "卡莱多尼安"
+  },
+  "ENG:cambridge united": {
+   "zh": "剑桥联"
+  },
+  "ENG:cardiff city": {
+   "zh": "卡迪夫城"
+  },
+  "ENG:carlisle united": {
+   "zh": "卡莱尔联"
+  },
+  "ENG:charlton athletic": {
+   "zh": "查尔顿"
+  },
+  "ENG:chelsea": {
+   "zh": "切尔西"
+  },
+  "ENG:cheltenham": {
+   "zh": "切尔滕纳姆"
+  },
+  "ENG:cheltenham town": {
+   "zh": "切尔滕汉姆"
+  },
+  "ENG:chester": {
+   "zh": "切斯特城"
+  },
+  "ENG:chester city": {
+   "zh": "切斯特城"
+  },
+  "ENG:chesterfield": {
+   "zh": "切斯特菲尔德"
+  },
+  "ENG:colchester united": {
+   "zh": "科尔切斯特联"
+  },
+  "ENG:corinthian casuals": {
+   "zh": "科林蒂安-休闲"
+  },
+  "ENG:coventry city": {
+   "zh": "考文垂"
+  },
+  "ENG:crawley town": {
+   "zh": "克劳利镇"
+  },
+  "ENG:crewe alexandra": {
+   "zh": "克鲁"
+  },
+  "ENG:crockenhill": {
+   "zh": "克洛肯希尔"
+  },
+  "ENG:crystal palace": {
+   "zh": "水晶宫"
+  },
+  "ENG:dagenham redbridge": {
+   "zh": "达根汉姆和雷德布里奇"
+  },
+  "ENG:darlington": {
+   "zh": "达灵顿"
+  },
+  "ENG:derby county": {
+   "zh": "德比郡"
+  },
+  "ENG:doncaster rovers": {
+   "zh": "唐卡斯特流浪"
+  },
+  "ENG:dover athletic": {
+   "zh": "多佛"
+  },
+  "ENG:dulwich hamlet": {
+   "zh": "达利奇哈姆雷特"
+  },
+  "ENG:dunfermline athletic": {
+   "zh": "邓弗姆林竞技"
+  },
+  "ENG:eastleigh": {
+   "zh": "伊斯特利"
+  },
+  "ENG:ebbsfleet united": {
+   "zh": "埃布斯弗利特联"
+  },
+  "ENG:edgware town": {
+   "zh": "埃奇韦尔"
+  },
+  "ENG:epsom ewell": {
+   "zh": "埃普索姆"
+  },
+  "ENG:everton": {
+   "zh": "埃弗顿"
+  },
+  "ENG:exeter city": {
+   "zh": "埃克塞特城"
+  },
+  "ENG:fleetwood town": {
+   "zh": "弗利特伍德镇"
+  },
+  "ENG:forest green rovers": {
+   "zh": "格林森林流浪"
+  },
+  "ENG:fulham": {
+   "zh": "富勒姆"
+  },
+  "ENG:gateshead": {
+   "zh": "盖茨黑德"
+  },
+  "ENG:gillingham": {
+   "zh": "吉林汉姆"
+  },
+  "ENG:grimsby town": {
+   "zh": "格林斯比镇"
+  },
+  "ENG:halifax town": {
+   "zh": "哈利法克斯镇"
+  },
+  "ENG:hallam": {
+   "zh": "哈勒姆"
+  },
+  "ENG:harrogate town": {
+   "zh": "哈洛格特镇"
+  },
+  "ENG:hartlepool united": {
+   "zh": "哈特尔普尔联"
+  },
+  "ENG:hayes": {
+   "zh": "海耶斯和叶汀联"
+  },
+  "ENG:hednesford town": {
+   "zh": "汉德尼斯福德镇"
+  },
+  "ENG:hereford united": {
+   "zh": "赫里福德联"
+  },
+  "ENG:hornchurch": {
+   "zh": "侯恩乔奇"
+  },
+  "ENG:huddersfield town": {
+   "zh": "哈德斯菲尔德"
+  },
+  "ENG:hull city": {
+   "zh": "赫尔城"
+  },
+  "ENG:ipswich town": {
+   "zh": "伊普斯维奇"
+  },
+  "ENG:kidderminster harriers": {
+   "zh": "基德明斯特鹞鹰"
+  },
+  "ENG:leatherhead": {
+   "zh": "莱瑟希德"
+  },
+  "ENG:leeds united": {
+   "zh": "利兹联"
+  },
+  "ENG:leicester city": {
+   "zh": "莱斯特城"
+  },
+  "ENG:leyton orient": {
+   "zh": "莱顿东方"
+  },
+  "ENG:lincoln city": {
+   "zh": "林肯城"
+  },
+  "ENG:liverpool": {
+   "zh": "利物浦"
+  },
+  "ENG:luton town": {
+   "zh": "卢顿"
+  },
+  "ENG:macclesfield": {
+   "zh": "麦克尔斯菲尔德"
+  },
+  "ENG:macclesfield town": {
+   "zh": "马科斯菲尔德"
+  },
+  "ENG:maidstone united": {
+   "zh": "美德斯通联"
+  },
+  "ENG:manchester city": {
+   "zh": "曼城"
+  },
+  "ENG:manchester united": {
+   "zh": "曼联"
+  },
+  "ENG:mansfield town": {
+   "zh": "曼斯菲尔德城"
+  },
+  "ENG:middlesbrough": {
+   "zh": "米德尔斯堡"
+  },
+  "ENG:millwall": {
+   "zh": "米尔沃尔"
+  },
+  "ENG:milton keynes dons": {
+   "zh": "米尔顿凯恩斯"
+  },
+  "ENG:morecambe": {
+   "zh": "莫克姆"
+  },
+  "ENG:newbury town": {
+   "zh": "纽伯里"
+  },
+  "ENG:newcastle united": {
+   "zh": "纽卡斯尔联"
+  },
+  "ENG:newport county": {
+   "zh": "纽波特郡"
+  },
+  "ENG:north greenford united": {
+   "zh": "北格林福德联"
+  },
+  "ENG:northampton town": {
+   "zh": "北安普顿"
+  },
+  "ENG:norwich city": {
+   "zh": "诺维奇"
+  },
+  "ENG:nottingham forest": {
+   "zh": "诺丁汉森林"
+  },
+  "ENG:notts county": {
+   "zh": "诺茨郡"
+  },
+  "ENG:oldham athletic": {
+   "zh": "奥尔德姆"
+  },
+  "ENG:oxford united": {
+   "zh": "牛津联"
+  },
+  "ENG:peterborough united": {
+   "zh": "彼得伯勒联"
+  },
+  "ENG:plymouth argyle": {
+   "zh": "普利茅斯"
+  },
+  "ENG:port vale": {
+   "zh": "韦尔港"
+  },
+  "ENG:portsmouth": {
+   "zh": "朴茨茅斯"
+  },
+  "ENG:preston north end": {
+   "zh": "普雷斯顿"
+  },
+  "ENG:queens park rangers": {
+   "zh": "女王公园巡游者"
+  },
+  "ENG:racing warwick": {
+   "zh": "禾域克竞赛"
+  },
+  "ENG:reading": {
+   "zh": "雷丁"
+  },
+  "ENG:rhyl": {
+   "zh": "里尔"
+  },
+  "ENG:rochdale": {
+   "zh": "罗奇代尔"
+  },
+  "ENG:rotherham united": {
+   "zh": "罗瑟勒姆"
+  },
+  "ENG:rushden diamonds": {
+   "zh": "鲁什登钻石"
+  },
+  "ENG:salford city": {
+   "zh": "沙福特城"
+  },
+  "ENG:scarborough": {
+   "zh": "斯卡伯勒"
+  },
+  "ENG:scottish league xi": {
+   "zh": "苏格兰XI"
+  },
+  "ENG:scunthorpe united": {
+   "zh": "斯坎索普联"
+  },
+  "ENG:sheffield united": {
+   "zh": "谢菲尔德联"
+  },
+  "ENG:sheffield wednesday": {
+   "zh": "谢周三"
+  },
+  "ENG:shrewsbury town": {
+   "zh": "施鲁斯伯里镇"
+  },
+  "ENG:southall": {
+   "zh": "索斯赫尔"
+  },
+  "ENG:southampton": {
+   "zh": "南安普顿"
+  },
+  "ENG:southend united": {
+   "zh": "绍森德"
+  },
+  "ENG:southport": {
+   "zh": "修夫港"
+  },
+  "ENG:southwick": {
+   "zh": "索斯威克"
+  },
+  "ENG:stafford rangers": {
+   "zh": "斯塔福特流浪"
+  },
+  "ENG:stalybridge celtic": {
+   "zh": "斯泰利布里奇些路迪"
+  },
+  "ENG:stevenage": {
+   "zh": "斯蒂夫尼奇"
+  },
+  "ENG:stevenage borough": {
+   "zh": "史提芬纳治"
+  },
+  "ENG:stockport county": {
+   "zh": "斯托克港"
+  },
+  "ENG:stoke city": {
+   "zh": "斯托克城"
+  },
+  "ENG:sunderland": {
+   "zh": "桑德兰"
+  },
+  "ENG:sutton united": {
+   "zh": "瑟顿联"
+  },
+  "ENG:swansea city": {
+   "zh": "斯旺西城"
+  },
+  "ENG:swindon town": {
+   "zh": "斯温登"
+  },
+  "ENG:tiverton town": {
+   "zh": "泰沃顿"
+  },
+  "ENG:torquay united": {
+   "zh": "托奎联"
+  },
+  "ENG:tottenham hotspur": {
+   "zh": "热刺"
+  },
+  "ENG:tranmere rovers": {
+   "zh": "特兰米尔流浪者"
+  },
+  "ENG:walsall": {
+   "zh": "沃尔索尔"
+  },
+  "ENG:watford": {
+   "zh": "沃特福德"
+  },
+  "ENG:welling united": {
+   "zh": "威灵联"
+  },
+  "ENG:wembley": {
+   "zh": "温布利"
+  },
+  "ENG:west bromwich albion": {
+   "zh": "西布罗姆维奇"
+  },
+  "ENG:west ham united": {
+   "zh": "西汉姆联"
+  },
+  "ENG:weston super mare": {
+   "zh": "滨海韦斯顿"
+  },
+  "ENG:whyteleafe": {
+   "zh": "怀特里夫"
+  },
+  "ENG:wigan athletic": {
+   "zh": "威根竞技"
+  },
+  "ENG:wimbledon": {
+   "zh": "温布尔顿"
+  },
+  "ENG:witney town": {
+   "zh": "威特尼"
+  },
+  "ENG:woking": {
+   "zh": "沃金"
+  },
+  "ENG:wolverhampton wanderers": {
+   "zh": "狼队"
+  },
+  "ENG:worksop town": {
+   "zh": "沃克索普镇"
+  },
+  "ENG:wrexham": {
+   "zh": "雷克瑟姆"
+  },
+  "ENG:wycombe wanderers": {
+   "zh": "威科姆流浪者"
+  },
+  "ENG:yeovil": {
+   "zh": "约维尔"
+  },
+  "ENG:yeovil town": {
+   "zh": "约维尔"
+  },
+  "ENG:york city": {
+   "zh": "约克城"
+  },
+  "ESP:ad alcorcon": {
+   "zh": "阿尔科孔"
+  },
+  "ESP:ad parla": {
+   "zh": "帕尔拉体育"
+  },
+  "ESP:alaves": {
+   "zh": "阿拉维斯"
+  },
+  "ESP:albacete": {
+   "zh": "阿尔巴塞特"
+  },
+  "ESP:albacete balompie": {
+   "zh": "阿尔巴塞特"
+  },
+  "ESP:almeria": {
+   "zh": "阿尔梅里亚"
+  },
+  "ESP:antiguoko": {
+   "zh": "安提瓜科"
+  },
+  "ESP:aretxabaleta": {
+   "zh": "阿雷查巴莱塔体育联盟"
+  },
+  "ESP:athletic": {
+   "zh": "毕尔巴鄂竞技"
+  },
+  "ESP:athletic b": {
+   "zh": "毕尔巴鄂竞技B队"
+  },
+  "ESP:atletico levante": {
+   "zh": "莱万特竞技（莱万特B队）"
+  },
+  "ESP:atletico madrid": {
+   "zh": "马德里竞技"
+  },
+  "ESP:atletico malagueno": {
+   "zh": "马拉加"
+  },
+  "ESP:atletico osasuna": {
+   "zh": "奥萨苏纳竞技"
+  },
+  "ESP:atletico sanluqueno": {
+   "zh": "桑鲁玖诺竞技"
+  },
+  "ESP:badalona": {
+   "zh": "巴达洛纳"
+  },
+  "ESP:barcelona": {
+   "zh": "巴塞罗那"
+  },
+  "ESP:barcelona b": {
+   "zh": "巴塞罗那B队"
+  },
+  "ESP:baskonia": {
+   "zh": "巴斯克尼亚"
+  },
+  "ESP:beasain": {
+   "zh": "贝萨因"
+  },
+  "ESP:benidorm": {
+   "zh": "贝尼多尔姆"
+  },
+  "ESP:betis": {
+   "zh": "皇家贝蒂斯"
+  },
+  "ESP:burgos": {
+   "zh": "布尔戈斯"
+  },
+  "ESP:cadiz": {
+   "zh": "加的斯"
+  },
+  "ESP:cartagena": {
+   "zh": "卡塔赫纳"
+  },
+  "ESP:castellon": {
+   "zh": "卡斯特伦"
+  },
+  "ESP:ce mataro": {
+   "zh": "马塔罗"
+  },
+  "ESP:ce sabadell": {
+   "zh": "萨瓦德尔"
+  },
+  "ESP:celta": {
+   "zh": "皇家维戈塞尔塔"
+  },
+  "ESP:celta fortuna": {
+   "zh": "切尔达足球会B队"
+  },
+  "ESP:celta vigo": {
+   "zh": "塞尔塔"
+  },
+  "ESP:centre desports sabadell": {
+   "zh": "萨瓦德尔"
+  },
+  "ESP:ciudad murcia": {
+   "zh": "穆尔西亚城"
+  },
+  "ESP:compostela": {
+   "zh": "孔波斯特拉体育"
+  },
+  "ESP:cordoba": {
+   "zh": "科尔多瓦"
+  },
+  "ESP:coruxo": {
+   "zh": "克鲁肖"
+  },
+  "ESP:cultural leonesa": {
+   "zh": "利安尼沙"
+  },
+  "ESP:dav santa ana": {
+   "zh": "DAB圣塔安那"
+  },
+  "ESP:deportivo": {
+   "zh": "拉科鲁尼亚"
+  },
+  "ESP:deportivo a coruna": {
+   "zh": "皇家拉科鲁尼亚"
+  },
+  "ESP:deportivo alaves": {
+   "zh": "阿拉维斯"
+  },
+  "ESP:deportivo aragon": {
+   "zh": "萨拉戈萨 B"
+  },
+  "ESP:deportivo badajoz": {
+   "zh": "巴达霍斯竞技"
+  },
+  "ESP:deportivo lugo": {
+   "zh": "卢戈"
+  },
+  "ESP:deportivo numancia soria": {
+   "zh": "努曼西亚"
+  },
+  "ESP:deportivo pamplona": {
+   "zh": "潘普洛纳"
+  },
+  "ESP:dos hermanas": {
+   "zh": "杜斯靴曼拿斯"
+  },
+  "ESP:ecija balompie": {
+   "zh": "埃西哈"
+  },
+  "ESP:eibar": {
+   "zh": "埃瓦尔"
+  },
+  "ESP:elche": {
+   "zh": "埃尔切"
+  },
+  "ESP:eldense": {
+   "zh": "埃登斯"
+  },
+  "ESP:espanyol": {
+   "zh": "西班牙人"
+  },
+  "ESP:extremadura": {
+   "zh": "埃斯特雷马杜拉体育联盟"
+  },
+  "ESP:fuenlabrada": {
+   "zh": "丰拉夫拉达"
+  },
+  "ESP:getafe": {
+   "zh": "赫塔费"
+  },
+  "ESP:gimnastic": {
+   "zh": "塔拉戈纳"
+  },
+  "ESP:gimnastic tarragona": {
+   "zh": "塔拉戈纳体操"
+  },
+  "ESP:girona": {
+   "zh": "赫罗纳"
+  },
+  "ESP:granada": {
+   "zh": "格拉纳达"
+  },
+  "ESP:guadalajara": {
+   "zh": "瓜达拉哈拉"
+  },
+  "ESP:hercules": {
+   "zh": "靴高斯"
+  },
+  "ESP:horadada": {
+   "zh": "奥拉达达"
+  },
+  "ESP:huesca": {
+   "zh": "韦斯卡"
+  },
+  "ESP:ibiza": {
+   "zh": "伊比萨体育联盟"
+  },
+  "ESP:izarra": {
+   "zh": "伊扎拉"
+  },
+  "ESP:jerez industrial": {
+   "zh": "赫雷斯工业"
+  },
+  "ESP:las palmas": {
+   "zh": "拉斯帕尔马斯"
+  },
+  "ESP:las palmas atletico": {
+   "zh": "拉斯帕尔玛斯B"
+  },
+  "ESP:leganes": {
+   "zh": "莱加内斯"
+  },
+  "ESP:levante": {
+   "zh": "莱万特"
+  },
+  "ESP:linares": {
+   "zh": "力纳雷斯"
+  },
+  "ESP:linares deportivo": {
+   "zh": "力纳雷斯"
+  },
+  "ESP:logrones": {
+   "zh": "洛格罗涅斯"
+  },
+  "ESP:lorca": {
+   "zh": "洛尔卡"
+  },
+  "ESP:lugo": {
+   "zh": "卢戈"
+  },
+  "ESP:malaga": {
+   "zh": "马拉加"
+  },
+  "ESP:mallorca": {
+   "zh": "马略卡"
+  },
+  "ESP:manacor": {
+   "zh": "CE马纳科尔"
+  },
+  "ESP:marbella": {
+   "zh": "UD马贝拉"
+  },
+  "ESP:merida": {
+   "zh": "梅里达"
+  },
+  "ESP:mirandes": {
+   "zh": "米兰德斯"
+  },
+  "ESP:montaneros": {
+   "zh": "蒙塔涅罗斯"
+  },
+  "ESP:numancia": {
+   "zh": "努曼西亚"
+  },
+  "ESP:osasuna": {
+   "zh": "奥萨苏纳"
+  },
+  "ESP:pobla mafumet": {
+   "zh": "拉波夫拉德马富梅特"
+  },
+  "ESP:ponferradina": {
+   "zh": "蓬费拉迪纳"
+  },
+  "ESP:racing ferrol": {
+   "zh": "费罗尔竞赛会"
+  },
+  "ESP:racing santander": {
+   "zh": "桑坦德竞技"
+  },
+  "ESP:rayo cantabria": {
+   "zh": "桑坦德B队"
+  },
+  "ESP:rayo majadahonda": {
+   "zh": "马亚达洪达闪电"
+  },
+  "ESP:rayo vallecano": {
+   "zh": "巴列卡诺"
+  },
+  "ESP:rayo vallecano madrid": {
+   "zh": "巴列卡诺闪电"
+  },
+  "ESP:rb linense": {
+   "zh": "林恩斯"
+  },
+  "ESP:real betis balompie": {
+   "zh": "皇家贝蒂斯"
+  },
+  "ESP:real burgos": {
+   "zh": "布尔戈斯"
+  },
+  "ESP:real jaen": {
+   "zh": "皇家哈恩"
+  },
+  "ESP:real madrid": {
+   "zh": "皇家马德里"
+  },
+  "ESP:real madrid castilla": {
+   "zh": "皇家马德里B队"
+  },
+  "ESP:real murcia": {
+   "zh": "皇家穆尔西亚"
+  },
+  "ESP:real oviedo": {
+   "zh": "皇家奥维耶多"
+  },
+  "ESP:real sociedad": {
+   "zh": "皇家社会"
+  },
+  "ESP:real union": {
+   "zh": "皇家伊伦联"
+  },
+  "ESP:real valladolid": {
+   "zh": "巴拉多利德"
+  },
+  "ESP:real zaragoza": {
+   "zh": "皇家萨拉戈萨"
+  },
+  "ESP:recreativo granada": {
+   "zh": "格兰纳达B队"
+  },
+  "ESP:recreativo huelva": {
+   "zh": "皇家韦尔瓦娱乐"
+  },
+  "ESP:reus deportiu": {
+   "zh": "雷乌斯体育"
+  },
+  "ESP:rsd alcala": {
+   "zh": "阿尔卡拉"
+  },
+  "ESP:salamanca": {
+   "zh": "萨拉曼卡"
+  },
+  "ESP:sevilla": {
+   "zh": "塞维利亚"
+  },
+  "ESP:sevilla atletico": {
+   "zh": "西维尔"
+  },
+  "ESP:sociedad deportiva huesca": {
+   "zh": "韦斯卡"
+  },
+  "ESP:sociedad deportiva ponferradina": {
+   "zh": "蓬费拉迪纳"
+  },
+  "ESP:sporting gijon": {
+   "zh": "希洪竞技"
+  },
+  "ESP:tenerife": {
+   "zh": "特内里费"
+  },
+  "ESP:terrassa": {
+   "zh": "特拉萨"
+  },
+  "ESP:toledo": {
+   "zh": "托莱多"
+  },
+  "ESP:ucam murcia": {
+   "zh": "武康莫西亚"
+  },
+  "ESP:uda gramenet": {
+   "zh": "格拉马内特"
+  },
+  "ESP:ue figueres": {
+   "zh": "菲格雷斯体育联盟"
+  },
+  "ESP:ue llagostera": {
+   "zh": "利亚戈斯特拉"
+  },
+  "ESP:ue lleida": {
+   "zh": "莱里达"
+  },
+  "ESP:ue tarrega": {
+   "zh": "塔雷加"
+  },
+  "ESP:union deportiva almeria": {
+   "zh": "阿尔梅里亚"
+  },
+  "ESP:valencia": {
+   "zh": "瓦伦西亚"
+  },
+  "ESP:valencia mestalla": {
+   "zh": "巴伦西亚梅斯塔利亚"
+  },
+  "ESP:velez": {
+   "zh": "维勒兹"
+  },
+  "ESP:villarreal": {
+   "zh": "比利亚雷亚尔"
+  },
+  "ESP:xerez": {
+   "zh": "赫雷斯"
+  },
+  "EST:flora tallinn": {
+   "zh": "弗洛拉"
+  },
+  "EST:tallinna": {
+   "zh": "塔林体育"
+  },
+  "FIN:ff jaro": {
+   "zh": "雅罗"
+  },
+  "FIN:helsingin jalkapalloklubi": {
+   "zh": "HJK赫尔辛基"
+  },
+  "FIN:kokkolan palloveikot": {
+   "zh": "科科拉"
+  },
+  "FIN:kuopion palloseura": {
+   "zh": "库奥皮奥"
+  },
+  "FIN:kuusysi": {
+   "zh": "古斯尔斯"
+  },
+  "FIN:lahti": {
+   "zh": "拉赫蒂"
+  },
+  "FIN:mikkelin palloilijat": {
+   "zh": "米凯利"
+  },
+  "FIN:mypa": {
+   "zh": "迈帕"
+  },
+  "FIN:vaasan palloseura": {
+   "zh": "瓦萨"
+  },
+  "FRA:abbeville": {
+   "zh": "SC阿比维尔"
+  },
+  "FRA:ajaccio": {
+   "zh": "阿雅克肖"
+  },
+  "FRA:ales": {
+   "zh": "阿莱斯"
+  },
+  "FRA:amiens": {
+   "zh": "亚眠竞技"
+  },
+  "FRA:angers sco": {
+   "zh": "昂热"
+  },
+  "FRA:annecy": {
+   "zh": "阿讷西"
+  },
+  "FRA:arles": {
+   "zh": "阿尔勒-阿维尼翁田径"
+  },
+  "FRA:arles avignon": {
+   "zh": "阿尔勒人竞技"
+  },
+  "FRA:asoa valence": {
+   "zh": "ASOA瓦朗斯"
+  },
+  "FRA:atac troyes": {
+   "zh": "特鲁瓦"
+  },
+  "FRA:auxerre": {
+   "zh": "欧塞尔"
+  },
+  "FRA:aviron bayonnais": {
+   "zh": "阿维隆巴约纳"
+  },
+  "FRA:avranches": {
+   "zh": "阿夫朗什圣米歇尔山"
+  },
+  "FRA:bastia": {
+   "zh": "巴斯蒂亚运动"
+  },
+  "FRA:besancon": {
+   "zh": "貝桑松RC"
+  },
+  "FRA:beziers": {
+   "zh": "贝济耶明日"
+  },
+  "FRA:boulogne": {
+   "zh": "保洛尼"
+  },
+  "FRA:bourg peronnas": {
+   "zh": "布尔格"
+  },
+  "FRA:bourges 18": {
+   "zh": "布尔日"
+  },
+  "FRA:brest": {
+   "zh": "布雷斯特"
+  },
+  "FRA:brestois 29": {
+   "zh": "布雷斯特"
+  },
+  "FRA:cannes": {
+   "zh": "戛纳"
+  },
+  "FRA:chambly": {
+   "zh": "查贝利"
+  },
+  "FRA:chamois niortais": {
+   "zh": "尼奥尔岩羚羊"
+  },
+  "FRA:cherbourg": {
+   "zh": "科唐坦地区瑟堡"
+  },
+  "FRA:clermont foot 63": {
+   "zh": "克莱蒙"
+  },
+  "FRA:corbeil": {
+   "zh": "科尔贝伊-埃松体育联盟"
+  },
+  "FRA:creteil lusitanos": {
+   "zh": "格迪尔"
+  },
+  "FRA:crvena zvezda": {
+   "zh": "红星"
+  },
+  "FRA:cs meaux": {
+   "zh": "莫城教育"
+  },
+  "FRA:cs sedan": {
+   "zh": "色当阿登"
+  },
+  "FRA:cs sedan ardennes": {
+   "zh": "色当"
+  },
+  "FRA:dijon fco": {
+   "zh": "迪安FCO"
+  },
+  "FRA:draguignan": {
+   "zh": "德拉吉尼昂"
+  },
+  "FRA:ea guingamp": {
+   "zh": "甘冈"
+  },
+  "FRA:eds montlucon": {
+   "zh": "蒙吕松"
+  },
+  "FRA:en avant guingamp": {
+   "zh": "甘冈前进会"
+  },
+  "FRA:es paulhan pezenas": {
+   "zh": "保尔汉佩兹纳斯体育星"
+  },
+  "FRA:es troyes": {
+   "zh": "特鲁瓦"
+  },
+  "FRA:es viry chatillon": {
+   "zh": "维里-沙蒂永前进"
+  },
+  "FRA:estac troyes": {
+   "zh": "特鲁瓦"
+  },
+  "FRA:etoile frejus saint raphael": {
+   "zh": "弗雷瑞斯圣拉斐尔星辰"
+  },
+  "FRA:evian thonon gaillard": {
+   "zh": "托农埃维昂大日内瓦"
+  },
+  "FRA:fleury 91": {
+   "zh": "弗勒里91"
+  },
+  "FRA:foot pau": {
+   "zh": "波城"
+  },
+  "FRA:gazelec ajaccio": {
+   "zh": "阿雅克肖加泽莱克"
+  },
+  "FRA:girondins bordeaux": {
+   "zh": "波尔多"
+  },
+  "FRA:grenoble foot 38": {
+   "zh": "格勒诺布尔"
+  },
+  "FRA:gueugnon": {
+   "zh": "格尼翁"
+  },
+  "FRA:havre": {
+   "zh": "勒阿弗尔竞技"
+  },
+  "FRA:hyeres": {
+   "zh": "耶尔"
+  },
+  "FRA:istres": {
+   "zh": "伊斯特尔"
+  },
+  "FRA:js saint pierroise": {
+   "zh": "圣皮埃尔青年"
+  },
+  "FRA:lavallois": {
+   "zh": "拉瓦勒"
+  },
+  "FRA:lb chateauroux": {
+   "zh": "沙托鲁"
+  },
+  "FRA:le havre": {
+   "zh": "勒阿弗尔"
+  },
+  "FRA:le mans": {
+   "zh": "勒芒"
+  },
+  "FRA:le mans uc 72": {
+   "zh": "勒芒"
+  },
+  "FRA:lens": {
+   "zh": "朗斯"
+  },
+  "FRA:letoile morne a leau": {
+   "zh": "莫尔纳洛之星"
+  },
+  "FRA:libourne": {
+   "zh": "利布尔讷"
+  },
+  "FRA:lille": {
+   "zh": "里尔"
+  },
+  "FRA:lorient": {
+   "zh": "洛里昂"
+  },
+  "FRA:lyon": {
+   "zh": "里昂"
+  },
+  "FRA:malherbe caen": {
+   "zh": "卡昂"
+  },
+  "FRA:marseille": {
+   "zh": "马赛"
+  },
+  "FRA:martigues": {
+   "zh": "马堤古斯"
+  },
+  "FRA:metz": {
+   "zh": "梅斯"
+  },
+  "FRA:monaco": {
+   "zh": "摩纳哥"
+  },
+  "FRA:montauban fctg": {
+   "zh": "蒙托邦-塔恩-加龙"
+  },
+  "FRA:montpellier herault": {
+   "zh": "蒙彼利埃"
+  },
+  "FRA:montpellier hsc": {
+   "zh": "蒙彼利埃"
+  },
+  "FRA:mulhouse": {
+   "zh": "米卢斯"
+  },
+  "FRA:nancy": {
+   "zh": "南锡"
+  },
+  "FRA:nancy lorraine": {
+   "zh": "南锡"
+  },
+  "FRA:nantes": {
+   "zh": "南特"
+  },
+  "FRA:nice": {
+   "zh": "尼斯"
+  },
+  "FRA:nimes": {
+   "zh": "尼姆奥林匹克"
+  },
+  "FRA:orleans": {
+   "zh": "US奥尔良"
+  },
+  "FRA:paris": {
+   "zh": "巴黎FC"
+  },
+  "FRA:pau": {
+   "zh": "波城"
+  },
+  "FRA:poitiers": {
+   "zh": "普瓦捷"
+  },
+  "FRA:psg": {
+   "zh": "巴黎圣日耳曼"
+  },
+  "FRA:quevilly rouen": {
+   "zh": "克维伊鲁昂"
+  },
+  "FRA:quimper kerfeunteun": {
+   "zh": "甘巴尔杰法特"
+  },
+  "FRA:racing france": {
+   "zh": "法国足球竞赛会"
+  },
+  "FRA:racing lens": {
+   "zh": "朗斯竞赛会"
+  },
+  "FRA:raphaelois": {
+   "zh": "马约尔球场"
+  },
+  "FRA:reims": {
+   "zh": "兰斯"
+  },
+  "FRA:rennais": {
+   "zh": "雷恩"
+  },
+  "FRA:rennes": {
+   "zh": "雷恩"
+  },
+  "FRA:rodez af": {
+   "zh": "罗德兹"
+  },
+  "FRA:rouen": {
+   "zh": "鲁昂"
+  },
+  "FRA:saint etienne": {
+   "zh": "圣埃蒂安"
+  },
+  "FRA:saint quentin": {
+   "zh": "奥林匹克圣康坦"
+  },
+  "FRA:sm caen": {
+   "zh": "卡昂"
+  },
+  "FRA:sochaux": {
+   "zh": "索肖"
+  },
+  "FRA:sochaux montbeliard": {
+   "zh": "索肖"
+  },
+  "FRA:sporting lyon": {
+   "zh": "奥林匹克里昂"
+  },
+  "FRA:sporting toulon var": {
+   "zh": "土伦"
+  },
+  "FRA:strasbourg": {
+   "zh": "斯特拉斯堡"
+  },
+  "FRA:strasbourg alsace": {
+   "zh": "斯特拉斯堡"
+  },
+  "FRA:su agen": {
+   "zh": "阿让足球体育联盟"
+  },
+  "FRA:thonon evian grand geneve": {
+   "zh": "托农埃维昂大日内瓦"
+  },
+  "FRA:toulouse": {
+   "zh": "图卢兹"
+  },
+  "FRA:tours": {
+   "zh": "杜亚斯"
+  },
+  "FRA:training center of racing of strasbourg": {
+   "zh": "斯特拉斯堡竞赛会"
+  },
+  "FRA:usl dunkerque": {
+   "zh": "登卡尔克海滨联合"
+  },
+  "FRA:valenciennes": {
+   "zh": "瓦朗谢讷"
+  },
+  "FRA:valenciennes anzin": {
+   "zh": "瓦朗谢讷"
+  },
+  "FRA:versailles": {
+   "zh": "凡尔赛"
+  },
+  "GEO:dinamo batumi": {
+   "zh": "巴统迪纳摩"
+  },
+  "GEO:dinamo tbilisi": {
+   "zh": "第比利斯迪纳摩"
+  },
+  "GEO:lokomotivi tbilisi": {
+   "zh": "第比利斯火车头"
+  },
+  "GEO:rustavi": {
+   "zh": "鲁斯塔维"
+  },
+  "GEO:samtredia": {
+   "zh": "萨姆特雷迪亚"
+  },
+  "GEO:torpedo kutaisi": {
+   "zh": "库塔伊西鱼雷"
+  },
+  "GGY:guernsey": {
+   "zh": "根西"
+  },
+  "GHA:accra hearts of oak": {
+   "zh": "橡树之心"
+  },
+  "GHA:asante kotoko": {
+   "zh": "阿散蒂科托科"
+  },
+  "GHA:liberty professionals": {
+   "zh": "自由职业运动员"
+  },
+  "GHA:okwawu united": {
+   "zh": "奥卡胡联"
+  },
+  "GHA:real tamale united": {
+   "zh": "皇家塔马利联"
+  },
+  "GIN:horoya": {
+   "zh": "自由竞技"
+  },
+  "GRC:ae kifisia": {
+   "zh": "基菲西亚"
+  },
+  "GRC:ae larissa": {
+   "zh": "拿尼沙"
+  },
+  "GRC:aek athen": {
+   "zh": "AEK雅典"
+  },
+  "GRC:aek athens": {
+   "zh": "雅典AEK"
+  },
+  "GRC:ael kalloni": {
+   "zh": "卡洛尼"
+  },
+  "GRC:ags asteras tripolis": {
+   "zh": "特里波利斯"
+  },
+  "GRC:akratitos": {
+   "zh": "克拉托斯"
+  },
+  "GRC:ao platanias": {
+   "zh": "普拉塔尼亚斯"
+  },
+  "GRC:ao xanthi": {
+   "zh": "克桑西竞技"
+  },
+  "GRC:aok kerkyra": {
+   "zh": "克尔基拉"
+  },
+  "GRC:apo levadiakos": {
+   "zh": "莱瓦贾科斯"
+  },
+  "GRC:apollon": {
+   "zh": "斯米尔尼阿波罗"
+  },
+  "GRC:apollon smyrnis": {
+   "zh": "斯米尔尼阿波罗"
+  },
+  "GRC:aps atromitos athinon": {
+   "zh": "阿特罗米托斯"
+  },
+  "GRC:aris": {
+   "zh": "阿里斯"
+  },
+  "GRC:aris saloniki": {
+   "zh": "塞萨洛尼基"
+  },
+  "GRC:aris thessaloniki": {
+   "zh": "塞萨洛尼基阿瑞斯"
+  },
+  "GRC:aris thessalonikis": {
+   "zh": "阿瑞斯"
+  },
+  "GRC:asteras tripolis": {
+   "zh": "阿斯特拉斯特里波利斯"
+  },
+  "GRC:athens kallithea": {
+   "zh": "卡利塞亚"
+  },
+  "GRC:athinaikos": {
+   "zh": "雅典奈高斯"
+  },
+  "GRC:athlitiki enosi kifisias": {
+   "zh": "基菲西亚"
+  },
+  "GRC:athlitiki enosi konstantinoupoleos": {
+   "zh": "AEK雅典"
+  },
+  "GRC:athlitiki enosi larisas": {
+   "zh": "拿尼沙"
+  },
+  "GRC:athlitiki enosi larissa": {
+   "zh": "拉里萨"
+  },
+  "GRC:atromitos": {
+   "zh": "阿特罗米托斯"
+  },
+  "GRC:chalkidona": {
+   "zh": "哈尔基东"
+  },
+  "GRC:doxa": {
+   "zh": "度沙德拉马"
+  },
+  "GRC:doxa dramas": {
+   "zh": "度沙德拉马"
+  },
+  "GRC:edessaikos": {
+   "zh": "艾德赛科斯"
+  },
+  "GRC:egaleo": {
+   "zh": "艾加里奥"
+  },
+  "GRC:eleysina": {
+   "zh": "埃莱夫西纳"
+  },
+  "GRC:ergotelis": {
+   "zh": "埃尔格特利斯"
+  },
+  "GRC:eth asteras": {
+   "zh": "埃斯尼科斯阿斯特拉斯"
+  },
+  "GRC:ethnikos": {
+   "zh": "彼罗斯"
+  },
+  "GRC:ethnikos asteras": {
+   "zh": "埃斯尼科斯阿斯特拉斯"
+  },
+  "GRC:ethnikos piraeus": {
+   "zh": "彼罗斯"
+  },
+  "GRC:gas anagennisi artas": {
+   "zh": "文艺复兴阿尔塔"
+  },
+  "GRC:gas veria": {
+   "zh": "韦里亚"
+  },
+  "GRC:giannina": {
+   "zh": "吉安尼纳竞技"
+  },
+  "GRC:gs ergotelis": {
+   "zh": "埃尔格特利斯"
+  },
+  "GRC:gs iraklis thessalonikis mens association": {
+   "zh": "塞萨洛尼基赫拉克勒斯"
+  },
+  "GRC:gs kallithea": {
+   "zh": "卡利西亚"
+  },
+  "GRC:heracles": {
+   "zh": "伊拉克利斯"
+  },
+  "GRC:ionikos": {
+   "zh": "约尼科斯"
+  },
+  "GRC:ionikos nikaia": {
+   "zh": "伊奥尼亚"
+  },
+  "GRC:ionikos nikeas": {
+   "zh": "尼凯亚伊奥尼科斯篮球"
+  },
+  "GRC:iraklis": {
+   "zh": "伊拉克利斯"
+  },
+  "GRC:iraklis thessaloniki": {
+   "zh": "伊拿克里斯"
+  },
+  "GRC:kalamaria": {
+   "zh": "卡拉马里亚斯阿波罗"
+  },
+  "GRC:kalamata": {
+   "zh": "卡拉马塔"
+  },
+  "GRC:kalithea": {
+   "zh": "卡利西亚"
+  },
+  "GRC:kallithea": {
+   "zh": "卡利塞亚"
+  },
+  "GRC:kastoria": {
+   "zh": "卡斯托里亚"
+  },
+  "GRC:kavala": {
+   "zh": "卡瓦拉"
+  },
+  "GRC:kerkyra": {
+   "zh": "PAE加基拉"
+  },
+  "GRC:lamia": {
+   "zh": "拉米亚"
+  },
+  "GRC:larisa": {
+   "zh": "拉里萨"
+  },
+  "GRC:levadeiakos": {
+   "zh": "莱瓦贾科斯"
+  },
+  "GRC:levadiakos": {
+   "zh": "莱瓦贾科斯"
+  },
+  "GRC:niki volos": {
+   "zh": "沃洛斯"
+  },
+  "GRC:niki volou": {
+   "zh": "历基禾路斯"
+  },
+  "GRC:ofi": {
+   "zh": "OFI克里特"
+  },
+  "GRC:ofi crete": {
+   "zh": "克里特OFI"
+  },
+  "GRC:ofi heraklion": {
+   "zh": "OFI克里特"
+  },
+  "GRC:olympiacos": {
+   "zh": "奥林匹亚科斯"
+  },
+  "GRC:olympiakos syndesmos filathlon peiraios": {
+   "zh": "奥林匹亚科斯"
+  },
+  "GRC:olympiakos volou": {
+   "zh": "沃洛斯奥林匹亚科斯"
+  },
+  "GRC:omilos filathlon irakliou": {
+   "zh": "OFI克里特"
+  },
+  "GRC:panachaiki": {
+   "zh": "泛亚加亚竞技联盟"
+  },
+  "GRC:panahaiki": {
+   "zh": "帕纳海基"
+  },
+  "GRC:panathinaikos": {
+   "zh": "帕纳辛奈科斯"
+  },
+  "GRC:panathinaikos athlitikos omilos": {
+   "zh": "帕纳辛奈科斯"
+  },
+  "GRC:panetolikos": {
+   "zh": "帕纳托利克斯"
+  },
+  "GRC:panetolikos agrinio": {
+   "zh": "帕纳托利克斯"
+  },
+  "GRC:paniliakos": {
+   "zh": "帕尼利亚科斯"
+  },
+  "GRC:panionios": {
+   "zh": "泛伊奥尼亚"
+  },
+  "GRC:panionios athens": {
+   "zh": "泛伊奥尼亚"
+  },
+  "GRC:panionios gss": {
+   "zh": "泛伊奥尼亚"
+  },
+  "GRC:panserraikos": {
+   "zh": "潘塞莱科斯"
+  },
+  "GRC:panserraikos serres": {
+   "zh": "潘塞莱科斯"
+  },
+  "GRC:panthessalonikios athlitikos omilos konstantinoupoliton": {
+   "zh": "塞萨洛尼基PAOK"
+  },
+  "GRC:panthrakikos": {
+   "zh": "潘斯拉基科斯"
+  },
+  "GRC:panthrakikos komotini": {
+   "zh": "潘斯拉基科斯"
+  },
+  "GRC:paok": {
+   "zh": "帕奥克"
+  },
+  "GRC:paok saloniki": {
+   "zh": "塞萨洛尼基PAOK"
+  },
+  "GRC:pas giannina": {
+   "zh": "吉安尼纳竞技"
+  },
+  "GRC:pas lamia": {
+   "zh": "拉米亚"
+  },
+  "GRC:proodeftiki": {
+   "zh": "勃德费蒂克"
+  },
+  "GRC:proodeftiki neolaia": {
+   "zh": "勃德费蒂克"
+  },
+  "GRC:proodeytiki": {
+   "zh": "普罗奥德夫提基"
+  },
+  "GRC:thrasyvoulos": {
+   "zh": "色拉西布洛斯"
+  },
+  "GRC:trikala": {
+   "zh": "峇里德巴塔"
+  },
+  "GRC:veria": {
+   "zh": "韦里亚"
+  },
+  "GRC:veria nps": {
+   "zh": "韦里亚"
+  },
+  "GRC:veroia": {
+   "zh": "韦里亚"
+  },
+  "GRC:volos nfc": {
+   "zh": "沃洛斯"
+  },
+  "GRC:volou neos podosferikos syllogos": {
+   "zh": "沃洛斯"
+  },
+  "GRC:xanthi": {
+   "zh": "克桑西竞技"
+  },
+  "GRC:yiannina": {
+   "zh": "约阿尼纳"
+  },
+  "GTM:comunicaciones": {
+   "zh": "通讯"
+  },
+  "GTM:csd municipal": {
+   "zh": "市政"
+  },
+  "HKG:kitchee": {
+   "zh": "杰志体育会"
+  },
+  "HND:deportivo victoria": {
+   "zh": "维克多利亚"
+  },
+  "HND:marathon": {
+   "zh": "CD马拉松"
+  },
+  "HND:motagua": {
+   "zh": "莫塔瓜"
+  },
+  "HND:olimpia": {
+   "zh": "奥林匹亚"
+  },
+  "HRV:cibalia": {
+   "zh": "施巴利亚"
+  },
+  "HRV:croatia sesvete": {
+   "zh": "克羅地亞塞斯維特"
+  },
+  "HRV:dinamo zagreb": {
+   "zh": "萨格勒布迪纳摩"
+  },
+  "HRV:gorica": {
+   "zh": "戈里察"
+  },
+  "HRV:gosk dubrovnik": {
+   "zh": "杜布罗夫尼克"
+  },
+  "HRV:hajduk split": {
+   "zh": "哈伊杜克"
+  },
+  "HRV:hrvatski dragovoljac": {
+   "zh": "克罗地亚志愿者"
+  },
+  "HRV:inter zapresic": {
+   "zh": "国际扎普雷希奇"
+  },
+  "HRV:istra": {
+   "zh": "伊斯特拉1961"
+  },
+  "HRV:junak sinj": {
+   "zh": "祖纳克锡尼"
+  },
+  "HRV:kamen ingrad": {
+   "zh": "卡曼恩格特"
+  },
+  "HRV:lokomotiva": {
+   "zh": "萨格勒布火车头"
+  },
+  "HRV:lokomotiva zagreb": {
+   "zh": "萨格勒布火车头"
+  },
+  "HRV:lucko": {
+   "zh": "卢奇科"
+  },
+  "HRV:marsonia": {
+   "zh": "馬松尼"
+  },
+  "HRV:osijek": {
+   "zh": "奥西耶克"
+  },
+  "HRV:pazinka": {
+   "zh": "比辛卡"
+  },
+  "HRV:rijeka": {
+   "zh": "里耶卡"
+  },
+  "HRV:rnk split": {
+   "zh": "斯普利特"
+  },
+  "HRV:sibenik": {
+   "zh": "希贝尼克"
+  },
+  "HRV:slaven belupo": {
+   "zh": "斯拉文贝鲁波"
+  },
+  "HRV:slaven belupo koprivnica": {
+   "zh": "斯拉文贝鲁波"
+  },
+  "HRV:trogir": {
+   "zh": "特洛吉亚"
+  },
+  "HRV:varazdin": {
+   "zh": "瓦拉日丁"
+  },
+  "HRV:varteks": {
+   "zh": "瓦拉日丁"
+  },
+  "HRV:vukovar": {
+   "zh": "武科瓦尔"
+  },
+  "HRV:zadar": {
+   "zh": "扎达尔"
+  },
+  "HRV:zagreb": {
+   "zh": "萨格勒布"
+  },
+  "HUN:budafoki mte": {
+   "zh": "布达弗基工人"
+  },
+  "HUN:budapest honved": {
+   "zh": "布达佩斯捍卫者"
+  },
+  "HUN:debreceni vsc": {
+   "zh": "德布勒森VSC"
+  },
+  "HUN:diosgyori vtk": {
+   "zh": "迪亚什久里VTK"
+  },
+  "HUN:fehervar": {
+   "zh": "费夏华"
+  },
+  "HUN:ferencvaros": {
+   "zh": "费伦茨瓦罗斯TC"
+  },
+  "HUN:ferencvarosi tc": {
+   "zh": "费伦茨瓦罗斯TC"
+  },
+  "HUN:gyori eto": {
+   "zh": "吉奥利ETO"
+  },
+  "HUN:kispesti honved": {
+   "zh": "布达佩斯捍卫者"
+  },
+  "HUN:kisvarda": {
+   "zh": "基斯华达"
+  },
+  "HUN:mezokovesdi": {
+   "zh": "梅索科菲德"
+  },
+  "HUN:mol vidi": {
+   "zh": "菲赫瓦尔"
+  },
+  "HUN:mtk budapest": {
+   "zh": "MTK布达佩斯"
+  },
+  "HUN:paksi": {
+   "zh": "帕克斯"
+  },
+  "HUN:puskas": {
+   "zh": "普斯卡什学院"
+  },
+  "HUN:sopron": {
+   "zh": "肖普朗"
+  },
+  "HUN:szombathelyi haladas": {
+   "zh": "松博特海伊进步"
+  },
+  "HUN:ujpest": {
+   "zh": "新佩斯"
+  },
+  "HUN:videoton fehervar": {
+   "zh": "费夏华"
+  },
+  "HUN:zalaegerszegi te": {
+   "zh": "沙勒格斯基"
+  },
+  "IDN:bhayangkara": {
+   "zh": "巴扬卡拉"
+  },
+  "IDN:madura united": {
+   "zh": "马都拉联"
+  },
+  "IDN:persib bandung": {
+   "zh": "佩西比万隆"
+  },
+  "IDN:persiwa wamena": {
+   "zh": "佩西瓦瓦梅纳"
+  },
+  "IND:atk": {
+   "zh": "加尔各答"
+  },
+  "IND:bengaluru": {
+   "zh": "班加罗尔"
+  },
+  "IND:chennaiyin": {
+   "zh": "清奈泰坦"
+  },
+  "IND:churchill brothers": {
+   "zh": "丘吉尔兄弟"
+  },
+  "IND:dempo": {
+   "zh": "丹波体育"
+  },
+  "IND:east bengal": {
+   "zh": "东孟加拉"
+  },
+  "IND:goa": {
+   "zh": "高亚"
+  },
+  "IND:jamshedpur": {
+   "zh": "哲雪铺"
+  },
+  "IND:jct": {
+   "zh": "贾加蒂特棉纺"
+  },
+  "IND:kerala blasters": {
+   "zh": "匹林"
+  },
+  "IND:mohun bagan": {
+   "zh": "巴甘莫哈竞技"
+  },
+  "IND:mumbai city": {
+   "zh": "孟买城"
+  },
+  "IND:northeast united": {
+   "zh": "北东联"
+  },
+  "IND:odisha": {
+   "zh": "奥里萨"
+  },
+  "IND:prayag united": {
+   "zh": "帕亚联"
+  },
+  "IND:pune": {
+   "zh": "浦那城"
+  },
+  "IND:pune city": {
+   "zh": "浦那城"
+  },
+  "IND:united sikkim": {
+   "zh": "锡金联"
+  },
+  "IRL:cork city": {
+   "zh": "科克城"
+  },
+  "IRL:dundalk": {
+   "zh": "敦达克"
+  },
+  "IRL:home farm": {
+   "zh": "家庭农场"
+  },
+  "IRL:shamrock rovers": {
+   "zh": "三叶草流浪"
+  },
+  "IRL:sligo rovers": {
+   "zh": "斯莱戈流浪者"
+  },
+  "IRL:st patricks athletic": {
+   "zh": "圣巴特里克竞技"
+  },
+  "IRN:damash": {
+   "zh": "达玛希吉兰"
+  },
+  "IRN:esteghlal": {
+   "zh": "埃斯特格拉尔"
+  },
+  "IRN:fath tehran": {
+   "zh": "德黑兰法特"
+  },
+  "IRN:paykan": {
+   "zh": "加兹温箭头"
+  },
+  "IRN:persepolis": {
+   "zh": "柏斯波利斯"
+  },
+  "IRN:saba qom": {
+   "zh": "库姆萨巴"
+  },
+  "IRN:saipa": {
+   "zh": "塞帕"
+  },
+  "IRN:sepahan": {
+   "zh": "沙巴罕"
+  },
+  "IRN:shahin bushehr": {
+   "zh": "布什尔老鹰"
+  },
+  "IRN:steel azin": {
+   "zh": "阿辛钢铁"
+  },
+  "IRQ:al rasheed": {
+   "zh": "艾拉舒特"
+  },
+  "IRQ:al zawraa": {
+   "zh": "祖拉"
+  },
+  "ISL:brei ablik mens": {
+   "zh": "比达比历"
+  },
+  "ISL:fimleikafelag hafnarfjar ar": {
+   "zh": "哈布纳菲厄泽体操"
+  },
+  "ISL:fram reykjavik": {
+   "zh": "弗拉姆"
+  },
+  "ISL:hk kopavogur": {
+   "zh": "科帕沃于尔"
+  },
+  "ISL:i rottabandalag vestmannaeyja": {
+   "zh": "韦斯特曼纳埃亚尔"
+  },
+  "ISL:i rottafelagi grotta": {
+   "zh": "格罗塔"
+  },
+  "ISL:ia akranes": {
+   "zh": "阿克拉内斯"
+  },
+  "ISL:knattspyrnufelagi fram": {
+   "zh": "弗拉姆"
+  },
+  "ISL:knattspyrnufelagi vikingur": {
+   "zh": "维京古"
+  },
+  "ISL:kr reykjavik": {
+   "zh": "雷克雅未克"
+  },
+  "ISL:leiknir reykjavik": {
+   "zh": "历基尼亚"
+  },
+  "ISL:stjarnan": {
+   "zh": "斯塔尔南"
+  },
+  "ISL:ungmennafelagi afturelding": {
+   "zh": "黎明青年"
+  },
+  "ISL:valur": {
+   "zh": "矛隼男子"
+  },
+  "ISL:vikingur reykjavik": {
+   "zh": "维京古"
+  },
+  "ISR:beitar jerusalem": {
+   "zh": "耶路撒冷贝塔"
+  },
+  "ISR:bnei sakhnin": {
+   "zh": "萨赫宁比尼"
+  },
+  "ISR:bnei yehuda tel aviv": {
+   "zh": "比尼特拉维夫"
+  },
+  "ISR:hapoel beer sheva": {
+   "zh": "比亚斯华夏普尔"
+  },
+  "ISR:hapoel beit shean": {
+   "zh": "贝特谢安夏普尔"
+  },
+  "ISR:hapoel kfar saba": {
+   "zh": "法萨巴夏普尔"
+  },
+  "ISR:hapoel petah tikva": {
+   "zh": "佩塔提克瓦工人"
+  },
+  "ISR:hapoel tel aviv": {
+   "zh": "特拉维夫哈普尔"
+  },
+  "ISR:maccabi haifa": {
+   "zh": "海法马卡比"
+  },
+  "ISR:maccabi netanya": {
+   "zh": "内坦亚马卡比"
+  },
+  "ISR:maccabi petah tikva": {
+   "zh": "彼达迪华马卡比"
+  },
+  "ISR:maccabi tel aviv": {
+   "zh": "特拉维夫马卡比"
+  },
+  "ITA:acireale": {
+   "zh": "艾西利亚尼"
+  },
+  "ITA:acr messina": {
+   "zh": "墨西拿"
+  },
+  "ITA:aglianese": {
+   "zh": "阿利亚内斯"
+  },
+  "ITA:alzanocene": {
+   "zh": "马丁纳弗兰卡体育协会1947"
+  },
+  "ITA:ancona": {
+   "zh": "安科纳"
+  },
+  "ITA:arezzo": {
+   "zh": "阿雷素"
+  },
+  "ITA:ars et labor ferrara": {
+   "zh": "史帕尔"
+  },
+  "ITA:ascoli": {
+   "zh": "阿斯科利"
+  },
+  "ITA:ascoli picchio": {
+   "zh": "阿斯科利"
+  },
+  "ITA:asd biellese": {
+   "zh": "比耶莱塞"
+  },
+  "ITA:asd casertana": {
+   "zh": "卡沙坦拿"
+  },
+  "ITA:asd castel di sangro": {
+   "zh": "A.S.D. 桑格罗堡"
+  },
+  "ITA:associazione sportiva roma": {
+   "zh": "罗马"
+  },
+  "ITA:atalanta": {
+   "zh": "亚特兰大"
+  },
+  "ITA:atalanta bc": {
+   "zh": "亚特兰大"
+  },
+  "ITA:atletico roma": {
+   "zh": "罗马竞技"
+  },
+  "ITA:avellino": {
+   "zh": "阿韦利诺1912体育联盟"
+  },
+  "ITA:bari": {
+   "zh": "巴里"
+  },
+  "ITA:benevento": {
+   "zh": "贝内文托"
+  },
+  "ITA:bologna": {
+   "zh": "博洛尼亚"
+  },
+  "ITA:brescia": {
+   "zh": "布雷西亚"
+  },
+  "ITA:cagliari": {
+   "zh": "卡利亚里"
+  },
+  "ITA:carpi": {
+   "zh": "卡尔皮"
+  },
+  "ITA:carrarese": {
+   "zh": "卡雷兹"
+  },
+  "ITA:catania": {
+   "zh": "卡塔尼亚"
+  },
+  "ITA:catanzaro": {
+   "zh": "卡坦沙奴1929"
+  },
+  "ITA:cavese": {
+   "zh": "卡维斯"
+  },
+  "ITA:cesena": {
+   "zh": "切塞纳FC"
+  },
+  "ITA:chieti": {
+   "zh": "基耶蒂"
+  },
+  "ITA:chievo verona": {
+   "zh": "切沃"
+  },
+  "ITA:chievoverona": {
+   "zh": "切沃维罗纳"
+  },
+  "ITA:cittadella": {
+   "zh": "薛达迪拿"
+  },
+  "ITA:como": {
+   "zh": "科莫"
+  },
+  "ITA:cosenza": {
+   "zh": "科森扎"
+  },
+  "ITA:cremonese": {
+   "zh": "克雷莫内塞"
+  },
+  "ITA:crotone": {
+   "zh": "克罗托内"
+  },
+  "ITA:cuneo olmo": {
+   "zh": "库内奥1905"
+  },
+  "ITA:delfino pescara": {
+   "zh": "佩斯卡拉"
+  },
+  "ITA:empoli": {
+   "zh": "恩波利"
+  },
+  "ITA:fidelis andria": {
+   "zh": "菲德利斯安德里亚1928"
+  },
+  "ITA:fiorentina": {
+   "zh": "佛罗伦萨"
+  },
+  "ITA:fiorenzuola": {
+   "zh": "菲奥伦佐拉"
+  },
+  "ITA:foggia": {
+   "zh": "福贾"
+  },
+  "ITA:forli": {
+   "zh": "弗利"
+  },
+  "ITA:frosinone": {
+   "zh": "弗罗西诺内"
+  },
+  "ITA:genoa cfc": {
+   "zh": "热那亚"
+  },
+  "ITA:grosseto": {
+   "zh": "格罗瑟托"
+  },
+  "ITA:hellas verona": {
+   "zh": "维罗纳"
+  },
+  "ITA:inter": {
+   "zh": "国际米兰"
+  },
+  "ITA:juve stabia": {
+   "zh": "尤韦斯塔比亚"
+  },
+  "ITA:juventus": {
+   "zh": "尤文图斯"
+  },
+  "ITA:juventus next gen": {
+   "zh": "尤文图斯U23"
+  },
+  "ITA:latina": {
+   "zh": "拉蒂纳"
+  },
+  "ITA:lazio": {
+   "zh": "拉齐奥"
+  },
+  "ITA:lazio roma": {
+   "zh": "拉齐奥"
+  },
+  "ITA:lecce": {
+   "zh": "莱切"
+  },
+  "ITA:lecco": {
+   "zh": "莱科"
+  },
+  "ITA:livorno": {
+   "zh": "利沃诺"
+  },
+  "ITA:lr vicenza": {
+   "zh": "维琴察"
+  },
+  "ITA:lr vicenza virtus": {
+   "zh": "维琴察"
+  },
+  "ITA:lucchese": {
+   "zh": "卢切塞利伯塔斯1905"
+  },
+  "ITA:lumezzane": {
+   "zh": "卢梅扎内"
+  },
+  "ITA:mantova": {
+   "zh": "曼托华1911"
+  },
+  "ITA:mantova ssd": {
+   "zh": "曼托华1911"
+  },
+  "ITA:matera": {
+   "zh": "马泰拉"
+  },
+  "ITA:messina": {
+   "zh": "墨西拿"
+  },
+  "ITA:milan": {
+   "zh": "AC米兰"
+  },
+  "ITA:modena": {
+   "zh": "摩德纳"
+  },
+  "ITA:monza": {
+   "zh": "蒙扎"
+  },
+  "ITA:napoli": {
+   "zh": "那不勒斯"
+  },
+  "ITA:novara": {
+   "zh": "诺瓦拉"
+  },
+  "ITA:padova": {
+   "zh": "帕多瓦"
+  },
+  "ITA:palermo": {
+   "zh": "巴勒莫"
+  },
+  "ITA:parma": {
+   "zh": "帕尔马"
+  },
+  "ITA:pavia": {
+   "zh": "柏维亚"
+  },
+  "ITA:pergolettese": {
+   "zh": "佩格克雷马"
+  },
+  "ITA:perugia": {
+   "zh": "佩鲁贾"
+  },
+  "ITA:pescara": {
+   "zh": "佩斯卡拉"
+  },
+  "ITA:piacenza": {
+   "zh": "皮亚琴察"
+  },
+  "ITA:pisa": {
+   "zh": "比萨"
+  },
+  "ITA:pistoiese": {
+   "zh": "皮斯托亚人"
+  },
+  "ITA:pordenone": {
+   "zh": "波代诺内"
+  },
+  "ITA:prato": {
+   "zh": "普拉托"
+  },
+  "ITA:pro vercelli": {
+   "zh": "普罗韦尔切利"
+  },
+  "ITA:ravenna": {
+   "zh": "拉文纳"
+  },
+  "ITA:reggiana": {
+   "zh": "意大利雷焦安納"
+  },
+  "ITA:reggina": {
+   "zh": "里贾纳1914"
+  },
+  "ITA:rimini": {
+   "zh": "里米尼"
+  },
+  "ITA:roma": {
+   "zh": "罗马"
+  },
+  "ITA:salernitana": {
+   "zh": "萨勒尼塔纳"
+  },
+  "ITA:sambenedettese": {
+   "zh": "圣贝内德托体育"
+  },
+  "ITA:sambonifacese": {
+   "zh": "桑博尼法切斯"
+  },
+  "ITA:sampdoria": {
+   "zh": "桑普多利亚"
+  },
+  "ITA:sassuolo": {
+   "zh": "萨索洛"
+  },
+  "ITA:sef torres": {
+   "zh": "SEF多域斯1903"
+  },
+  "ITA:siena": {
+   "zh": "锡耶纳"
+  },
+  "ITA:societa leffe": {
+   "zh": "阿尔比诺莱费"
+  },
+  "ITA:societa sportiva lazio spa": {
+   "zh": "拉素"
+  },
+  "ITA:spal ferrara": {
+   "zh": "史帕尔"
+  },
+  "ITA:spezia": {
+   "zh": "斯佩齐亚"
+  },
+  "ITA:ssd massese": {
+   "zh": "马赛赛"
+  },
+  "ITA:sudtirol": {
+   "zh": "苏迪路"
+  },
+  "ITA:teramo": {
+   "zh": "泰拉莫"
+  },
+  "ITA:ternana": {
+   "zh": "特尔纳纳"
+  },
+  "ITA:torino": {
+   "zh": "都灵"
+  },
+  "ITA:trapani": {
+   "zh": "特拉帕尼"
+  },
+  "ITA:trento": {
+   "zh": "特伦托"
+  },
+  "ITA:treviso fbc": {
+   "zh": "特雷维索"
+  },
+  "ITA:triestina": {
+   "zh": "特里埃斯蒂纳"
+  },
+  "ITA:uc albinoleffe": {
+   "zh": "阿尔比诺莱费"
+  },
+  "ITA:uc sampdoria": {
+   "zh": "桑普多利亚"
+  },
+  "ITA:udinese": {
+   "zh": "乌迪内斯"
+  },
+  "ITA:varese": {
+   "zh": "瓦雷泽"
+  },
+  "ITA:venezia": {
+   "zh": "威尼斯"
+  },
+  "ITA:viareggio": {
+   "zh": "埃斯佩里亚维亚雷焦"
+  },
+  "ITA:vicenza": {
+   "zh": "维琴察"
+  },
+  "ITA:virtus entella": {
+   "zh": "恩特拉"
+  },
+  "ITA:virtus lanciano": {
+   "zh": "兰恰诺维图斯"
+  },
+  "ITA:vis pesaro dal": {
+   "zh": "佩沙罗"
+  },
+  "JOR:al faisaly": {
+   "zh": "阿尔费萨里"
+  },
+  "JOR:al hussein": {
+   "zh": "艾侯赛恩"
+  },
+  "JPN:albirex niigata": {
+   "zh": "新潟天鹅"
+  },
+  "JPN:atletico suzuka": {
+   "zh": "铃鹿得分手"
+  },
+  "JPN:avispa fukuoka": {
+   "zh": "福冈黄蜂"
+  },
+  "JPN:azul claro numazu": {
+   "zh": "沼津青蓝"
+  },
+  "JPN:blaublitz akita": {
+   "zh": "秋田蓝闪电"
+  },
+  "JPN:cerezo osaka": {
+   "zh": "大阪樱花"
+  },
+  "JPN:ehime": {
+   "zh": "爱媛FC"
+  },
+  "JPN:fagiano okayama": {
+   "zh": "冈山绿雉"
+  },
+  "JPN:fagiano okayama sports": {
+   "zh": "冈山绿雉"
+  },
+  "JPN:fujieda myfc": {
+   "zh": "藤枝MYFC"
+  },
+  "JPN:fukushima": {
+   "zh": "福岛联"
+  },
+  "JPN:fukushima united": {
+   "zh": "福岛联"
+  },
+  "JPN:gainare tottori": {
+   "zh": "鸟取飞翔"
+  },
+  "JPN:gamba osaka": {
+   "zh": "大阪飞脚"
+  },
+  "JPN:gifu": {
+   "zh": "FC岐阜"
+  },
+  "JPN:giravanz kitakyushu": {
+   "zh": "北九州向日葵"
+  },
+  "JPN:hitachi kashiwa reysol": {
+   "zh": "柏雷素尔"
+  },
+  "JPN:hokkaido consadole sapporo": {
+   "zh": "北海道札幌冈萨多"
+  },
+  "JPN:honda": {
+   "zh": "本田"
+  },
+  "JPN:imabari": {
+   "zh": "今治"
+  },
+  "JPN:jef united chiba": {
+   "zh": "千叶市原"
+  },
+  "JPN:jubilo iwata": {
+   "zh": "磐田喜悦"
+  },
+  "JPN:kamatamare sanuki": {
+   "zh": "赞岐釜玉海"
+  },
+  "JPN:kashima antlers": {
+   "zh": "鹿岛鹿角"
+  },
+  "JPN:kashiwa reysol": {
+   "zh": "柏太阳神"
+  },
+  "JPN:kataller toyama": {
+   "zh": "富山胜利"
+  },
+  "JPN:kawasaki frontale": {
+   "zh": "川崎前锋"
+  },
+  "JPN:kyoto purple sanga": {
+   "zh": "京都不死鸟"
+  },
+  "JPN:kyoto sanga": {
+   "zh": "京都不死鸟"
+  },
+  "JPN:machida zelvia": {
+   "zh": "町田泽维亚"
+  },
+  "JPN:matsumoto yamaga": {
+   "zh": "松本山雅"
+  },
+  "JPN:mito hollyhock": {
+   "zh": "水户蜀葵"
+  },
+  "JPN:montedio yamagata": {
+   "zh": "山形山神"
+  },
+  "JPN:nagoya grampus": {
+   "zh": "名古屋鲸鱼"
+  },
+  "JPN:nagoya grampus eight": {
+   "zh": "名古屋鲸鱼"
+  },
+  "JPN:nara": {
+   "zh": "奈良"
+  },
+  "JPN:nissan motors": {
+   "zh": "日产体育场"
+  },
+  "JPN:nkk": {
+   "zh": "日本钢管"
+  },
+  "JPN:ococias kyoto": {
+   "zh": "京都欢迎光临"
+  },
+  "JPN:oita trinita": {
+   "zh": "大分三神"
+  },
+  "JPN:okinawa": {
+   "zh": "冲绳"
+  },
+  "JPN:rakuten vissel kobe": {
+   "zh": "神户胜利船"
+  },
+  "JPN:rb omiya ardija": {
+   "zh": "RB大宫松鼠"
+  },
+  "JPN:renofa yamaguchi": {
+   "zh": "山口雷法"
+  },
+  "JPN:roasso kumamoto": {
+   "zh": "熊本罗亚素"
+  },
+  "JPN:ryukyu okinawa": {
+   "zh": "琉球"
+  },
+  "JPN:s pulse": {
+   "zh": "清水心跳"
+  },
+  "JPN:sagamihara": {
+   "zh": "相模原"
+  },
+  "JPN:sagan tosu": {
+   "zh": "鸟栖砂岩"
+  },
+  "JPN:sanfrecce hiroshima": {
+   "zh": "广岛三箭"
+  },
+  "JPN:shimizu s pulse": {
+   "zh": "清水心跳"
+  },
+  "JPN:shonan bellmare": {
+   "zh": "湘南比马"
+  },
+  "JPN:tegevajaro miyazaki": {
+   "zh": "宫崎棒牛鸟"
+  },
+  "JPN:thespa gunma": {
+   "zh": "草津温泉"
+  },
+  "JPN:tochigi": {
+   "zh": "栃木SC"
+  },
+  "JPN:tokushima vortis": {
+   "zh": "德岛漩涡"
+  },
+  "JPN:tokyo": {
+   "zh": "FC东京"
+  },
+  "JPN:tokyo united": {
+   "zh": "东京"
+  },
+  "JPN:tokyo verdy": {
+   "zh": "东京绿茵"
+  },
+  "JPN:tosu futures": {
+   "zh": "鸟栖未来"
+  },
+  "JPN:toyota industries": {
+   "zh": "丰田自动织机"
+  },
+  "JPN:university of tsukuba": {
+   "zh": "筑波大学"
+  },
+  "JPN:urawa red diamonds": {
+   "zh": "浦和红钻"
+  },
+  "JPN:vanraure hachinohe": {
+   "zh": "八户于南乡"
+  },
+  "JPN:varen nagasaki": {
+   "zh": "长崎航海"
+  },
+  "JPN:vegalta sendai": {
+   "zh": "仙台维加泰"
+  },
+  "JPN:ventforet kofu": {
+   "zh": "甲府风林"
+  },
+  "JPN:vissel kobe": {
+   "zh": "神户胜利船"
+  },
+  "JPN:yokohama": {
+   "zh": "横滨FC"
+  },
+  "JPN:yokohama f marinos": {
+   "zh": "横滨水手"
+  },
+  "JPN:yokohama flugels": {
+   "zh": "横滨飞翼"
+  },
+  "JPN:yokohama marinos": {
+   "zh": "横滨水手"
+  },
+  "JPN:yscc yokohama": {
+   "zh": "横滨体育及文化会"
+  },
+  "JPN:zelvia": {
+   "zh": "町田泽维亚"
+  },
+  "JPN:zweigen kanazawa": {
+   "zh": "金泽萨维根"
+  },
+  "KAZ:aktobe": {
+   "zh": "阿克托比"
+  },
+  "KAZ:astana": {
+   "zh": "阿斯塔纳"
+  },
+  "KAZ:irtysh pavlodar": {
+   "zh": "巴甫洛达尔额尔齐斯"
+  },
+  "KAZ:kairat": {
+   "zh": "卡拉特"
+  },
+  "KAZ:kaisar": {
+   "zh": "卡伊萨尔"
+  },
+  "KOR:busan ipark": {
+   "zh": "釜山IPark"
+  },
+  "KOR:gangwon": {
+   "zh": "江原"
+  },
+  "KOR:gimcheon sangmu": {
+   "zh": "尚州尚武不死鸟"
+  },
+  "KOR:gyeongju korea hydro nuclear power": {
+   "zh": "庆州水利核电"
+  },
+  "KOR:gyeongnam": {
+   "zh": "庆南"
+  },
+  "KOR:incheon united": {
+   "zh": "仁川联"
+  },
+  "KOR:jeju": {
+   "zh": "济州SK"
+  },
+  "KOR:jeonbuk hyundai motors": {
+   "zh": "全北现代汽车"
+  },
+  "KOR:jeonnam dragons": {
+   "zh": "全南天龙"
+  },
+  "KOR:pohang steelers": {
+   "zh": "浦项制铁"
+  },
+  "KOR:seongnam": {
+   "zh": "城南"
+  },
+  "KOR:seoul": {
+   "zh": "首尔"
+  },
+  "KOR:suwon samsung bluewings": {
+   "zh": "水原三星蓝翼"
+  },
+  "KOR:ulsan hd": {
+   "zh": "蔚山HD"
+  },
+  "KWT:kuwait": {
+   "zh": "阿尔科威特体育"
+  },
+  "KWT:qadsia": {
+   "zh": "卡迪斯亚"
+  },
+  "LBY:al ittihad": {
+   "zh": "吉达联合"
+  },
+  "LIE:vaduz": {
+   "zh": "瓦杜茲"
+  },
+  "LTU:suduva": {
+   "zh": "马里扬波莱苏杜瓦"
+  },
+  "LTU:vilnius": {
+   "zh": "维尔纽斯"
+  },
+  "LTU:zalgiris vilnius": {
+   "zh": "考诺萨基列斯"
+  },
+  "LUX:cs fola esch": {
+   "zh": "埃施福拉"
+  },
+  "LUX:differdange 03": {
+   "zh": "迪弗当日03"
+  },
+  "LUX:union luxembourg": {
+   "zh": "竞技"
+  },
+  "LVA:daugava": {
+   "zh": "里加道加瓦"
+  },
+  "LVA:jfk olimps": {
+   "zh": "奥林普斯里加"
+  },
+  "LVA:riga": {
+   "zh": "里加"
+  },
+  "LVA:skonto": {
+   "zh": "斯康图"
+  },
+  "LVA:ventspils": {
+   "zh": "云特史比斯"
+  },
+  "MAR:chabab mohammedia": {
+   "zh": "穆罕默迪耶青年"
+  },
+  "MAR:cod meknes": {
+   "zh": "梅克内斯"
+  },
+  "MAR:difaa del jadida": {
+   "zh": "杰迪代"
+  },
+  "MAR:far rabat": {
+   "zh": "皇家武装部队"
+  },
+  "MAR:fus rabat": {
+   "zh": "拉巴特FUS"
+  },
+  "MAR:hassania agadir": {
+   "zh": "阿加迪尔哈萨尼亚"
+  },
+  "MAR:ittihad tanger": {
+   "zh": "丹吉尔联合"
+  },
+  "MAR:js soualem": {
+   "zh": "苏阿莱姆"
+  },
+  "MAR:khemis zemamra": {
+   "zh": "泽马姆拉"
+  },
+  "MAR:maghreb of fez": {
+   "zh": "马格里布"
+  },
+  "MAR:maghrib fes": {
+   "zh": "非斯马格里布"
+  },
+  "MAR:moghreb tetouan": {
+   "zh": "马格里布得土安"
+  },
+  "MAR:oc khouribga": {
+   "zh": "卡贺列加奥林匹克会"
+  },
+  "MAR:raja casablanca": {
+   "zh": "拉查"
+  },
+  "MAR:rs berkane": {
+   "zh": "贝尔卡尼"
+  },
+  "MAR:safi": {
+   "zh": "沙菲奥林匹克会"
+  },
+  "MAR:union touarga": {
+   "zh": "图阿尔加"
+  },
+  "MAR:wydad": {
+   "zh": "韦达竞技会"
+  },
+  "MAR:wydad athletic": {
+   "zh": "卡萨布兰卡外傣"
+  },
+  "MCO:monaco": {
+   "zh": "摩纳哥"
+  },
+  "MDA:cs tiligul tiras tiraspol": {
+   "zh": "迪利古泰拉斯"
+  },
+  "MDA:sheriff tiraspol": {
+   "zh": "舍里夫"
+  },
+  "MDA:zimbru chisinau": {
+   "zh": "基希讷乌野牛"
+  },
+  "MEX:america": {
+   "zh": "美洲"
+  },
+  "MEX:atlante": {
+   "zh": "亚特兰特"
+  },
+  "MEX:atlas": {
+   "zh": "阿特拉斯"
+  },
+  "MEX:atlas guadalajara": {
+   "zh": "阿特拉斯"
+  },
+  "MEX:atletico irapuato": {
+   "zh": "伊拉普亚图"
+  },
+  "MEX:atletico morelia": {
+   "zh": "莫雷利亚君主竞技"
+  },
+  "MEX:atletico san luis": {
+   "zh": "圣路易斯竞技"
+  },
+  "MEX:celaya": {
+   "zh": "塞拉亚"
+  },
+  "MEX:chiapas": {
+   "zh": "恰帕斯美洲虎"
+  },
+  "MEX:cruz azul": {
+   "zh": "蓝十字"
+  },
+  "MEX:deportivo guadalajara": {
+   "zh": "瓜达拉哈拉"
+  },
+  "MEX:deportivo toluca": {
+   "zh": "托卢卡"
+  },
+  "MEX:dorados sinaloa": {
+   "zh": "迪圣拉诺亚"
+  },
+  "MEX:gallos blancos": {
+   "zh": "克雷塔罗"
+  },
+  "MEX:guadalajara": {
+   "zh": "瓜达拉哈拉竞技"
+  },
+  "MEX:juarez": {
+   "zh": "华雷斯"
+  },
+  "MEX:leon": {
+   "zh": "莱昂"
+  },
+  "MEX:lobos buap": {
+   "zh": "普埃布拉狼"
+  },
+  "MEX:lobos la buap": {
+   "zh": "普埃布拉自治大学灰狼"
+  },
+  "MEX:mazatlan": {
+   "zh": "马萨特兰"
+  },
+  "MEX:monarcas morelia": {
+   "zh": "莫雷利亚"
+  },
+  "MEX:monterrey": {
+   "zh": "蒙特雷"
+  },
+  "MEX:necaxa": {
+   "zh": "内卡哈"
+  },
+  "MEX:pachuca": {
+   "zh": "帕丘卡"
+  },
+  "MEX:puebla": {
+   "zh": "普埃布拉"
+  },
+  "MEX:pumas unam": {
+   "zh": "国立自治大学"
+  },
+  "MEX:queretaro": {
+   "zh": "克雷塔罗"
+  },
+  "MEX:san luis": {
+   "zh": "圣路易斯"
+  },
+  "MEX:santos laguna": {
+   "zh": "桑托斯拉古纳"
+  },
+  "MEX:tecos": {
+   "zh": "达高斯"
+  },
+  "MEX:tiburones rojos veracruz": {
+   "zh": "贝拉克鲁斯红鲨"
+  },
+  "MEX:tigres uanl": {
+   "zh": "新莱昂自治大学老虎"
+  },
+  "MEX:tijuana": {
+   "zh": "蒂华纳"
+  },
+  "MEX:toluca": {
+   "zh": "托卢卡"
+  },
+  "MEX:toros neza": {
+   "zh": "内萨公牛队"
+  },
+  "MEX:uanl tigres": {
+   "zh": "老虎大学"
+  },
+  "MEX:unam pumas": {
+   "zh": "普马斯UNAM"
+  },
+  "MEX:veracruz": {
+   "zh": "韦拉克鲁斯"
+  },
+  "MKD:belasica": {
+   "zh": "贝拉西察"
+  },
+  "MKD:rabotnicki": {
+   "zh": "拉博特尼奇基"
+  },
+  "MKD:sileks": {
+   "zh": "西莱克斯"
+  },
+  "MKD:vardar": {
+   "zh": "瓦尔达尔"
+  },
+  "MLT:amrun spartans": {
+   "zh": "咸伦斯巴达"
+  },
+  "MLT:floriana": {
+   "zh": "弗洛里亚纳"
+  },
+  "MLT:hamrun spartans": {
+   "zh": "咸伦斯巴达"
+  },
+  "MLT:valletta": {
+   "zh": "瓦莱塔"
+  },
+  "MNE:bokelj": {
+   "zh": "博凯列"
+  },
+  "MNE:buducnost podgorica": {
+   "zh": "布杜克诺斯特"
+  },
+  "MNE:jedinstvo bijelo polje": {
+   "zh": "耶丁斯托沃"
+  },
+  "MNE:mornar": {
+   "zh": "莫尔纳"
+  },
+  "MNE:ofk petrovac": {
+   "zh": "帕度华青年"
+  },
+  "MNE:sutjeska niksic": {
+   "zh": "尼克希奇"
+  },
+  "MYS:johor darul tazim": {
+   "zh": "柔佛DT"
+  },
+  "MYS:mk land": {
+   "zh": "雪兰莪MKL"
+  },
+  "MYS:perak": {
+   "zh": "霹雳"
+  },
+  "MYS:polis di raja malaysia fa": {
+   "zh": "皇家警察"
+  },
+  "MYS:sarawak association": {
+   "zh": "砂拉越"
+  },
+  "MYS:selangor": {
+   "zh": "雪兰莪"
+  },
+  "MYS:sri pahang": {
+   "zh": "斯里彭亨"
+  },
+  "NGA:bendel insurance": {
+   "zh": "班德尔保险"
+  },
+  "NGA:bridge": {
+   "zh": "布迪治"
+  },
+  "NGA:calabar rovers": {
+   "zh": "卡拉巴尔流浪者"
+  },
+  "NGA:ebedei": {
+   "zh": "埃贝德"
+  },
+  "NGA:enugu rangers": {
+   "zh": "埃努古流浪者"
+  },
+  "NGA:enyimba international": {
+   "zh": "安耶巴"
+  },
+  "NGA:heartland": {
+   "zh": "哈特兰德"
+  },
+  "NGA:kano pillars": {
+   "zh": "卡诺栋梁"
+  },
+  "NGA:nasarawa united": {
+   "zh": "纳萨拉瓦联"
+  },
+  "NGA:plateau united": {
+   "zh": "高原州联"
+  },
+  "NGA:ranchers bees": {
+   "zh": "牧人蜜蜂"
+  },
+  "NGA:sharks": {
+   "zh": "鲨鱼"
+  },
+  "NGA:shooting stars": {
+   "zh": "流星"
+  },
+  "NGA:stationery stores": {
+   "zh": "文具店"
+  },
+  "NIR:glentoran": {
+   "zh": "格伦杜兰"
+  },
+  "NIR:linfield": {
+   "zh": "林菲尔德"
+  },
+  "NIR:portadown": {
+   "zh": "波达丹"
+  },
+  "NLD:ado den haag": {
+   "zh": "海牙"
+  },
+  "NLD:ajax": {
+   "zh": "阿贾克斯"
+  },
+  "NLD:almere city": {
+   "zh": "阿梅尔城"
+  },
+  "NLD:az": {
+   "zh": "阿尔克马尔"
+  },
+  "NLD:az alkmaar": {
+   "zh": "阿尔克马尔"
+  },
+  "NLD:cambuur": {
+   "zh": "SC甘堡尔"
+  },
+  "NLD:cambuur leeuwarden": {
+   "zh": "SC甘堡尔"
+  },
+  "NLD:den bosch": {
+   "zh": "邓伯什"
+  },
+  "NLD:den haag": {
+   "zh": "ADO海牙"
+  },
+  "NLD:dordrecht": {
+   "zh": "多德雷赫特"
+  },
+  "NLD:dordrecht 90": {
+   "zh": "多德雷赫特"
+  },
+  "NLD:emmen": {
+   "zh": "埃门"
+  },
+  "NLD:excelsior rotterdam": {
+   "zh": "鹿特丹精英"
+  },
+  "NLD:feyenoord": {
+   "zh": "费耶诺德"
+  },
+  "NLD:fortuna sittard": {
+   "zh": "锡塔德幸运"
+  },
+  "NLD:go ahead eagles": {
+   "zh": "前进之鹰"
+  },
+  "NLD:graafschap": {
+   "zh": "格拉夫斯海普"
+  },
+  "NLD:graafschap doetinchem": {
+   "zh": "迪加史卓普"
+  },
+  "NLD:groningen": {
+   "zh": "格罗宁根"
+  },
+  "NLD:heerenveen": {
+   "zh": "海伦芬"
+  },
+  "NLD:heracles almelo": {
+   "zh": "赫拉克勒斯"
+  },
+  "NLD:mvv": {
+   "zh": "MVV马斯特里赫特"
+  },
+  "NLD:nac breda": {
+   "zh": "NAC布雷达"
+  },
+  "NLD:nec": {
+   "zh": "NEC奈梅亨"
+  },
+  "NLD:nec nijmegen": {
+   "zh": "NEC奈梅亨"
+  },
+  "NLD:pec zwolle": {
+   "zh": "兹沃勒"
+  },
+  "NLD:psv": {
+   "zh": "埃因霍温"
+  },
+  "NLD:rbc roosendaal": {
+   "zh": "罗森达尔"
+  },
+  "NLD:rkc waalwijk": {
+   "zh": "瓦尔韦克"
+  },
+  "NLD:roda jc kerkrade": {
+   "zh": "罗达JC"
+  },
+  "NLD:sbv excelsior": {
+   "zh": "鹿特丹精英"
+  },
+  "NLD:sbv vitesse": {
+   "zh": "维迪斯职业足球基金会"
+  },
+  "NLD:sparta rotterdam": {
+   "zh": "鹿特丹斯巴达"
+  },
+  "NLD:svv dordrecht 90": {
+   "zh": "多德雷赫特"
+  },
+  "NLD:svv schiedam": {
+   "zh": "SVV谢文尼根"
+  },
+  "NLD:telstar": {
+   "zh": "泰斯达"
+  },
+  "NLD:twente": {
+   "zh": "特温特"
+  },
+  "NLD:twente 65": {
+   "zh": "特温特"
+  },
+  "NLD:twente enschede": {
+   "zh": "特温特"
+  },
+  "NLD:utrecht": {
+   "zh": "乌德勒支"
+  },
+  "NLD:vitesse": {
+   "zh": "维特斯"
+  },
+  "NLD:vitesse arnhem": {
+   "zh": "维迪斯职业足球基金会"
+  },
+  "NLD:volendam": {
+   "zh": "福伦丹"
+  },
+  "NLD:vvv venlo": {
+   "zh": "VVV-芬洛"
+  },
+  "NLD:willem ii": {
+   "zh": "威廉二世"
+  },
+  "NLD:willem ii tilburg": {
+   "zh": "威廉二世"
+  },
+  "NLD:zwolle": {
+   "zh": "兹沃勒"
+  },
+  "NOR:aalesunds": {
+   "zh": "奥勒松"
+  },
+  "NOR:asker fotball": {
+   "zh": "阿斯克尔"
+  },
+  "NOR:bodo glimt": {
+   "zh": "博德闪耀"
+  },
+  "NOR:brann": {
+   "zh": "布兰"
+  },
+  "NOR:bryne": {
+   "zh": "布莱恩"
+  },
+  "NOR:fotballklubben bodo glimt": {
+   "zh": "波杜基林特"
+  },
+  "NOR:fredrikstad": {
+   "zh": "腓特烈斯塔"
+  },
+  "NOR:fredrikstad fotballklubb": {
+   "zh": "费德列斯达"
+  },
+  "NOR:hamarkameratene": {
+   "zh": "汉坎"
+  },
+  "NOR:haugesund": {
+   "zh": "海于格松"
+  },
+  "NOR:kfum kameratene oslo": {
+   "zh": "奥斯陆KFUM"
+  },
+  "NOR:kristiansund ballklubb": {
+   "zh": "克里斯蒂安松"
+  },
+  "NOR:lillestrom": {
+   "zh": "利勒斯特伦体育"
+  },
+  "NOR:lyn": {
+   "zh": "利恩"
+  },
+  "NOR:molde": {
+   "zh": "莫尔德"
+  },
+  "NOR:molde fotballklubb": {
+   "zh": "莫尔德"
+  },
+  "NOR:odds": {
+   "zh": "奥特"
+  },
+  "NOR:rosenborg": {
+   "zh": "罗森博格BK"
+  },
+  "NOR:rosenborg ballklub": {
+   "zh": "洛辛堡"
+  },
+  "NOR:sandefjord fotball": {
+   "zh": "桑讷菲尤尔"
+  },
+  "NOR:sandnes ulf": {
+   "zh": "辛尼斯Ulf"
+  },
+  "NOR:sarpsborg 08 ff": {
+   "zh": "萨普斯堡08"
+  },
+  "NOR:sarpsborg 08 fotballforening": {
+   "zh": "萨普斯堡08"
+  },
+  "NOR:sportsklubben brann": {
+   "zh": "白兰恩"
+  },
+  "NOR:stab k fotball": {
+   "zh": "史达比克"
+  },
+  "NOR:start": {
+   "zh": "史达"
+  },
+  "NOR:stromsgodset": {
+   "zh": "斯托姆加斯特"
+  },
+  "NOR:tromso idrettslag": {
+   "zh": "特林素"
+  },
+  "NOR:tromso il": {
+   "zh": "特罗姆瑟"
+  },
+  "NOR:valerenga fotball": {
+   "zh": "瓦勒伦加"
+  },
+  "NOR:valerengens idrettsforening": {
+   "zh": "瓦勒伦加"
+  },
+  "NOR:viking": {
+   "zh": "维京"
+  },
+  "NOR:viking fotballklubb": {
+   "zh": "维京"
+  },
+  "NZL:auckland city": {
+   "zh": "奥克兰城"
+  },
+  "NZL:auckland united": {
+   "zh": "奥克兰"
+  },
+  "NZL:cambridge": {
+   "zh": "剑桥城"
+  },
+  "NZL:christchurch united": {
+   "zh": "基督城联"
+  },
+  "NZL:hamilton wanderers": {
+   "zh": "汉密尔顿流浪者职业"
+  },
+  "NZL:miramar rangers": {
+   "zh": "美丽华流浪"
+  },
+  "NZL:new zealand knights": {
+   "zh": "新西蘭騎士"
+  },
+  "NZL:wellington phoenix": {
+   "zh": "威灵顿凤凰"
+  },
+  "OMN:al suwaiq": {
+   "zh": "苏怀克"
+  },
+  "PAN:deportivo arabe unido": {
+   "zh": "阿拉伯联合"
+  },
+  "PER:alianza lima": {
+   "zh": "利马联"
+  },
+  "PER:coronel bolognesi": {
+   "zh": "保洛尼斯"
+  },
+  "PER:deportivo wanka": {
+   "zh": "华尼卡竞技"
+  },
+  "PER:fbc melgar": {
+   "zh": "梅尔加"
+  },
+  "PER:sporting cristal": {
+   "zh": "水晶体育"
+  },
+  "PER:universidad cesar vallejo": {
+   "zh": "塞萨尔巴列霍大学竞技"
+  },
+  "PER:universitario deportes": {
+   "zh": "秘鲁体育大学"
+  },
+  "POL:cracovia": {
+   "zh": "克拉科维亚"
+  },
+  "POL:dolcan zabki": {
+   "zh": "扎布基多尔坎"
+  },
+  "POL:gks gieksa katowice spo ka akcyjna": {
+   "zh": "卡托维治矿工"
+  },
+  "POL:gks katowice": {
+   "zh": "卡托维治矿工"
+  },
+  "POL:gks tychy": {
+   "zh": "GKS蒂黑"
+  },
+  "POL:gornik eczna": {
+   "zh": "戈尼克文奇纳"
+  },
+  "POL:gornik zabrze": {
+   "zh": "扎布热矿工"
+  },
+  "POL:jagiellonia bia ystok": {
+   "zh": "比亚韦斯托克雅盖隆"
+  },
+  "POL:jagiellonia bialystok": {
+   "zh": "比亚韦斯托克雅盖隆"
+  },
+  "POL:korona kielce": {
+   "zh": "凯尔采科罗纳"
+  },
+  "POL:ks cracovia": {
+   "zh": "克拉科维亚"
+  },
+  "POL:ks lechia gdansk": {
+   "zh": "格但斯克莱吉亚"
+  },
+  "POL:ks odz": {
+   "zh": "罗兹"
+  },
+  "POL:lech poznan": {
+   "zh": "波兹南莱赫"
+  },
+  "POL:lechia gdansk": {
+   "zh": "格但斯克莱吉亚"
+  },
+  "POL:legia warsaw": {
+   "zh": "华沙莱吉亚"
+  },
+  "POL:legia warszawa": {
+   "zh": "华沙莱吉亚"
+  },
+  "POL:mkp pogon siedlce": {
+   "zh": "謝德爾采"
+  },
+  "POL:morski zwiazkowy klub sportowy arka gdynia spo ka akcyjna": {
+   "zh": "格丁尼亚"
+  },
+  "POL:motor lublin spo ka akcyjna": {
+   "zh": "卢布林发动机"
+  },
+  "POL:piast gliwice": {
+   "zh": "格利维采皮亚斯特"
+  },
+  "POL:pogon szczecin": {
+   "zh": "什切青波贡"
+  },
+  "POL:polonia warsaw": {
+   "zh": "华沙波兰人"
+  },
+  "POL:puszcza niepolomice": {
+   "zh": "涅波沃米采"
+  },
+  "POL:radomiak radom": {
+   "zh": "拉多米亚克"
+  },
+  "POL:rakow czestochowa": {
+   "zh": "拉科夫捷斯托佐华工人"
+  },
+  "POL:rozwoj katowice": {
+   "zh": "卡托维兹发展队"
+  },
+  "POL:rts widzew odz": {
+   "zh": "罗兹维泽夫"
+  },
+  "POL:slask wroc aw": {
+   "zh": "弗罗茨瓦克"
+  },
+  "POL:slask wroclaw": {
+   "zh": "弗罗茨瓦夫"
+  },
+  "POL:stal mielec": {
+   "zh": "梅莱茨钢铁"
+  },
+  "POL:termalica bruk bet nieciecza klub sportowy": {
+   "zh": "涅切恰"
+  },
+  "POL:warta poznan": {
+   "zh": "波兹南瓦塔"
+  },
+  "POL:widzew lodz": {
+   "zh": "罗兹维泽夫"
+  },
+  "POL:wis a krakow": {
+   "zh": "维斯瓦克拉科夫"
+  },
+  "POL:wisla plock": {
+   "zh": "普沃茨克维斯瓦"
+  },
+  "POL:zag ebie lubin": {
+   "zh": "路宾扎格勒比"
+  },
+  "POL:zaglebie lubin": {
+   "zh": "卢宾扎格列比"
+  },
+  "POL:znicz pruszkow": {
+   "zh": "普鲁斯科夫火炬"
+  },
+  "PRT:academica": {
+   "zh": "科英布拉学院"
+  },
+  "PRT:academica coimbra": {
+   "zh": "科英布拉大学"
+  },
+  "PRT:academica coimbra oaf": {
+   "zh": "科英布拉大学"
+  },
+  "PRT:ad machico": {
+   "zh": "马希库"
+  },
+  "PRT:alverca": {
+   "zh": "阿尔韦卡"
+  },
+  "PRT:arouca": {
+   "zh": "阿洛卡"
+  },
+  "PRT:aves": {
+   "zh": "艾维斯"
+  },
+  "PRT:avs": {
+   "zh": "阿韦斯AVS"
+  },
+  "PRT:beira mar": {
+   "zh": "贝拉马尔"
+  },
+  "PRT:belenenses": {
+   "zh": "贝伦人"
+  },
+  "PRT:benfica": {
+   "zh": "里斯本与本菲卡体育"
+  },
+  "PRT:boavista": {
+   "zh": "博阿维斯塔"
+  },
+  "PRT:braga": {
+   "zh": "布拉加"
+  },
+  "PRT:campomaior": {
+   "zh": "坎普马约尔"
+  },
+  "PRT:campomaiorense": {
+   "zh": "坎普马约尔人体育"
+  },
+  "PRT:casa pia": {
+   "zh": "卡萨皮亚"
+  },
+  "PRT:chaves": {
+   "zh": "GD沙维斯"
+  },
+  "PRT:cs maritimo": {
+   "zh": "马里迪莫体育"
+  },
+  "PRT:desp chaves": {
+   "zh": "沙维斯"
+  },
+  "PRT:desportivo aves": {
+   "zh": "艾维斯"
+  },
+  "PRT:desportivo dos olivais moscavide": {
+   "zh": "摩斯卡维德"
+  },
+  "PRT:espinho": {
+   "zh": "埃斯皮尼奥"
+  },
+  "PRT:est amadora": {
+   "zh": "阿马多拉星"
+  },
+  "PRT:estoril": {
+   "zh": "伊斯托里尔"
+  },
+  "PRT:estrela da amadora": {
+   "zh": "阿马多拉之星"
+  },
+  "PRT:famalicao": {
+   "zh": "法马利考"
+  },
+  "PRT:farense": {
+   "zh": "法鲁人"
+  },
+  "PRT:fatima": {
+   "zh": "法蒂玛体育中心"
+  },
+  "PRT:feirense": {
+   "zh": "费伦斯"
+  },
+  "PRT:felgueiras": {
+   "zh": "费尔盖拉什"
+  },
+  "PRT:freamunde": {
+   "zh": "费尔蒙特"
+  },
+  "PRT:gd chaves": {
+   "zh": "查维斯"
+  },
+  "PRT:gd estoril": {
+   "zh": "埃斯托里尔"
+  },
+  "PRT:gd estoril praia": {
+   "zh": "埃斯托里尔"
+  },
+  "PRT:gd ribeirao": {
+   "zh": "里贝朗"
+  },
+  "PRT:gil vicente": {
+   "zh": "吉尔维森特"
+  },
+  "PRT:guimaraes": {
+   "zh": "吉马良斯"
+  },
+  "PRT:imortal dc": {
+   "zh": "伊莫图"
+  },
+  "PRT:leca": {
+   "zh": "莱萨"
+  },
+  "PRT:leiria": {
+   "zh": "雷利亚体育"
+  },
+  "PRT:leixoes": {
+   "zh": "历索斯体育"
+  },
+  "PRT:lisboa benfica": {
+   "zh": "里斯本与本菲卡体育"
+  },
+  "PRT:madeira": {
+   "zh": "马德拉体育场"
+  },
+  "PRT:mafra": {
+   "zh": "马夫拉体育会"
+  },
+  "PRT:marco": {
+   "zh": "马尔科"
+  },
+  "PRT:maritimo": {
+   "zh": "马里迪莫"
+  },
+  "PRT:moreirense": {
+   "zh": "莫雷拉人"
+  },
+  "PRT:nacional": {
+   "zh": "国民体育会"
+  },
+  "PRT:naval": {
+   "zh": "纳瓦尔"
+  },
+  "PRT:naval 1o maio": {
+   "zh": "纳瓦尔"
+  },
+  "PRT:olhanense": {
+   "zh": "欧汉尼斯"
+  },
+  "PRT:oliveirense": {
+   "zh": "奥利维拉人"
+  },
+  "PRT:operario": {
+   "zh": "奥佩拉里奥体育"
+  },
+  "PRT:oriental lisboa": {
+   "zh": "里斯本奥利安图"
+  },
+  "PRT:os belenenses": {
+   "zh": "贝伦人"
+  },
+  "PRT:pacos ferreira": {
+   "zh": "费雷拉"
+  },
+  "PRT:penafiel": {
+   "zh": "佩纳菲耶尔"
+  },
+  "PRT:portimonense": {
+   "zh": "波尔蒂芒人"
+  },
+  "PRT:porto": {
+   "zh": "波尔图"
+  },
+  "PRT:rio ave": {
+   "zh": "阿韦河"
+  },
+  "PRT:salgueiros": {
+   "zh": "萨尔盖鲁什"
+  },
+  "PRT:santa clara": {
+   "zh": "圣克拉拉"
+  },
+  "PRT:setubal": {
+   "zh": "塞图巴尔"
+  },
+  "PRT:sp braga": {
+   "zh": "布拉加"
+  },
+  "PRT:sporting": {
+   "zh": "葡萄牙体育"
+  },
+  "PRT:sporting braga": {
+   "zh": "布拉加"
+  },
+  "PRT:tirsense": {
+   "zh": "蒂尔森斯"
+  },
+  "PRT:tondela": {
+   "zh": "唐迪拉"
+  },
+  "PRT:trofense": {
+   "zh": "泰罗芬斯"
+  },
+  "PRT:uniao madeira": {
+   "zh": "马迪亚拿联"
+  },
+  "PRT:varzim": {
+   "zh": "巴尔辛"
+  },
+  "PRT:vila real": {
+   "zh": "雷阿尔体育"
+  },
+  "PRT:vitoria": {
+   "zh": "吉马良斯维多利亚"
+  },
+  "PRT:vitoria guimaraes": {
+   "zh": "吉马良斯"
+  },
+  "PRT:vitoria setubal": {
+   "zh": "维多利亚"
+  },
+  "PRT:vizela": {
+   "zh": "维薛拿"
+  },
+  "PRY:12 octubre": {
+   "zh": "十月十二日"
+  },
+  "PRY:cerro cora": {
+   "zh": "卡路戈拉"
+  },
+  "PRY:cerro porteno": {
+   "zh": "波特诺山丘"
+  },
+  "PRY:colombia": {
+   "zh": "哥伦比亚竞技"
+  },
+  "PRY:guarani": {
+   "zh": "瓜拉尼"
+  },
+  "PRY:libertad": {
+   "zh": "自由"
+  },
+  "PRY:nacional": {
+   "zh": "民族"
+  },
+  "PRY:olimpia": {
+   "zh": "奥林匹亚"
+  },
+  "PRY:rubio nu": {
+   "zh": "鲁维奥尼尤"
+  },
+  "PRY:sol america": {
+   "zh": "美洲太阳"
+  },
+  "PRY:sportivo luqueno": {
+   "zh": "卢克尼奥竞技"
+  },
+  "QAT:al ahli": {
+   "zh": "阿赫利体育"
+  },
+  "QAT:al arabi": {
+   "zh": "阿尔阿拉比体育"
+  },
+  "QAT:al duhail": {
+   "zh": "杜海勒体育"
+  },
+  "QAT:al gharafa": {
+   "zh": "加拉法"
+  },
+  "QAT:al kharaitiyat": {
+   "zh": "库拉提尔特"
+  },
+  "QAT:al rayyan": {
+   "zh": "赖扬"
+  },
+  "QAT:al sadd sports": {
+   "zh": "多哈水坝"
+  },
+  "QAT:al sailiya sports": {
+   "zh": "赛利亚体育"
+  },
+  "QAT:al shahaniya sports": {
+   "zh": "艾沙哈尼亚"
+  },
+  "QAT:al shamal sports": {
+   "zh": "夏玛尔体育"
+  },
+  "QAT:al wakrah sports": {
+   "zh": "艾华卡拉"
+  },
+  "QAT:el jaish": {
+   "zh": "艾查殊"
+  },
+  "QAT:lusail sports": {
+   "zh": "卢沙尔"
+  },
+  "QAT:qatar": {
+   "zh": "卡塔尔体育"
+  },
+  "QAT:umm salal": {
+   "zh": "乌姆沙拉尔"
+  },
+  "ROU:acs poli timisoara": {
+   "zh": "普利添美索亚拿"
+  },
+  "ROU:acsc arges": {
+   "zh": "阿尔杰什"
+  },
+  "ROU:acsm politehnica iasi": {
+   "zh": "雅西理工"
+  },
+  "ROU:arges": {
+   "zh": "阿尔杰什"
+  },
+  "ROU:asa targu mures": {
+   "zh": "达古莫勒斯2013"
+  },
+  "ROU:asfc buzau": {
+   "zh": "布泽乌"
+  },
+  "ROU:botosani": {
+   "zh": "博托沙尼"
+  },
+  "ROU:brasov": {
+   "zh": "布拉索夫"
+  },
+  "ROU:caracal": {
+   "zh": "克拉约瓦电力机车"
+  },
+  "ROU:cfr cluj": {
+   "zh": "CFR克卢日"
+  },
+  "ROU:cs universitatea craiova": {
+   "zh": "克拉约瓦大学体育"
+  },
+  "ROU:csa steaua bucuresti": {
+   "zh": "布加勒斯特星队"
+  },
+  "ROU:csikszereda miercurea ciuc": {
+   "zh": "米尔古雷亚丘克"
+  },
+  "ROU:csm resita": {
+   "zh": "雷西察学校"
+  },
+  "ROU:dinamo": {
+   "zh": "布加勒斯特迪纳摩"
+  },
+  "ROU:dinamo bucharest": {
+   "zh": "布加勒斯特迪纳摩"
+  },
+  "ROU:dinamo bucuresti": {
+   "zh": "布加勒斯特迪纳摩"
+  },
+  "ROU:farul constanta": {
+   "zh": "康斯坦察灯塔"
+  },
+  "ROU:fcsb": {
+   "zh": "布加勒斯特星"
+  },
+  "ROU:fcv farul constanta": {
+   "zh": "化奴康斯坦察"
+  },
+  "ROU:gloria bistrita": {
+   "zh": "比斯特里察哥利亚"
+  },
+  "ROU:hermannstadt": {
+   "zh": "赫曼施塔特"
+  },
+  "ROU:inter sibiu": {
+   "zh": "英特锡比乌"
+  },
+  "ROU:metaloglobus bucharest": {
+   "zh": "布加勒斯特金属环球"
+  },
+  "ROU:olt scornicesti": {
+   "zh": "奥尔特斯科尔尼切什蒂"
+  },
+  "ROU:otelul galati": {
+   "zh": "加拉茨"
+  },
+  "ROU:petrolul ploiesti": {
+   "zh": "普罗耶什蒂佩特罗鲁"
+  },
+  "ROU:politehnica timisoara": {
+   "zh": "蒂米什瓦拉"
+  },
+  "ROU:progresul bucuresti": {
+   "zh": "布加勒斯特前进"
+  },
+  "ROU:rapid": {
+   "zh": "布加勒斯特迅速"
+  },
+  "ROU:rapid bucuresti": {
+   "zh": "布加勒斯特迅速"
+  },
+  "ROU:sepsi osk sf gheorghe": {
+   "zh": "圣格奥尔基赛普西OSK"
+  },
+  "ROU:sportul studentesc bucuresti": {
+   "zh": "布加勒斯特学生体育"
+  },
+  "ROU:steaua bucuresti": {
+   "zh": "布加勒斯特星队"
+  },
+  "ROU:u craiova": {
+   "zh": "克拉约瓦"
+  },
+  "ROU:unirea 04 slobozia": {
+   "zh": "斯洛博齐亚"
+  },
+  "ROU:unirea urziceni": {
+   "zh": "乌尔济切尼乌尼雷亚"
+  },
+  "ROU:universitatea cluj": {
+   "zh": "克卢日大学"
+  },
+  "ROU:universitatea craiova": {
+   "zh": "卡拉奥华大学"
+  },
+  "ROU:uta arad": {
+   "zh": "阿拉德纺织厂"
+  },
+  "ROU:vaslui": {
+   "zh": "瓦斯卢伊"
+  },
+  "ROU:viitorul constanta": {
+   "zh": "康斯坦察维托"
+  },
+  "RUS:akhmat grozny": {
+   "zh": "格罗兹尼艾哈迈德"
+  },
+  "RUS:akron togliatti": {
+   "zh": "陶里亚蒂阿克隆"
+  },
+  "RUS:akron tolyatti": {
+   "zh": "阿克隆陶里亚蒂"
+  },
+  "RUS:alania vladikavkaz": {
+   "zh": "弗拉季高加索阿兰尼亚",
+   "gone": 2020
+  },
+  "RUS:amkar perm": {
+   "zh": "彼尔姆安卡",
+   "gone": 2018
+  },
+  "RUS:anzhi makhachkala": {
+   "zh": "马哈奇卡拉安郅",
+   "gone": 2022
+  },
+  "RUS:ararat moscow": {
+   "zh": "莫斯科亚拉拉特"
+  },
+  "RUS:arsenal tula": {
+   "zh": "图拉兵工厂"
+  },
+  "RUS:asmaral moscow": {
+   "zh": "莫斯科火车头"
+  },
+  "RUS:asmaral moskva": {
+   "zh": "莫斯科阿斯马拉尔"
+  },
+  "RUS:baltika": {
+   "zh": "加里宁格勒波罗的海"
+  },
+  "RUS:chernomorets novorossiysk": {
+   "zh": "新罗西斯克黑海"
+  },
+  "RUS:chkalovets olimpik novosibirsk": {
+   "zh": "新西伯利亚"
+  },
+  "RUS:cska moscow": {
+   "zh": "莫斯科中央陆军"
+  },
+  "RUS:dinamo makhachkala": {
+   "zh": "马哈奇卡拉迪纳摩"
+  },
+  "RUS:dinamo moscow": {
+   "zh": "莫斯科迪纳摩"
+  },
+  "RUS:dinamo moskva": {
+   "zh": "莫斯科迪纳摩"
+  },
+  "RUS:dinamo stavropol": {
+   "zh": "斯塔夫罗波尔迪纳摩"
+  },
+  "RUS:dynamo bryansk": {
+   "zh": "布良斯克迪纳摩"
+  },
+  "RUS:dynamo makhachkala": {
+   "zh": "马哈奇卡拉戴拿模"
+  },
+  "RUS:dynamo saint petersburg": {
+   "zh": "圣彼得堡迪纳摩"
+  },
+  "RUS:dynamo stavropol": {
+   "zh": "斯塔夫罗波尔迪纳摩"
+  },
+  "RUS:elista": {
+   "zh": "伊利斯塔"
+  },
+  "RUS:enisey krasnoyarsk": {
+   "zh": "克拉斯诺亚尔斯克叶尼塞"
+  },
+  "RUS:fakel voronezh": {
+   "zh": "沃罗涅日火炬"
+  },
+  "RUS:kamaz naberezhnye chelny": {
+   "zh": "卡马斯"
+  },
+  "RUS:kamaz naberezhnyye chelny": {
+   "zh": "卡马斯"
+  },
+  "RUS:karelia petrozavodsk": {
+   "zh": "卡累利阿彼得罗扎沃茨克"
+  },
+  "RUS:khimki": {
+   "zh": "希姆基"
+  },
+  "RUS:krasnodar": {
+   "zh": "克拉斯诺达尔"
+  },
+  "RUS:krylia sovetov": {
+   "zh": "萨马拉苏维埃之翼"
+  },
+  "RUS:krylia sovetov 2 samara": {
+   "zh": "萨马拉苏维埃之翼"
+  },
+  "RUS:krylia sovetov samara": {
+   "zh": "萨马拉苏维埃之翼"
+  },
+  "RUS:kuban krasnodar": {
+   "zh": "库班",
+   "gone": 2018
+  },
+  "RUS:lada togliatti": {
+   "zh": "陶里亚蒂拉达"
+  },
+  "RUS:lada tolyatti": {
+   "zh": "拉达陶里亚蒂"
+  },
+  "RUS:leon saturn": {
+   "zh": "莫斯科州土星"
+  },
+  "RUS:lokomotiv moskva": {
+   "zh": "莫斯科火车头"
+  },
+  "RUS:lokomotiv nizhniy novgorod": {
+   "zh": "下诺夫哥罗德火车头"
+  },
+  "RUS:lokomotiv nizhny novgorod": {
+   "zh": "下诺夫哥罗德火车头"
+  },
+  "RUS:luch vladivostok": {
+   "zh": "符拉迪沃斯托克射线"
+  },
+  "RUS:mordovia saransk": {
+   "zh": "萨兰斯克莫尔多维亚",
+   "gone": 2020
+  },
+  "RUS:moscow": {
+   "zh": "莫斯科"
+  },
+  "RUS:moskva": {
+   "zh": "莫斯科FC",
+   "gone": 2010
+  },
+  "RUS:neftekhimik nizhnekamsk": {
+   "zh": "下卡姆斯克"
+  },
+  "RUS:nizhny novgorod": {
+   "zh": "下诺夫哥罗德"
+  },
+  "RUS:okean nakhodka": {
+   "zh": "纳霍德卡海洋"
+  },
+  "RUS:orenburg": {
+   "zh": "奥伦堡"
+  },
+  "RUS:rostov": {
+   "zh": "罗斯托夫"
+  },
+  "RUS:rotor volgograd": {
+   "zh": "伏尔加格勒转子"
+  },
+  "RUS:rubin kazan": {
+   "zh": "喀山红宝石"
+  },
+  "RUS:saturn moskovskaya oblast": {
+   "zh": "莫斯科州土星",
+   "gone": 2011
+  },
+  "RUS:shinnik yaroslavl": {
+   "zh": "雅罗斯拉夫尔希尼克"
+  },
+  "RUS:sibir novosibirsk": {
+   "zh": "新西伯利亚西伯利亚"
+  },
+  "RUS:ska energiya khabarovsk": {
+   "zh": "哈巴罗夫斯克能源"
+  },
+  "RUS:ska khabarovsk": {
+   "zh": "哈巴罗夫斯克SKA"
+  },
+  "RUS:ska rostov on don": {
+   "zh": "罗斯托夫"
+  },
+  "RUS:sochi": {
+   "zh": "索契"
+  },
+  "RUS:sokol saratov": {
+   "zh": "萨拉托夫雄鹰"
+  },
+  "RUS:spartak moscow": {
+   "zh": "莫斯科斯巴达"
+  },
+  "RUS:spartak nalchik": {
+   "zh": "纳尔奇克斯巴达"
+  },
+  "RUS:spartak tambov": {
+   "zh": "坦波夫斯巴达"
+  },
+  "RUS:tambov": {
+   "zh": "坦波夫"
+  },
+  "RUS:textilshchik kamyshin": {
+   "zh": "卡梅申纺织"
+  },
+  "RUS:tom tomsk": {
+   "zh": "托木斯克汤姆"
+  },
+  "RUS:torpedo moskva": {
+   "zh": "莫斯科鱼雷"
+  },
+  "RUS:tosno": {
+   "zh": "托斯诺",
+   "gone": 2018
+  },
+  "RUS:tyumen": {
+   "zh": "秋明"
+  },
+  "RUS:ufa": {
+   "zh": "乌法"
+  },
+  "RUS:ural": {
+   "zh": "叶卡捷琳堡乌拉尔"
+  },
+  "RUS:uralan elista": {
+   "zh": "埃利斯塔乌拉兰"
+  },
+  "RUS:volga nizhniy novgorod": {
+   "zh": "下诺夫哥罗德伏尔加",
+   "gone": 2016
+  },
+  "RUS:volgar astrakhan": {
+   "zh": "阿斯特拉罕伏尔加"
+  },
+  "RUS:yenisey krasnoyarsk": {
+   "zh": "克拉斯诺亚尔斯克叶尼塞"
+  },
+  "RUS:zenit": {
+   "zh": "圣彼得堡泽尼特"
+  },
+  "RUS:zenit 2": {
+   "zh": "圣彼得堡泽尼特"
+  },
+  "RUS:zenit saint petersburg": {
+   "zh": "圣彼得堡泽尼特"
+  },
+  "RUS:zhemchuzhina sochi": {
+   "zh": "索契珍珠"
+  },
+  "RUS:znamya noginsk": {
+   "zh": "兹纳姆亚诺金斯克"
+  },
+  "SAU:abha": {
+   "zh": "艾伯哈"
+  },
+  "SAU:al ahli": {
+   "zh": "沙特国民"
+  },
+  "SAU:al ahli saudi": {
+   "zh": "沙特艾阿里"
+  },
+  "SAU:al diriyah": {
+   "zh": "迪里耶会"
+  },
+  "SAU:al ettifaq": {
+   "zh": "伊蒂法克"
+  },
+  "SAU:al fateh": {
+   "zh": "艾法特"
+  },
+  "SAU:al fayha": {
+   "zh": "艾费哈"
+  },
+  "SAU:al feiha": {
+   "zh": "费哈"
+  },
+  "SAU:al hazem": {
+   "zh": "哈泽姆"
+  },
+  "SAU:al hilal saudi": {
+   "zh": "利雅得新月"
+  },
+  "SAU:al hilal sfc": {
+   "zh": "沙特希拉尔"
+  },
+  "SAU:al ittihad": {
+   "zh": "伊蒂哈德"
+  },
+  "SAU:al khaleej saihat": {
+   "zh": "艾卡赫利"
+  },
+  "SAU:al kholood": {
+   "zh": "艾科鲁特球会"
+  },
+  "SAU:al najma": {
+   "zh": "艾拿积马"
+  },
+  "SAU:al nassr": {
+   "zh": "利雅得胜利"
+  },
+  "SAU:al okhdood": {
+   "zh": "艾科多球会"
+  },
+  "SAU:al orobah": {
+   "zh": "艾奥鲁巴"
+  },
+  "SAU:al qadsiah": {
+   "zh": "胡拜尔库迪西亚"
+  },
+  "SAU:al qadsiah saudi": {
+   "zh": "胡拜尔库迪西亚"
+  },
+  "SAU:al raed": {
+   "zh": "布赖代先锋"
+  },
+  "SAU:al raed sfc": {
+   "zh": "赖德"
+  },
+  "SAU:al riyadh saudi": {
+   "zh": "利雅得"
+  },
+  "SAU:al shabab": {
+   "zh": "利雅得青年"
+  },
+  "SAU:al taawoun": {
+   "zh": "塔亚文"
+  },
+  "SAU:al tai": {
+   "zh": "塔伊"
+  },
+  "SAU:al wehda": {
+   "zh": "艾维达"
+  },
+  "SAU:damac": {
+   "zh": "达马克"
+  },
+  "SAU:neom": {
+   "zh": "尼奥姆"
+  },
+  "SAU:neom sports": {
+   "zh": "尼奥姆"
+  },
+  "SCO:aberdeen": {
+   "zh": "阿伯丁"
+  },
+  "SCO:airdrie": {
+   "zh": "艾迪尔人"
+  },
+  "SCO:airdrie utd": {
+   "zh": "艾迪尔人"
+  },
+  "SCO:alloa": {
+   "zh": "阿洛厄"
+  },
+  "SCO:arbroath": {
+   "zh": "阿布罗斯"
+  },
+  "SCO:ayr": {
+   "zh": "艾尔联"
+  },
+  "SCO:brechin": {
+   "zh": "布里金城"
+  },
+  "SCO:celtic": {
+   "zh": "凯尔特人"
+  },
+  "SCO:clyde": {
+   "zh": "克莱德"
+  },
+  "SCO:clydebank": {
+   "zh": "克莱德班克"
+  },
+  "SCO:cove rangers": {
+   "zh": "哥维流浪"
+  },
+  "SCO:cowdenbeath": {
+   "zh": "考登比斯"
+  },
+  "SCO:dumbarton": {
+   "zh": "邓巴顿"
+  },
+  "SCO:dundee": {
+   "zh": "邓迪"
+  },
+  "SCO:dundee united": {
+   "zh": "邓迪联"
+  },
+  "SCO:dunfermline": {
+   "zh": "邓弗姆林"
+  },
+  "SCO:east fife": {
+   "zh": "东法夫"
+  },
+  "SCO:falkirk": {
+   "zh": "法尔科克"
+  },
+  "SCO:gretna": {
+   "zh": "格雷纳"
+  },
+  "SCO:hamilton": {
+   "zh": "汉密尔顿"
+  },
+  "SCO:hamilton academical": {
+   "zh": "汉密尔顿学院"
+  },
+  "SCO:heart of midlothian": {
+   "zh": "哈茨"
+  },
+  "SCO:hearts": {
+   "zh": "哈茨"
+  },
+  "SCO:hibernian": {
+   "zh": "希伯尼安"
+  },
+  "SCO:inverness c": {
+   "zh": "因弗内斯"
+  },
+  "SCO:inverness caledonian thistle": {
+   "zh": "因弗内斯"
+  },
+  "SCO:kilmarnock": {
+   "zh": "基马诺克"
+  },
+  "SCO:livingston": {
+   "zh": "利文斯顿"
+  },
+  "SCO:morton": {
+   "zh": "莫顿"
+  },
+  "SCO:motherwell": {
+   "zh": "马瑟韦尔"
+  },
+  "SCO:partick": {
+   "zh": "帕特里克蓟"
+  },
+  "SCO:partick thistle": {
+   "zh": "帕尔蒂克"
+  },
+  "SCO:queen of sth": {
+   "zh": "南方女王"
+  },
+  "SCO:queens park": {
+   "zh": "女王公园"
+  },
+  "SCO:raith rvs": {
+   "zh": "雷斯流浪者"
+  },
+  "SCO:rangers": {
+   "zh": "流浪者"
+  },
+  "SCO:ross county": {
+   "zh": "罗斯郡"
+  },
+  "SCO:st johnstone": {
+   "zh": "圣约翰斯通"
+  },
+  "SCO:st mirren": {
+   "zh": "圣米伦"
+  },
+  "SCO:stirling": {
+   "zh": "斯特林维奇"
+  },
+  "SCO:stranraer": {
+   "zh": "斯特兰拉尔"
+  },
+  "SDN:al merrikh": {
+   "zh": "阿尔梅里赫"
+  },
+  "SEN:asc jaraaf": {
+   "zh": "迪亚拉夫达卡"
+  },
+  "SEN:casa sports": {
+   "zh": "卡萨体育"
+  },
+  "SEN:diambars": {
+   "zh": "迪雅宝罗斯"
+  },
+  "SEN:generation foot": {
+   "zh": "时代足球学院"
+  },
+  "SGP:geylang united": {
+   "zh": "芽笼国际"
+  },
+  "SGP:hougang united": {
+   "zh": "后港联"
+  },
+  "SGP:warriors": {
+   "zh": "新加坡武装部队"
+  },
+  "SLV:fas": {
+   "zh": "CD法斯"
+  },
+  "SLV:independiente": {
+   "zh": "独立竞技"
+  },
+  "SMR:juvenes": {
+   "zh": "祖云尼斯杜加拿"
+  },
+  "SMR:murata": {
+   "zh": "穆拉塔体育"
+  },
+  "SMR:san marino": {
+   "zh": "圣马力诺"
+  },
+  "SMR:sp la fiorita": {
+   "zh": "拉科奥里塔"
+  },
+  "SMR:tre fiori": {
+   "zh": "泰科奥里"
+  },
+  "SRB:bezanija": {
+   "zh": "贝赞尼亚"
+  },
+  "SRB:bor": {
+   "zh": "博尔"
+  },
+  "SRB:borac cacak": {
+   "zh": "查查克"
+  },
+  "SRB:bsk borca": {
+   "zh": "博尔察"
+  },
+  "SRB:crvena zvezda": {
+   "zh": "贝尔格莱德红星"
+  },
+  "SRB:cukaricki": {
+   "zh": "楚卡瑞奇基"
+  },
+  "SRB:imt belgrad": {
+   "zh": "贝尔格莱德IMT"
+  },
+  "SRB:javor matis ivanjica": {
+   "zh": "伊万尼察枫树"
+  },
+  "SRB:jedinstvo paracin": {
+   "zh": "帕拉钦杰丁斯沃"
+  },
+  "SRB:jedinstvo ub": {
+   "zh": "乌布耶丁斯特沃"
+  },
+  "SRB:kolubara": {
+   "zh": "科卢巴拉"
+  },
+  "SRB:loznica": {
+   "zh": "FK洛兹尼卡"
+  },
+  "SRB:macva sabac": {
+   "zh": "沙巴茨之剑"
+  },
+  "SRB:mladost lucani": {
+   "zh": "马拉多特鲁卡尼"
+  },
+  "SRB:napredak krusevac": {
+   "zh": "克鲁舍瓦茨进步"
+  },
+  "SRB:novi pazar": {
+   "zh": "新帕扎尔"
+  },
+  "SRB:obilic": {
+   "zh": "奥比利奇"
+  },
+  "SRB:ofk beograd": {
+   "zh": "OFK贝尔格莱德"
+  },
+  "SRB:ofk kikinda": {
+   "zh": "基金达"
+  },
+  "SRB:ofk mladenovac": {
+   "zh": "姆拉代诺瓦茨OFK"
+  },
+  "SRB:partizan": {
+   "zh": "游击队"
+  },
+  "SRB:partizan belgrade": {
+   "zh": "游击队"
+  },
+  "SRB:polimlje": {
+   "zh": "普里耶波列"
+  },
+  "SRB:proleter zrenjanin": {
+   "zh": "兹雷尼亚宁普罗莱特"
+  },
+  "SRB:rad": {
+   "zh": "拉德"
+  },
+  "SRB:radnicki": {
+   "zh": "拉德尼基"
+  },
+  "SRB:radnicki kragujevac": {
+   "zh": "拉德尼基1923"
+  },
+  "SRB:radnicki nis": {
+   "zh": "尼什拉德尼奇基"
+  },
+  "SRB:radnicki pirot": {
+   "zh": "皮罗特"
+  },
+  "SRB:radnik surdulica": {
+   "zh": "苏尔杜利察工人"
+  },
+  "SRB:rfk novi": {
+   "zh": "诺威萨"
+  },
+  "SRB:sevojno": {
+   "zh": "塞沃伊诺"
+  },
+  "SRB:smederevo": {
+   "zh": "斯梅德拉沃萨蒂德"
+  },
+  "SRB:spartak subotica": {
+   "zh": "兹拉蒂博沃达斯巴达克"
+  },
+  "SRB:srem": {
+   "zh": "斯雷姆"
+  },
+  "SRB:tekstilac odzaci": {
+   "zh": "奥扎奇纺织"
+  },
+  "SRB:teleoptik": {
+   "zh": "泰莱奥普蒂克"
+  },
+  "SRB:tsc backa topola": {
+   "zh": "巴奇卡托波拉"
+  },
+  "SRB:vojvodina": {
+   "zh": "伏伊伏丁那"
+  },
+  "SRB:vojvodina novi": {
+   "zh": "伏伊伏丁那"
+  },
+  "SRB:vozdovac": {
+   "zh": "沃日多瓦茨"
+  },
+  "SRB:zeleznicar pancevo": {
+   "zh": "潘切沃泽伦斯尼卡"
+  },
+  "SRB:zemun": {
+   "zh": "FK泽蒙"
+  },
+  "SVK:1 kosice": {
+   "zh": "科希策"
+  },
+  "SVK:1 tatran presov": {
+   "zh": "普雷绍夫"
+  },
+  "SVK:dac dunajska streda": {
+   "zh": "多瑙斯特雷达"
+  },
+  "SVK:inter bratislava": {
+   "zh": "布拉迪斯拉发国际"
+  },
+  "SVK:kosice": {
+   "zh": "科希策"
+  },
+  "SVK:msk zilina": {
+   "zh": "日利纳"
+  },
+  "SVK:nitra": {
+   "zh": "尼特拉"
+  },
+  "SVK:petrzalka": {
+   "zh": "佩特扎尔卡"
+  },
+  "SVK:petrzalka akademia": {
+   "zh": "佩特扎尔卡"
+  },
+  "SVK:puchov": {
+   "zh": "普霍夫"
+  },
+  "SVK:slovan bratislava": {
+   "zh": "布拉迪斯拉发斯洛万体育"
+  },
+  "SVK:spartak trnava": {
+   "zh": "特纳瓦斯巴达"
+  },
+  "SVK:trencin": {
+   "zh": "特伦钦"
+  },
+  "SVK:vss kosice": {
+   "zh": "科希策"
+  },
+  "SVK:zlate moravce": {
+   "zh": "兹拉特莫拉夫采"
+  },
+  "SVK:zp podbrezova": {
+   "zh": "波德布雷佐瓦"
+  },
+  "SVN:domzale": {
+   "zh": "多姆扎莱"
+  },
+  "SVN:interblock": {
+   "zh": "英特布罗格"
+  },
+  "SVN:koper": {
+   "zh": "科佩尔"
+  },
+  "SVN:korotan prevalje": {
+   "zh": "科罗坦普雷瓦列"
+  },
+  "SVN:krka": {
+   "zh": "卡尔卡"
+  },
+  "SVN:ljubljana": {
+   "zh": "卢布尔雅那"
+  },
+  "SVN:maribor": {
+   "zh": "马里博尔"
+  },
+  "SVN:mura": {
+   "zh": "穆拉"
+  },
+  "SVN:nd gorica": {
+   "zh": "戈里察"
+  },
+  "SVN:olimpija ljubljana": {
+   "zh": "盧布爾雅那"
+  },
+  "SVN:rudar velenje": {
+   "zh": "韦莱涅鲁达"
+  },
+  "SVN:zagorje": {
+   "zh": "扎戈列"
+  },
+  "SVN:zeleznicar maribor": {
+   "zh": "马里博尔铁路工人"
+  },
+  "SWE:allmanna idrottsklubben": {
+   "zh": "索尔纳AIK"
+  },
+  "SWE:brommapojkarna": {
+   "zh": "布洛马波卡纳"
+  },
+  "SWE:degerfors": {
+   "zh": "迪加科斯"
+  },
+  "SWE:djurgardens fotboll": {
+   "zh": "尤尔格丹体育俱乐部"
+  },
+  "SWE:djurgardens idrottsforening": {
+   "zh": "佐加顿斯"
+  },
+  "SWE:elfsborg": {
+   "zh": "IF埃尔夫斯堡"
+  },
+  "SWE:fotboll": {
+   "zh": "AIK索尔纳"
+  },
+  "SWE:gais": {
+   "zh": "加尔斯"
+  },
+  "SWE:gif sundsvall": {
+   "zh": "GIF松兹瓦尔"
+  },
+  "SWE:goteborgs atlet och idrottssallskap": {
+   "zh": "哥德堡GAIS"
+  },
+  "SWE:hacken": {
+   "zh": "赫肯"
+  },
+  "SWE:halmstads": {
+   "zh": "哈尔姆斯塔德BK"
+  },
+  "SWE:hammarby": {
+   "zh": "哈马比"
+  },
+  "SWE:hammarby fotboll": {
+   "zh": "哈马比IF"
+  },
+  "SWE:helsingborgs": {
+   "zh": "赫尔辛堡"
+  },
+  "SWE:idrottsforeningen brommapojkarna": {
+   "zh": "布罗马波伊卡纳"
+  },
+  "SWE:idrottsforeningen elfsborg": {
+   "zh": "艾夫斯堡"
+  },
+  "SWE:idrottsforeningen kamraterna goteborg": {
+   "zh": "哥德堡"
+  },
+  "SWE:ifk aspudden tellus": {
+   "zh": "阿斯普登-泰勒斯体育"
+  },
+  "SWE:ifk eskilstuna": {
+   "zh": "IFK埃斯基尔斯蒂纳"
+  },
+  "SWE:ifk goteborg": {
+   "zh": "哥德堡体育"
+  },
+  "SWE:ifk hassleholm": {
+   "zh": "希斯利哥尔摩"
+  },
+  "SWE:ifk holmsund": {
+   "zh": "IFK霍尔姆松德"
+  },
+  "SWE:ifk norrkoping": {
+   "zh": "北雪平"
+  },
+  "SWE:ifk varnamo": {
+   "zh": "华纳莫"
+  },
+  "SWE:kalmar ff": {
+   "zh": "卡尔马"
+  },
+  "SWE:malmo ff": {
+   "zh": "马尔默FF"
+  },
+  "SWE:malmo fotbollforening": {
+   "zh": "马模"
+  },
+  "SWE:mjallby almanna idrottsforening": {
+   "zh": "米亚尔比"
+  },
+  "SWE:oddevold": {
+   "zh": "奥迪沃特"
+  },
+  "SWE:orgryte is": {
+   "zh": "奥基迪"
+  },
+  "SWE:orgryte is fotboll": {
+   "zh": "奥基迪"
+  },
+  "SWE:osters": {
+   "zh": "奥斯达"
+  },
+  "SWE:sirius": {
+   "zh": "天狼星竞技俱乐部"
+  },
+  "SWE:trelleborgs ff": {
+   "zh": "特雷勒堡FF"
+  },
+  "SWE:vasteras": {
+   "zh": "韦斯特罗斯"
+  },
+  "SWE:vasteras fotboll": {
+   "zh": "韦斯特罗斯SK"
+  },
+  "THA:bg pathum united": {
+   "zh": "BG巴吞联"
+  },
+  "THA:buriram united": {
+   "zh": "武里南联"
+  },
+  "THA:muangthong united": {
+   "zh": "蒙通联"
+  },
+  "THA:police united": {
+   "zh": "警察联"
+  },
+  "TUN:africain": {
+   "zh": "非洲人球会"
+  },
+  "TUN:esperance sportive tunis": {
+   "zh": "突尼斯希望"
+  },
+  "TUN:tunisien": {
+   "zh": "突尼斯人體育"
+  },
+  "TUR:a sebatspor": {
+   "zh": "阿克恰阿巴特塞巴特体育"
+  },
+  "TUR:ad demirspor": {
+   "zh": "阿达纳德米尔体育"
+  },
+  "TUR:adana demirspor": {
+   "zh": "代米尔体育"
+  },
+  "TUR:adanaspor": {
+   "zh": "艾丹拿斯堡"
+  },
+  "TUR:akhisar belediyespor": {
+   "zh": "阿克希萨尔"
+  },
+  "TUR:akhisarspor": {
+   "zh": "阿卡沙"
+  },
+  "TUR:alanyaspor": {
+   "zh": "阿拉尼亚体育"
+  },
+  "TUR:altay": {
+   "zh": "阿勒泰体育"
+  },
+  "TUR:ankaragucu": {
+   "zh": "安卡拉古朱"
+  },
+  "TUR:ankaraspor": {
+   "zh": "安卡拉"
+  },
+  "TUR:antalya": {
+   "zh": "安塔利亚"
+  },
+  "TUR:antalyaspor": {
+   "zh": "安塔利亚体育"
+  },
+  "TUR:atiker konyaspor": {
+   "zh": "科尼亚"
+  },
+  "TUR:balikesirspor": {
+   "zh": "巴勒克埃西尔体育"
+  },
+  "TUR:basaksehir": {
+   "zh": "伊斯坦布尔巴沙克舒希"
+  },
+  "TUR:bb erzurumspor": {
+   "zh": "埃尔祖鲁姆体育"
+  },
+  "TUR:besiktas": {
+   "zh": "贝西克塔斯体操"
+  },
+  "TUR:besiktas jimnastik": {
+   "zh": "贝希克塔什体操"
+  },
+  "TUR:bodrum": {
+   "zh": "博德鲁姆"
+  },
+  "TUR:bucaspor": {
+   "zh": "布卡斯波尔"
+  },
+  "TUR:bursaspor": {
+   "zh": "布尔萨体育"
+  },
+  "TUR:buyuksehyr": {
+   "zh": "伊斯坦布尔巴沙克谢希尔"
+  },
+  "TUR:caykur rizespor": {
+   "zh": "里泽体育"
+  },
+  "TUR:dardanel": {
+   "zh": "恰纳卡莱达达尼尔"
+  },
+  "TUR:dardanelspor": {
+   "zh": "达达尼尔体育"
+  },
+  "TUR:denizlispor": {
+   "zh": "代尼兹利体育"
+  },
+  "TUR:diyarbakirspor": {
+   "zh": "迪亚巴克尔体育"
+  },
+  "TUR:elazigspor": {
+   "zh": "埃拉泽体育"
+  },
+  "TUR:erciyesspor": {
+   "zh": "埃斯耶体育"
+  },
+  "TUR:erzurum": {
+   "zh": "埃尔祖鲁姆"
+  },
+  "TUR:erzurumspor": {
+   "zh": "埃尔祖鲁姆体育"
+  },
+  "TUR:eskisehirspor": {
+   "zh": "埃斯基谢希尔体育"
+  },
+  "TUR:eyupspor": {
+   "zh": "埃于普体育"
+  },
+  "TUR:fatih karagumruk": {
+   "zh": "卡拉居姆吕克"
+  },
+  "TUR:fenerbahce": {
+   "zh": "费内巴切"
+  },
+  "TUR:fenerbahce istanbul": {
+   "zh": "费内巴切体育"
+  },
+  "TUR:galatasaray": {
+   "zh": "加拉塔萨雷"
+  },
+  "TUR:gaziantep": {
+   "zh": "加斯安塔"
+  },
+  "TUR:gaziantepspor": {
+   "zh": "加济安体育"
+  },
+  "TUR:genclerbirligi": {
+   "zh": "根克勒比利基"
+  },
+  "TUR:genclerbirligi sports": {
+   "zh": "真格拿拜列治"
+  },
+  "TUR:giresunspor": {
+   "zh": "基利森亚"
+  },
+  "TUR:goztep": {
+   "zh": "格兹特佩"
+  },
+  "TUR:goztepe": {
+   "zh": "格兹泰佩SK"
+  },
+  "TUR:hacettepespor": {
+   "zh": "哈切特佩体育"
+  },
+  "TUR:hatayspor": {
+   "zh": "哈塔斯堡体育"
+  },
+  "TUR:istanbul basaksehir": {
+   "zh": "伊斯坦布尔巴沙克舒希"
+  },
+  "TUR:istanbulspor": {
+   "zh": "伊斯坦布尔体育"
+  },
+  "TUR:izmirspor": {
+   "zh": "伊士麦"
+  },
+  "TUR:karabukspor": {
+   "zh": "卡拉比克体育"
+  },
+  "TUR:kardemir karabukspor": {
+   "zh": "卡拉布克"
+  },
+  "TUR:karsiyaka": {
+   "zh": "卡尔希亚卡"
+  },
+  "TUR:kasimpasa": {
+   "zh": "卡斯帕萨"
+  },
+  "TUR:kayseri": {
+   "zh": "开塞利"
+  },
+  "TUR:kayseri erciyesspor": {
+   "zh": "埃斯耶体育"
+  },
+  "TUR:kayserispor": {
+   "zh": "开赛利体育"
+  },
+  "TUR:kocaelispor": {
+   "zh": "科贾埃利"
+  },
+  "TUR:konyaspor": {
+   "zh": "干亞士邦"
+  },
+  "TUR:kusadasispor": {
+   "zh": "库尔基斯"
+  },
+  "TUR:malatyaspor": {
+   "zh": "新马拉蒂亚体育"
+  },
+  "TUR:manisa": {
+   "zh": "马尼萨FK"
+  },
+  "TUR:manisaspor": {
+   "zh": "科尼亚体育"
+  },
+  "TUR:mersin idman yurdu": {
+   "zh": "梅尔辛伊德玛尤德"
+  },
+  "TUR:mersin talimyurdu": {
+   "zh": "梅尔辛"
+  },
+  "TUR:mke ankaragucu": {
+   "zh": "MKE安卡华高古"
+  },
+  "TUR:oftasspor": {
+   "zh": "奥夫塔什体育"
+  },
+  "TUR:orduspor": {
+   "zh": "奥杜斯普尔"
+  },
+  "TUR:p ofisi": {
+   "zh": "石油办公室"
+  },
+  "TUR:pendikspor": {
+   "zh": "佩迪卡斯堡"
+  },
+  "TUR:rizespor": {
+   "zh": "里泽体育"
+  },
+  "TUR:sakaryaspor": {
+   "zh": "阿达帕扎勒体育"
+  },
+  "TUR:samsunspor": {
+   "zh": "萨姆松体育"
+  },
+  "TUR:sariyer": {
+   "zh": "萨勒耶尔"
+  },
+  "TUR:sekerspor": {
+   "zh": "谢克尔体育"
+  },
+  "TUR:siirt jet pa": {
+   "zh": "锡尔特"
+  },
+  "TUR:sivasspor": {
+   "zh": "锡瓦斯体育"
+  },
+  "TUR:trabzonspor": {
+   "zh": "特拉布宗体育"
+  },
+  "TUR:umraniyespor": {
+   "zh": "于姆拉尼耶体育"
+  },
+  "TUR:vanspor": {
+   "zh": "凡体育"
+  },
+  "TUR:yeni malatyaspor": {
+   "zh": "新马拉蒂亚体育"
+  },
+  "TUR:yozgatspor": {
+   "zh": "沃斯贾士堡"
+  },
+  "TUR:zeytinburnu": {
+   "zh": "宰廷布尔努"
+  },
+  "TUR:zeytinburnuspor": {
+   "zh": "斯廷堡奴士邦"
+  },
+  "UKR:arsenal kyiv": {
+   "zh": "基辅兵工厂"
+  },
+  "UKR:borysfen boryspil": {
+   "zh": "博里斯芬"
+  },
+  "UKR:cherkashchyna": {
+   "zh": "切尔卡瑟第聂伯"
+  },
+  "UKR:chornomorets odesa": {
+   "zh": "敖德萨黑海人"
+  },
+  "UKR:desna chernigiv": {
+   "zh": "切尔尼戈夫德斯纳"
+  },
+  "UKR:desna chernihiv": {
+   "zh": "切尔尼戈夫迪斯拿"
+  },
+  "UKR:dnipro": {
+   "zh": "迪尼普"
+  },
+  "UKR:dnipro 1": {
+   "zh": "迪尼普-1"
+  },
+  "UKR:dnipro dnipropetrovsk": {
+   "zh": "迪尼普"
+  },
+  "UKR:dynamo 2 kyiv": {
+   "zh": "基辅迪纳摩2队"
+  },
+  "UKR:dynamo 3 kyiv": {
+   "zh": "基辅迪纳摩"
+  },
+  "UKR:dynamo kyiv": {
+   "zh": "基辅迪纳摩"
+  },
+  "UKR:epicentr kamyanets podilskyi": {
+   "zh": "波多利斯克卡缅涅茨"
+  },
+  "UKR:goverla uzhgorod": {
+   "zh": "乌日哥罗德霍维尔拉"
+  },
+  "UKR:hoverla uzhhorod": {
+   "zh": "乌日霍罗德霍韦尔拉"
+  },
+  "UKR:ingulets petrove": {
+   "zh": "彼得罗韦伊尼胡列斯"
+  },
+  "UKR:karpaty lviv": {
+   "zh": "利沃夫喀尔巴阡"
+  },
+  "UKR:kolos kovalivka": {
+   "zh": "高洛斯高华列夫卡"
+  },
+  "UKR:kryvbas kryvyi rig": {
+   "zh": "克里维里赫"
+  },
+  "UKR:kudrivka": {
+   "zh": "库德里夫卡"
+  },
+  "UKR:livyi bereg kyiv": {
+   "zh": "基辅左岸"
+  },
+  "UKR:lnz cherkasy": {
+   "zh": "LNZ切尔卡瑟"
+  },
+  "UKR:mariupol": {
+   "zh": "马里乌波尔"
+  },
+  "UKR:metalist kharkiv": {
+   "zh": "哈尔科夫冶金工人"
+  },
+  "UKR:metalurg donetsk": {
+   "zh": "顿涅茨克冶金工人"
+  },
+  "UKR:metalurg zaporizhya": {
+   "zh": "扎波罗热冶金"
+  },
+  "UKR:metalurh donetsk": {
+   "zh": "顿涅茨克冶金工人"
+  },
+  "UKR:minaj": {
+   "zh": "米奈"
+  },
+  "UKR:naftovyk ukrnafta okhtyrka": {
+   "zh": "纳夫托维克"
+  },
+  "UKR:nyva ternopil": {
+   "zh": "尼瓦捷尔诺波尔"
+  },
+  "UKR:obolon kyiv": {
+   "zh": "基辅奥博隆"
+  },
+  "UKR:odesa": {
+   "zh": "敖德萨黑海人"
+  },
+  "UKR:oleksandriya": {
+   "zh": "亚历山德里亚"
+  },
+  "UKR:olimpik donetsk": {
+   "zh": "奥林比当尼斯克"
+  },
+  "UKR:pfk lviv": {
+   "zh": "利沃夫"
+  },
+  "UKR:pfk stal kamyanske": {
+   "zh": "卡缅斯克钢铁"
+  },
+  "UKR:polissya zhytomyr": {
+   "zh": "日托米尔波利西亚"
+  },
+  "UKR:poltava": {
+   "zh": "波尔塔瓦"
+  },
+  "UKR:rukh lviv": {
+   "zh": "利沃夫运动"
+  },
+  "UKR:shakhtar 2 donetsk": {
+   "zh": "顿涅茨克矿工"
+  },
+  "UKR:shakhtar donetsk": {
+   "zh": "顿涅茨克矿工"
+  },
+  "UKR:tavriya simferopol": {
+   "zh": "辛菲罗波尔塔夫里亚"
+  },
+  "UKR:tov metalist kharkiv": {
+   "zh": "哈尔科夫金属1925"
+  },
+  "UKR:veres rivne": {
+   "zh": "华维斯利夫纳"
+  },
+  "UKR:volyn lutsk": {
+   "zh": "沃伦卢茨克"
+  },
+  "UKR:vorskla poltava": {
+   "zh": "波尔塔瓦沃尔斯克拉"
+  },
+  "UKR:zirka kropyvnytskyi": {
+   "zh": "兹尔卡基洛夫格勒"
+  },
+  "UKR:zorya lugansk": {
+   "zh": "卢甘斯克索尔亚"
+  },
+  "UKR:zorya luhansk": {
+   "zh": "卢甘斯克索尔亚"
+  },
+  "URY:atletico penarol": {
+   "zh": "佩纳罗尔竞技"
+  },
+  "URY:atletico river plate": {
+   "zh": "河床竞技"
+  },
+  "URY:bella vista": {
+   "zh": "贝亚维斯塔竞技"
+  },
+  "URY:boston river": {
+   "zh": "波士顿河竞技"
+  },
+  "URY:central espanol": {
+   "zh": "中央西班牙人"
+  },
+  "URY:centro atletico fenix": {
+   "zh": "凤凰竞技中心"
+  },
+  "URY:cerro": {
+   "zh": "塞罗竞技"
+  },
+  "URY:danubio": {
+   "zh": "多瑙河"
+  },
+  "URY:defensor sporting": {
+   "zh": "捍卫者"
+  },
+  "URY:deportivo maldonado": {
+   "zh": "马尔多纳多"
+  },
+  "URY:juventud las piedras": {
+   "zh": "拿斯派达斯青年"
+  },
+  "URY:montevideo wanderers": {
+   "zh": "蒙得维的亚流浪者"
+  },
+  "URY:nacional": {
+   "zh": "民族"
+  },
+  "URY:plaza colonia": {
+   "zh": "科洛尼亚广场"
+  },
+  "URY:progreso": {
+   "zh": "普格雷素"
+  },
+  "URY:racing montevideo": {
+   "zh": "蒙得维的亚竞赛"
+  },
+  "URY:rentistas": {
+   "zh": "伦蒂斯塔"
+  },
+  "URY:sud america": {
+   "zh": "美洲太阳"
+  },
+  "USA:atlanta silverbacks": {
+   "zh": "亚特兰大银背猩"
+  },
+  "USA:atlanta united": {
+   "zh": "亚特兰大联"
+  },
+  "USA:atlanta united 2": {
+   "zh": "阿特兰大联"
+  },
+  "USA:austin": {
+   "zh": "FC奥斯汀"
+  },
+  "USA:austin bold": {
+   "zh": "奥斯汀强悍"
+  },
+  "USA:boston storm": {
+   "zh": "波士顿传承"
+  },
+  "USA:charleston battery": {
+   "zh": "查爾斯頓砲台"
+  },
+  "USA:charlotte": {
+   "zh": "夏洛特"
+  },
+  "USA:chicago fire": {
+   "zh": "芝加哥火焰"
+  },
+  "USA:chicago fire soccer": {
+   "zh": "芝加哥火焰"
+  },
+  "USA:chivas usa": {
+   "zh": "美国芝华士"
+  },
+  "USA:cincinnati": {
+   "zh": "辛辛那提"
+  },
+  "USA:cincinnati 2": {
+   "zh": "辛辛那提"
+  },
+  "USA:colorado rapids": {
+   "zh": "科罗拉多急流"
+  },
+  "USA:columbus crew": {
+   "zh": "哥伦布机员"
+  },
+  "USA:dallas": {
+   "zh": "达拉斯"
+  },
+  "USA:dc united": {
+   "zh": "华盛顿特区联"
+  },
+  "USA:foot montreal": {
+   "zh": "蒙特利尔"
+  },
+  "USA:fort lauderdale strikers": {
+   "zh": "劳德代尔堡前锋"
+  },
+  "USA:forward madison": {
+   "zh": "麦迪逊前锋"
+  },
+  "USA:houston dynamo": {
+   "zh": "休斯敦迪纳摩"
+  },
+  "USA:inter miami": {
+   "zh": "迈阿密国际"
+  },
+  "USA:internacional miami": {
+   "zh": "迈阿密国际"
+  },
+  "USA:la galaxy": {
+   "zh": "洛杉矶银河"
+  },
+  "USA:las vegas lights": {
+   "zh": "拉斯维加斯灯火"
+  },
+  "USA:long island rough riders": {
+   "zh": "长岛狂野骑士"
+  },
+  "USA:los angeles": {
+   "zh": "洛杉矶FC"
+  },
+  "USA:los angeles aztecs": {
+   "zh": "洛杉磯阿芝特克人"
+  },
+  "USA:los angeles heat": {
+   "zh": "洛杉矶公羊"
+  },
+  "USA:memphis 901": {
+   "zh": "孟菲斯901FC"
+  },
+  "USA:miami city": {
+   "zh": "迈阿密"
+  },
+  "USA:miami fusion": {
+   "zh": "迈阿密熔解队"
+  },
+  "USA:miami united": {
+   "zh": "迈阿密国际"
+  },
+  "USA:milwaukee rampage": {
+   "zh": "密尔沃基狂舞队"
+  },
+  "USA:minnesota thunder": {
+   "zh": "明尼苏达风暴"
+  },
+  "USA:minnesota united": {
+   "zh": "明尼苏达联"
+  },
+  "USA:montreal impact": {
+   "zh": "蒙特利尔"
+  },
+  "USA:nashville": {
+   "zh": "拿舒维尔"
+  },
+  "USA:new england revolution": {
+   "zh": "新英格兰革命"
+  },
+  "USA:new york city": {
+   "zh": "纽约城"
+  },
+  "USA:new york cosmos": {
+   "zh": "纽约宇宙"
+  },
+  "USA:new york red bulls": {
+   "zh": "纽约红牛"
+  },
+  "USA:north carolina": {
+   "zh": "北卡罗莱纳"
+  },
+  "USA:north jersey imperials": {
+   "zh": "北泽西帝国"
+  },
+  "USA:orange county blue star": {
+   "zh": "橙郡蓝星"
+  },
+  "USA:orlando city": {
+   "zh": "奥兰多城"
+  },
+  "USA:orlando city soccer": {
+   "zh": "奥兰多城"
+  },
+  "USA:philadelphia union": {
+   "zh": "费城联"
+  },
+  "USA:phoenix rising": {
+   "zh": "亚利桑那联队"
+  },
+  "USA:portland timbers": {
+   "zh": "波特兰木材"
+  },
+  "USA:rayo okc": {
+   "zh": "奥克拉荷马城闪电"
+  },
+  "USA:real salt lake": {
+   "zh": "皇家盐湖城"
+  },
+  "USA:red bull new york": {
+   "zh": "纽约红牛"
+  },
+  "USA:richmond kickers": {
+   "zh": "里士满踢球者"
+  },
+  "USA:san diego": {
+   "zh": "圣地亚哥"
+  },
+  "USA:san diego sockers": {
+   "zh": "圣迭戈袜子"
+  },
+  "USA:san jose earthquakes": {
+   "zh": "圣何塞地震"
+  },
+  "USA:seattle sounders": {
+   "zh": "西雅图鸣响器"
+  },
+  "USA:sporting kansas city": {
+   "zh": "堪萨斯城体育会"
+  },
+  "USA:st louis city": {
+   "zh": "圣路易城"
+  },
+  "USA:st louis city soccer": {
+   "zh": "圣路易斯城"
+  },
+  "USA:st louis strikers": {
+   "zh": "圣路易斯前锋"
+  },
+  "USA:tacoma defiance": {
+   "zh": "塔科马反抗"
+  },
+  "USA:tampa bay mutiny": {
+   "zh": "坦帕湾反叛"
+  },
+  "USA:tampa bay rowdies": {
+   "zh": "坦帕湾罗迪斯"
+  },
+  "USA:toronto": {
+   "zh": "多伦多FC"
+  },
+  "USA:vancouver whitecaps": {
+   "zh": "温哥华白浪"
+  },
+  "USA:virginia beach mariners": {
+   "zh": "汉普顿路水手"
+  },
+  "UZB:bunyodkor": {
+   "zh": "宾约哥"
+  },
+  "UZB:mashal mubarek": {
+   "zh": "穆巴拉克火炬"
+  },
+  "UZB:pakhtakor tashkent": {
+   "zh": "塔什干棉农"
+  },
+  "VEN:asociacion civil deportivo lara": {
+   "zh": "拉腊竞技"
+  },
+  "VEN:asociacion civil mineros guayana": {
+   "zh": "瓜亚那矿工"
+  },
+  "VEN:caracas": {
+   "zh": "加拉加斯"
+  },
+  "VNM:haiphong": {
+   "zh": "海防"
+  },
+  "VNM:hanoi": {
+   "zh": "河内T&T"
+  },
+  "VNM:hoang anh gia lai": {
+   "zh": "嘉莱黄莺"
+  },
+  "VNM:sai gon": {
+   "zh": "西贡"
+  },
+  "VNM:song lam nghe an": {
+   "zh": "乂安蓝江"
+  },
+  "XKS:prishtina": {
+   "zh": "普里什蒂纳"
+  },
+  "ZAF:bidvest wits": {
+   "zh": "拜维思"
+  },
+  "ZAF:cape town city": {
+   "zh": "开普敦马刺"
+  },
+  "ZAF:cape town spurs": {
+   "zh": "开普敦马刺"
+  },
+  "ZAF:kaizer chiefs": {
+   "zh": "凯萨酋长"
+  },
+  "ZAF:mamelodi sundowns": {
+   "zh": "马梅洛迪日落"
+  },
+  "ZAF:orlando pirates": {
+   "zh": "奥兰多海盗"
+  },
+  "ZMB:power dynamos": {
+   "zh": "动力发电机"
+  }
+ }
+}

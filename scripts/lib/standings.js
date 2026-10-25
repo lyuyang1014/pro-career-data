@@ -104,29 +104,51 @@ function complete(rows, strict) {
   return max >= 10 && min >= max * 0.75 && games >= (rows.length * (rows.length - 1)) / (strict ? 1 : 2) * 0.8;
 }
 
-/** RSSSF 甲 A：页面里第一张 「 1. 队名  T W D L Gf Ga Pts」表 */
-function loadRsssfChina(cache) {
-  const out = {};
-  for (let y = 1994; y <= 2003; y++) {
-    const file = path.join(cache, 'rsssf', 'china' + String(y).slice(2) + '.html');
-    if (!fs.existsSync(file)) continue;
-    const raw = fs.readFileSync(file, 'latin1');
-    const text = raw.replace(/\t/g, '  ').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ');
-    const author = (/(?:Author|Authors?)\s*:\s*([^\n]+)/i.exec(text) || /Prepared and maintained by ([^\n]+)/i.exec(text) || [])[1] || '';
-    const lines = text.split('\n');
-    const rows = [];
-    let started = false;
-    for (const line of lines) {
-      const m = /^\s*(\d{1,2})\.\s*(.+?)\s{2,}(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s*-?\s*(\d+)\s+(-?\d+)/.exec(line);
-      if (m) {
-        started = true;
-        rows.push({ pos: Number(m[1]), team: m[2].trim(), p: +m[3], w: +m[4], d: +m[5], l: +m[6], gf: +m[7], ga: +m[8], pts: +m[9] });
-      } else if (started && rows.length >= 10 && /^\s*$/.test(line)) break;
-    }
-    // 并列名次的行 RSSSF 不写序号：按出现顺序补
-    rows.forEach((r, i) => { r.pos = i + 1; });
-    out[y] = { rows, author: author.trim(), url: 'https://www.rsssf.org/tablesc/china' + String(y).slice(2) + '.html' };
+/**
+ * RSSSF 积分榜页面：页面里第一张「 1. 队名  T W D L Gf Ga Pts」表
+ *   中国：甲 A / 中超 1994–2024（2020、2021 分组赛制不收）；俄罗斯：俄超 1993–2010（自然年赛季；1992 分组赛制不收）
+ */
+const RSSSF_PAGES = {
+  CHN1: { dir: 'tablesc', file: (y) => 'china' + (y < 2010 ? String(y).slice(2) : y), from: 1994, to: 2024, skip: [2020, 2021] },
+  RUS1: { dir: 'tablesr', file: (y) => 'rus' + (y < 2010 ? String(y).slice(2) : y), from: 1993, to: 2010, skip: [] }
+};
+function rsssfUrl(code, y) { const c = RSSSF_PAGES[code]; return 'https://www.rsssf.org/' + c.dir + '/' + c.file(y) + '.html'; }
+function decode(file) {
+  const b = fs.readFileSync(file);
+  return b[0] === 0xff && b[1] === 0xfe ? b.toString('utf16le') : b.toString('latin1');
+}
+function parseRsssf(file) {
+  const text = decode(file).replace(/\r/g, '').replace(/\t/g, '  ').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&nbsp;/g, ' ').replace(/&[a-z]+;/g, '');
+  const author = (/(?:Author|Authors?)\s*:\s*([^\n]+)/i.exec(text) || /Prepared and maintained by ([^\n]+)/i.exec(text) || [])[1] || '';
+  // 页面里可能有好几张表（杯赛小组、次级联赛）；分隔线不断表，空行断表
+  const blocks = [];
+  let rows = null;
+  for (const line of text.split('\n')) {
+    // 并列名次的行不写序号；队名后面可能跟（城市）；进失球之间可能没有连字符
+    const m = /^\s*(?:(\d{1,2})\.?)?\s*([A-Za-z][^\n]*?)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s+(\d+)\s*-?\s*(\d+)\s+(-?\d+)/.exec(line);
+    if (m && (m[1] || rows) && +m[3] === +m[4] + +m[5] + +m[6]) {
+      if (!rows) blocks.push((rows = []));
+      rows.push({ team: m[2].replace(/\s*\([^)]*\)\s*$/, '').trim(), p: +m[3], w: +m[4], d: +m[5], l: +m[6], gf: +m[7], ga: +m[8], pts: +m[9] });
+    } else if (!/^\s*(-\s*){10,}$/.test(line)) rows = null;
   }
+  // 顶级联赛在页面最前：取第一张踢满双循环的表
+  rows = blocks.filter((b) => b.length >= 10 && complete(b, true))[0] || [];
+  rows.forEach((r, i) => { r.pos = i + 1; });
+  return { rows, author: author.trim() };
+}
+function loadRsssf(cache) {
+  const out = {};
+  Object.keys(RSSSF_PAGES).forEach((code) => {
+    const c = RSSSF_PAGES[code];
+    out[code] = {};
+    for (let y = c.from; y <= c.to; y++) {
+      if (c.skip.indexOf(y) >= 0) continue;
+      const file = path.join(cache, 'rsssf', c.file(y) + '.html');
+      if (!fs.existsSync(file)) continue;
+      const r = parseRsssf(file);
+      out[code][y] = { rows: r.rows, author: r.author, url: rsssfUrl(code, y) };
+    }
+  });
   return out;
 }
 
@@ -137,7 +159,7 @@ function build(cache) {
   const of = loadOpenfootball(cache);
   const tm = loadTransfermarkt(cache, LEAGUES.filter((l) => l.tm).map((l) => l.tm));
   const es = loadEngsoccer(cache, LEAGUES.filter((l) => l.es).map((l) => l.es));
-  const rs = loadRsssfChina(cache);
+  const rs = loadRsssf(cache);
   const rows = [];
   const coverage = {};
   const rsssfPages = [];
@@ -159,9 +181,10 @@ function build(cache) {
         // 数据冻结前最后一个自然年赛季可能还没踢完：要求踢完双循环的八成
         if (complete(t, lg.calendar && s === FUTURE_FROM - 1)) { picked = { source: c.source, license: c.license, rows: t }; break; }
       }
-      if (!picked && lg.rsssf && rs[s] && rs[s].rows.length >= 10) {
-        picked = { source: 'RSSSF', license: 'RSSSF', rows: rs[s].rows };
-        rsssfPages.push({ season: s, url: rs[s].url, author: rs[s].author });
+      const rp = rs[lg.code] && rs[lg.code][s];
+      if (!picked && rp && rp.rows.length >= 10 && complete(rp.rows, true)) {
+        picked = { source: 'RSSSF', license: 'RSSSF', rows: rp.rows };
+        rsssfPages.push({ league: lg.code, season: s, url: rp.url, author: rp.author });
       }
       if (!picked) continue;
       coverage[lg.code][s] = picked.source;
@@ -174,4 +197,4 @@ function build(cache) {
   return { rows, coverage, rsssfPages };
 }
 
-module.exports = { build, table, complete, loadRsssfChina };
+module.exports = { build, table, complete, loadRsssf, RSSSF_PAGES, rsssfUrl };

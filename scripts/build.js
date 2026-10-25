@@ -12,7 +12,7 @@
  *   data/cc0/stars.json                    同年球星池和效力记录（Wikidata，CC0）
  *   data/gpl/standings.csv                 engsoccerdata（GPL-2.0-or-later）算出的联赛积分榜
  *   data/gpl/champions-league.json         欧冠 1990/91–2010/11（engsoccerdata）
- *   data/rsssf/china-jia-a-1994-2003.csv   中国甲 A 积分榜（RSSSF，逐页署名）
+ *   data/rsssf/standings.csv               中国甲 A / 中超 1994–2024、俄超 1993–2010 积分榜（RSSSF，逐页署名）
  *   data/cc-by-3.0-igo/births.csv          各国逐年出生人数（UN WPP 2024，CC BY 3.0 IGO）
  *   data/manifest.json                     版本、生成时间、各联赛各赛季用的是哪个来源
  */
@@ -23,6 +23,7 @@ const standings = require('./lib/standings');
 const tournaments = require('./lib/tournaments');
 const nations = require('./lib/nations');
 const wikidata = require('./lib/wikidata');
+const { cleanSpells } = require('./lib/stars');
 const { LEAGUES, FUTURE_FROM, FIRST_SEASON } = require('./lib/leagues');
 
 const ROOT = path.resolve(__dirname, '..');
@@ -34,6 +35,7 @@ const VERSION = require('../package.json').version;
 const STAR_FROM = 1958;
 const STAR_TO = 2010;
 const STAR_PER_YEAR = 60;
+const STARS_HEAD = () => ['许可：CC0 1.0（Wikidata）', '查询：' + STAR_FROM + '–' + STAR_TO + ' 每个出生年按维基百科语言版本数取前 ' + STAR_PER_YEAR + ' 名男子球员，效力记录取 P54（去掉国家队、青年队、预备队）；从 16 岁算起、38 岁后开始的记录去掉、没写结束年份的老将按 36 岁结束（scripts/lib/stars.js）；公开仓库 ' + REPO];
 
 const HEAD = {
   cc0: ['许可：CC0 1.0（openfootball 为公有领域，transfermarkt-datasets / martj42 / Wikidata 为 CC0）', '来源和版本见 SOURCES.md；公开仓库 ' + REPO],
@@ -57,9 +59,9 @@ function main() {
   csv.write(path.join(DATA, 'cc0', 'standings.csv'), COLS, st.rows.filter((r) => r.license === 'CC0'), HEAD.cc0);
   csv.write(path.join(DATA, 'gpl', 'standings.csv'), COLS, st.rows.filter((r) => r.license === 'GPL-2.0-or-later'), HEAD.gpl);
   const pages = {};
-  st.rsssfPages.forEach((p) => { pages[p.season] = p; });
-  csv.write(path.join(DATA, 'rsssf', 'china-jia-a-1994-2003.csv'), COLS.concat(['url', 'author']),
-    st.rows.filter((r) => r.license === 'RSSSF').map((r) => Object.assign({}, r, { url: pages[r.season].url, author: pages[r.season].author })), HEAD.rsssf);
+  st.rsssfPages.forEach((p) => { pages[p.league + p.season] = p; });
+  csv.write(path.join(DATA, 'rsssf', 'standings.csv'), COLS.concat(['url', 'author']),
+    st.rows.filter((r) => r.license === 'RSSSF').map((r) => Object.assign({}, r, { url: pages[r.league + r.season].url, author: pages[r.league + r.season].author })), HEAD.rsssf);
 
   console.log('出生人数…');
   const { countries, births } = nations.loadBirths(CACHE, 1960, 2015);
@@ -77,8 +79,9 @@ function main() {
   writeJson('gpl/champions-league.json', HEAD.gpl, { seasons: cl.filter((s) => s.license !== 'CC0') });
 
   console.log('Wikidata 球星…');
-  const stars = wikidata.stars(CACHE, { from: STAR_FROM, to: STAR_TO, perYear: STAR_PER_YEAR, refresh: process.argv.includes('--refresh-wikidata') });
-  writeJson('cc0/stars.json', ['许可：CC0 1.0（Wikidata）', '查询：' + STAR_FROM + '–' + STAR_TO + ' 每个出生年按维基百科语言版本数取前 ' + STAR_PER_YEAR + ' 名男子球员，效力记录取 P54（去掉国家队、青年队、预备队）；公开仓库 ' + REPO], { stars });
+  const stars = wikidata.stars(CACHE, { from: STAR_FROM, to: STAR_TO, perYear: STAR_PER_YEAR, refresh: process.argv.includes('--refresh-wikidata') })
+    .map((st) => Object.assign({}, st, { spells: cleanSpells(st.spells, st.born, FUTURE_FROM - 1) })).filter((st) => st.spells.length);
+  writeJson('cc0/stars.json', STARS_HEAD(), { stars });
 
   const coverage = {};
   LEAGUES.forEach((l) => { coverage[l.code] = st.coverage[l.code]; });
